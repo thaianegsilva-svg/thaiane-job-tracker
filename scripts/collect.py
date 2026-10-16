@@ -33,11 +33,12 @@ def classify(job):
     text = norm(job.get('description', ''))
     missing, rejected = [], []
     role = bool(re.search(r'design|diretor.*arte|direcao.*arte|branding', title))
-    if re.search(r'ux|ui\b|product design|produto|web design|instrucional|interiores|moda|game|engineer', title):
+    if re.search(r'ux|ui\b|product design|produto|web design|instrucional|interiores|moda|game|engineer|frontend|front.end|design system|experiencia do usuario|service design|content design|designer de sites|fp&a|analista de processos|employer branding', title):
         rejected.append('Especialidade fora do foco principal do perfil')
     if re.search(r'estagi|junior|\bjr\b|aprendiz', title):
         rejected.append('Senioridade inicial fora do foco desta busca')
     if not role: rejected.append('Cargo fora do foco')
+    if not job.get('active', True): rejected.append('Inscrições encerradas ou vaga inativa')
     if job['workMode'] == 'hybrid':
         if norm(job.get('city')) != norm(CONFIG['criteria']['hybridCity']):
             if job.get('city'): rejected.append('Híbrido fora de Belo Horizonte')
@@ -109,6 +110,8 @@ def main():
     path = ROOT / 'data' / 'jobs.json'
     old = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'jobs': [], 'runs': []}
     jobs = {j['id']: j for j in old['jobs']}
+    override_path = ROOT / 'data' / 'verified.json'
+    overrides = json.loads(override_path.read_text(encoding='utf-8')) if override_path.exists() else {}
     errors, fetched = [], set()
     pages = 0
     for query in CONFIG['queries']:
@@ -131,6 +134,15 @@ def main():
                 time.sleep(.6)
         except Exception as exc:
             errors.append({'source': 'Remotar', 'query': query, 'error': type(exc).__name__})
+    for job_id, override in overrides.items():
+        if job_id not in jobs: continue
+        job = jobs[job_id]
+        job['verification'] = override
+        job['applicationNote'] = override['note']
+        if override.get('closed'):
+            job['active'] = False
+            job['eligibility'] = 'excluded'
+            job['rejectionReasons'] = list(dict.fromkeys(job['rejectionReasons'] + ['Inscrições encerradas na página original']))
     run = {'at': now, 'fetched': len(fetched), 'pages': pages, 'errors': errors, 'status': 'failed' if not pages else ('partial' if errors else 'success')}
     result = {'updatedAt': now, 'lastSuccessAt': now if not errors else old.get('lastSuccessAt'),
               'coverage': 'Remotar: até 3 páginas por termo. Outras fontes: pesquisa assistida pelo Codex.',

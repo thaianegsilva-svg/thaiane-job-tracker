@@ -27,6 +27,7 @@ Uma automação assistida do Codex complementa a pesquisa nas outras fontes, rev
 - Notas, favoritos e etapas manuais são salvos **no navegador**, sem sincronização automática entre dispositivos. Exportação/importação JSON permite backup e transferência.
 - Atualizar painel consulta o último JSON publicado; não inicia uma coleta no servidor. Para coletar imediatamente, execute o workflow em Actions.
 - `data/jobs.json` guarda registros compartilhados de coleta/ações verificadas. Não publicar telefone, endereço, currículo, e-mail pessoal, credenciais nem conteúdo privado de conversas.
+- `data/verified.json` preserva verificações assistidas da página original, incluindo seleções encerradas que o agregador ainda divulga. Remover ou revisar uma marca de encerramento somente com evidência nova da fonte original.
 - `score` é uma heurística por sinais de ferramentas e especialidades, **não uma probabilidade de contratação**. Sempre conferir todos os requisitos no anúncio original.
 - Resultados não revisitados há 48h ficam desatualizados. Uma vaga ainda listada pela fonte pode já estar encerrada na empresa; validar na candidatura.
 

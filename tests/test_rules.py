@@ -21,6 +21,8 @@ class EligibilityTests(unittest.TestCase):
     def test_hybrid_other_city_excluded(self): self.assertEqual(self.job(workMode='hybrid',city='São Paulo',officeDays=2)['eligibility'],'excluded')
     def test_three_days_excluded(self): self.assertEqual(self.job(workMode='hybrid',city='Belo Horizonte',officeDays=3)['eligibility'],'excluded')
     def test_ux_not_assumed(self): self.assertEqual(self.job(title='Senior Product Designer UX')['eligibility'],'excluded')
+    def test_closed_not_eligible(self): self.assertEqual(self.job(active=False)['eligibility'],'excluded')
+    def test_frontend_not_graphic_design(self): self.assertEqual(self.job(title='Especialista FrontEnd Design System')['eligibility'],'excluded')
     def test_source_salary_is_cents(self):
         job=convert(dict(id=1,title='Designer Gráfico',active=True,type='remote',jobSalary=dict(type='monthly',currency='BRL',**{'from':300000,'to':500000})), '2026-10-16T00:00:00+00:00')
         self.assertEqual(job['salary']['min'],3000)
