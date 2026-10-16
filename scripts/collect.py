@@ -46,6 +46,15 @@ def deduplicate(jobs):
             kept['duplicateIds'] = sorted(set(kept.get('duplicateIds', []) + job.get('duplicateIds', []) + [job['id']]))
     return list(by_url.values())
 
+def close_excluded(jobs):
+    for job in jobs:
+        if job.get('eligibility') == 'excluded':
+            if job.get('applicationStatus', 'not_applied') != 'closed':
+                job['previousApplicationStatus'] = job.get('applicationStatus', 'not_applied')
+            job['applicationStatus'] = 'closed'
+            job['closedReason'] = 'Encerrada no acompanhamento por estar fora dos critérios da candidata.'
+    return jobs
+
 def get_json(url):
     request = urllib.request.Request(url, headers={'User-Agent': 'ThaianeJobTracker/1.0 (public job discovery)', 'Accept': 'application/json'})
     for attempt in range(3):
@@ -186,7 +195,7 @@ def main():
     run = {'at': now, 'fetched': len(fetched), 'pages': pages, 'errors': errors, 'status': 'failed' if not pages else ('partial' if errors else 'success')}
     result = {'updatedAt': now, 'lastSuccessAt': now if not errors else old.get('lastSuccessAt'),
               'coverage': 'Remotar: até 3 páginas por termo. LinkedIn e outras fontes: pesquisa assistida pelo Codex; cada vaga mantém a data da própria verificação.',
-              'jobs': sorted(deduplicate(jobs.values()), key=lambda j: (j['eligibility'] == 'excluded', -j['score'], j.get('publishedAt') or '' )),
+              'jobs': sorted(close_excluded(deduplicate(jobs.values())), key=lambda j: (j['eligibility'] == 'excluded', -j['score'], j.get('publishedAt') or '' )),
               'runs': ([run] + old.get('runs', []))[:30]}
     path.parent.mkdir(exist_ok=True)
     path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

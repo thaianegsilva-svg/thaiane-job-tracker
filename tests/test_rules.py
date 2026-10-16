@@ -2,9 +2,21 @@ import sys
 import unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from collect import classify, convert, public_assisted, deduplicate
+from collect import classify, convert, public_assisted, deduplicate, close_excluded
 
 class EligibilityTests(unittest.TestCase):
+    def test_close_excluded_preserves_contact_and_source_activity(self):
+        job=dict(eligibility='excluded',applicationStatus='contacted',active=True,contactStatus='sent',rejectionReasons=['Figma obrigatório'])
+        close_excluded([job])
+        self.assertEqual(job['applicationStatus'],'closed')
+        self.assertEqual(job['previousApplicationStatus'],'contacted')
+        self.assertEqual(job['contactStatus'],'sent')
+        self.assertTrue(job['active'])
+        self.assertEqual(job['rejectionReasons'],['Figma obrigatório'])
+    def test_pending_application_is_not_closed(self):
+        job=dict(eligibility='pending',applicationStatus='preparing')
+        close_excluded([job])
+        self.assertEqual(job['applicationStatus'],'preparing')
     def test_duplicate_application_prefers_assisted_review(self):
         jobs=[dict(id='feed-1',source='Remotar',applyUrl='https://jobs.example/job/1/application?source=feed'),dict(id='review-1',source='LinkedIn',applyUrl='https://jobs.example/job/1/?source=linkedin')]
         result=deduplicate(jobs)

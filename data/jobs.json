@@ -1377,7 +1377,7 @@
       "description": "Buscamos uma pessoa Designer Criativo Sênior para atuar em contrato temporário de 6 meses no time de Criação do Grupo OLX. O profissional será responsável por liderar conceitualmente projetos de marca e comunicação, desde o desafio inicial até a entrega final, em um ambiente dinâmico e colaborativo. Responsabilidades Liderar conceitualmente projetos de criação, traduzindo desafios de negócio e comunicação em ideias relevantes e consistentes. Desenvolver conceitos criativos e soluções visuais para diferentes desafios de marca, campanhas e comunicação. Transformar briefings em propostas criativas conectadas ao negócio, à estratégia da marca e a…",
       "active": false,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Página original da Gupy indica candidaturas encerradas. Não candidatar nem contatar sobre esta seleção encerrada.",
       "score": 86,
       "signals": [
@@ -1402,7 +1402,9 @@
         "closed": true,
         "url": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI1NDU4NjIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
         "note": "Página original da Gupy indica candidaturas encerradas. Não candidatar nem contatar sobre esta seleção encerrada."
-      }
+      },
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164596",
@@ -1435,7 +1437,7 @@
       "description": "Esta oportunidade é válida para trabalho remoto . Fornecemos todos os equipamentos necessários para você mandar bem no seu trabalho, seja ele onde você escolher ser! Você só precisa garantir uma internet de qualidade Experiência com criação e design, especialmente no desenvolvimento de materiais para marketing, campanhas digitais, comunicação institucional ou endomarketing. Domínio de Figma e Adobe Creative Cloud, principalmente Illustrator, Photoshop e InDesign. Boa base de tipografia, hierarquia visual, teoria das cores e diagramação, sabendo aplicar esses fundamentos na construção das peças. Experiência criando materiais para diferentes ca…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 86,
       "signals": [
@@ -1453,7 +1455,9 @@
         "Salário não supera R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-138244",
@@ -1489,7 +1493,7 @@
       "description": "A Beside Media, um grupo de empresas de mídia e tecnologia, busca um Designer Júnior para integrar sua equipe. O profissional será responsável por desenvolver peças gráficas para portais de conteúdo, campanhas digitais e materiais institucionais, colaborando com os times de conteúdo, marketing e produto para garantir a consistência visual das marcas. Responsabilidades Desenvolver peças gráficas para os portais de conteúdo da Beside (banners, thumbnails, ilustrações, infográficos, etc.). Criar estáticos para campanhas digitais (social media, display ads, e-mail marketing). Colaborar na criação de layouts para landing pages e páginas institucio…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 80,
       "signals": [
@@ -1507,7 +1511,9 @@
         "Salário até R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-140283",
@@ -1541,7 +1547,7 @@
       "description": "A Auvo Tecnologia busca um(a) Brand & Creative Designer Sênior com foco em performance e negócios para atuar na estratégia visual da marca e execução de ponta a ponta. O profissional será responsável por liderar o brandbook e o design system, além de criar materiais para mídia paga, redes sociais, landing pages, campanhas de produto e edição de vídeos, utilizando dados para otimizar o impacto das entregas e inteligência artificial para escalar a produtividade. Responsabilidades Liderar a criação, evolução e gestão da identidade visual da marca, garantindo consistência em todos os pontos de contato. Evoluir e manter o design system e o brandbo…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 80,
       "signals": [
@@ -1559,7 +1565,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-145848",
@@ -1591,7 +1599,7 @@
       "description": "A Brivia busca um(a) Diretor(a) de Arte Sênior para atuar de forma dedicada na conta da Azul, sendo uma das principais referências criativas da squad. O profissional será responsável pela criação de Key Visuals e seus desdobramentos, campanhas voltadas para performance, varejo e conversão, garantindo consistência visual e alinhamento com o posicionamento da marca Azul e suas submarcas. Responsabilidades Desenvolver campanhas publicitárias 360°. Transformar briefings em soluções estratégicas. Atuar diretamente com o cliente quando necessário. Contribuir com feedbacks para o time de criação. Elevar a qualidade das entregas. Apoiar o desenvolvim…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 80,
       "signals": [
@@ -1610,7 +1618,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-156496",
@@ -1643,7 +1653,7 @@
       "description": "Buscamos um(a) Diretor(a) de Arte Pleno para integrar o time de criação da Netshoes, a maior marca de esportes da América Latina. O profissional será responsável por criar conceitos e identidades visuais para campanhas digitais e ambientes físicos, atuando em um ambiente dinâmico e colaborativo. Responsabilidades Desenvolver e assinar campanhas multiplataforma para diferentes mídias. Cocriar e integrar com os times de produção, marketing, canais e comercial. Assegurar o padrão de excelência e a unidade visual de cada entrega. Trazer repertório fresco, referências inovadoras e tendências de mercado para os projetos. Portfólio com projetos disp…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 80,
       "signals": [
@@ -1662,7 +1672,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-158441",
@@ -1697,7 +1709,7 @@
       "description": "A GIRO.TECH, uma fintech que atua como plataforma de originação e distribuição de crédito, busca um(a) Estagiário(a) de Design Gráfico para integrar o time de Marketing e Branding. Nesta posição, o design é fundamental para traduzir infraestruturas complexas de crédito em comunicação clara, moderna, atraente e de alto impacto, consolidando a marca no mercado. Responsabilidades Criar, desdobrar e adaptar peças gráficas institucionais, garantindo a consistência e a aplicação correta da identidade visual e verbal do guia de marca (brandbook). Desenvolver layouts para campanhas e ações de inbound e outbound marketing (focadas em atração e convers…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 80,
       "signals": [
@@ -1715,7 +1727,9 @@
         "Salário até R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-139859",
@@ -1747,7 +1761,7 @@
       "description": "Responsabilidades Atender demandas de comunicação e criação para diferentes clientes da agência. Desenvolver peças e materiais alinhados às estratégias e necessidades de cada projeto. Domínio do pacote Adobe, especialmente Photoshop e Illustrator. Experiência na criação de peças para meios online e offline. Habilidade para desdobrar campanhas e adaptar artes para diferentes formatos. Experiência no desenvolvimento de materiais para redes sociais. Conhecimento na criação de anúncios digitais, banners e peças promocionais. Experiência com materiais impressos, como folhetos, flyers e catálogos. Atenção aos detalhes, organização e agilidade na ex…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 74,
       "signals": [
@@ -1763,7 +1777,9 @@
         "Salário não supera R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-156598",
@@ -1796,7 +1812,7 @@
       "description": "A posição de Analista de Design Sênior na área de marketing da RankMyApp é estratégica para elevar a maturidade visual e a consistência da marca em todos os pontos de contato da empresa. O profissional será responsável por traduzir informações complexas em interfaces e materiais claros, acessíveis e visualmente impactantes, garantindo que os produtos sejam comunicados de forma coesa e profissional, fortalecendo o reconhecimento da marca, apoiando a geração de demanda e sustentando uma experiência visual que acompanhe o ritmo de crescimento da empresa. Responsabilidades Traduzir briefings estratégicos em soluções visuais de alto impacto, alinh…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 74,
       "signals": [
@@ -1814,7 +1830,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-159560",
@@ -1847,7 +1865,7 @@
       "description": "A Brivia busca um profissional de Branding Design para atuar como parceiro independente, integrando seu ecossistema especializado na transformação de marcas. O profissional será responsável por liderar e executar projetos de rebranding, criação de logotipos e identidades visuais, contribuindo para a expansão das capacidades do grupo em transformação digital, tecnologia e marketing. Responsabilidades Liderar criativamente e executar o projeto de rebranding e criação do novo logotipo e identidade visual da marca. Desenvolver a conceituação do logotipo (estudo tipográfico e simbólico) e apresentar até 3 caminhos criativos em mockups realistas. C…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 74,
       "signals": [
@@ -1865,7 +1883,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-159580",
@@ -1898,7 +1918,7 @@
       "description": "A Dose Diária, agência de publicidade especializada no mercado farmacêutico, está ampliando sua equipe de criação e busca um(a) Diretor(a) de Arte Júnior para integrar o time. O profissional será responsável por criar conceitos de campanhas e desenvolver peças voltadas para o digital, como redes sociais, websites e portais. Responsabilidades Criar conceitos de campanhas. Desenvolver peças para o ambiente digital (redes sociais, websites e portais). Buscar proativamente melhorias, referências e novas ideias para a agência e contas atendidas. Experiência anterior como Diretor(a) de Arte Domínio das principais ferramentas de criação (Photoshop, …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 74,
       "signals": [
@@ -1915,7 +1935,9 @@
         "Senioridade inicial fora do foco desta busca"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161055",
@@ -1947,7 +1969,7 @@
       "description": "A Octadesk, empresa do Grupo LWSA, busca um Designer Sênior para atuar no time de Marketing, especificamente na liderança de Brand & Comunicação. O profissional será referência visual da marca, atuando da estratégia à execução de campanhas, com foco em escalar a produção com qualidade e o uso de IA. A missão é transformar negócios e impulsionar o empreendedorismo no Brasil através de soluções digitais. Responsabilidades Manter e evoluir o brand book da Octadesk (cores, tipografia, imagens e elementos visuais), garantindo consistência em todos os pontos de contato. Criar Key Visuals (KVs) que dão unidade às campanhas, desde a ideia central até…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 74,
       "signals": [
@@ -1965,7 +1987,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164594",
@@ -1998,7 +2022,7 @@
       "description": "A Road está em busca de um(a) Designer & Motion Júnior para integrar seu time criativo e atuar na criação de conteúdos para diferentes marcas e formatos. A pessoa ideal será criativa, multidisciplinar, antenada em tendências e com boa base em design e audiovisual, trabalhando com peças estáticas, edição de vídeos, motion, apresentações e criação de conteúdos com apoio de Inteligência Artificial. Responsabilidades Criar e adaptar materiais para redes sociais e campanhas. Editar vídeos para formatos digitais. Desenvolver animações e motions. Diagramar apresentações. Explorar novas referências e soluções criativas. Formação em Design, Publicidad…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 74,
       "signals": [
@@ -2015,7 +2039,9 @@
         "Senioridade inicial fora do foco desta busca"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "linkedin-4476879334",
@@ -2047,7 +2073,7 @@
       "description": "Oportunidade para a Base Viral, divulgada por Sales Leaders Group. Criação de campanhas, anúncios e redes sociais, apresentações, impressos, identidade visual e vídeos. Anúncio informa contratação PJ e trabalho 100% remoto; remuneração descrita apenas como competitiva. Exige domínio de Figma, Illustrator e Photoshop e conhecimento de Premiere Pro e CapCut.",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "unmetRequirements": [
         "Domínio de Figma obrigatório; candidata informou não possuir"
       ],
@@ -2067,7 +2093,9 @@
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir"
       ],
-      "eligibility": "excluded"
+      "eligibility": "excluded",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166196",
@@ -2099,7 +2127,7 @@
       "description": "A LWSA busca um Designer Sênior para atuar na Wake, focada em grandes operações de varejo e tecnologia de ponta em e-commerce. O profissional será responsável por simplificar a jornada do cliente, criando soluções visuais que impactam milhares de negócios. O desafio é transformar a complexidade do mercado enterprise em experiências digitais únicas e resultados de impacto. Responsabilidades Criar peças gráficas de alto impacto para redes sociais, campanhas de marketing B2B/enterprise e materiais ricos de apoio às equipes de Vendas, Parcerias e Customer Success. Desenvolver soluções visuais para grandes eventos do setor, encontros com público C…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 74,
       "signals": [
@@ -2117,7 +2145,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "linkedin-4476677696",
@@ -2150,7 +2180,7 @@
       "description": "Banco de talentos para criação de campanhas, conceitos visuais, identidade de marca, materiais digitais e impressos e apresentações. Exige Photoshop, Illustrator e InDesign; também menciona Figma, PowerPoint e uso de IA. After Effects é diferencial. Anúncio informa CLT, remoto, de segunda a sexta, das 8h às 17h30. Salário e idioma de trabalho não estão explícitos.",
       "active": true,
       "recruiterUrl": "https://www.linkedin.com/company/star-7latam/home/",
-      "applicationStatus": "contacted",
+      "applicationStatus": "closed",
       "contactStatus": "sent",
       "contactedAt": "2026-10-16T03:23:00Z",
       "unmetRequirements": [
@@ -2172,7 +2202,9 @@
       "rejectionReasons": [
         "Conhecimento de Figma exigido; candidata informou não possuir"
       ],
-      "eligibility": "excluded"
+      "eligibility": "excluded",
+      "previousApplicationStatus": "contacted",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-139618",
@@ -2204,7 +2236,7 @@
       "description": "A Duovozz, agência de comunicação, marketing e branding, busca um(a) Diretor(a) de Arte para integrar sua equipe de criação. O(a) profissional atuará no atendimento de diversos clientes, trabalhando em conjunto com uma equipe experiente de criação, planejamento e atendimento. Responsabilidades Desdobramento de campanhas online e offline. Criação de peças para redes sociais, mídia digital, apresentações, materiais impressos e campanhas promocionais. Adaptação de layouts para diferentes formatos e plataformas. Desenvolvimento de apresentações em PowerPoint. Participação em reuniões internas de alinhamento e briefing. Trabalho em conjunto com a …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2219,7 +2251,9 @@
         "Salário não supera R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-139631",
@@ -2251,7 +2285,7 @@
       "description": "Estamos em busca de um(a) profissional para atuar como Analista Pleno – Social/Branding, sendo responsável por planejar, executar e acompanhar a estratégia de conteúdo orgânico da marca, garantindo consistência de posicionamento, fortalecimento da identidade e crescimento do relacionamento com a comunidade digital. Essa pessoa atuará na gestão dos canais orgânicos, acompanhamento de performance dos conteúdos, identificação de tendências e oportunidades de comunicação, contribuindo para o fortalecimento da marca e ampliação da relevância do negócio nos ambientes digitais. Responsabilidades Planejar, organizar e manter o calendário editorial do…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2268,7 +2302,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-139912",
@@ -2300,7 +2336,7 @@
       "description": "A DuoVozz Inteligência, agência de comunicação, busca um Diretor de Arte para integrar a equipe de criação. O profissional atuará no desenvolvimento de peças de qualidade com agilidade, atendendo a carteira de clientes da agência full-service. Responsabilidades Desenvolver peças de qualidade com agilidade. Sustentar o ritmo de demandas da agência. Atender a carteira de clientes em conjunto com a equipe de criação. Experiência mínima de 1 ano atuando dentro de agência de comunicação. Agilidade no desenvolvimento de artes e ajustes. Domínio total do pacote Adobe, especialmente Photoshop e Illustrator. Capacidade de criar artes para campanhas on…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2315,7 +2351,9 @@
         "Salário até R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-160510",
@@ -2347,7 +2385,7 @@
       "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2364,7 +2402,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-160511",
@@ -2396,7 +2436,7 @@
       "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2413,7 +2453,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161132",
@@ -2445,7 +2487,7 @@
       "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2462,7 +2504,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161923",
@@ -2493,7 +2537,7 @@
       "description": "A Prizma Mídia, assessoria de marketing e performance para lojas de colchões, está em busca de um(a) Designer para integrar sua equipe. O profissional será responsável pela criação de artes e vídeos para campanhas de tráfego pago (Meta Ads), desenvolvimento de landing pages, produção de apresentações e materiais institucionais, além de adaptar criativos para diferentes formatos e plataformas. O trabalho será em conjunto com os times de Tráfego, Copywriting e Customer Success, com foco em performance e conversão. Responsabilidades Criar artes e vídeos para campanhas de tráfego pago (Meta Ads) Desenvolver landing pages Produzir apresentações e …",
       "active": false,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Anúncio da mesma vaga na Prizma Mídia indica que não aceita novas candidaturas. Aguardar uma nova seleção.",
       "score": 68,
       "signals": [
@@ -2516,7 +2560,9 @@
         "closed": true,
         "url": "https://www.linkedin.com/jobs/view/4464218613/",
         "note": "Anúncio da mesma vaga na Prizma Mídia indica que não aceita novas candidaturas. Aguardar uma nova seleção."
-      }
+      },
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-163957",
@@ -2548,7 +2594,7 @@
       "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Júnior atua transformando estratégias de marketing digital em peças visuais de alta performance. Esta posição é fundamental para garantir a qualidade na execução de criativos, seguindo diretrizes visuais e objetivos de mídia, e contribuindo diretamente para o sucesso das campanhas dos clientes. O profissional será responsável por produzir criativos estáticos, animações simples, edições básicas de vídeo e landing pages de baixa complexidade, utilizando ferramentas de design e inteligência artificial para otimizar a produtividade. Responsabilidades Criar peças estáticas para campanhas de …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2564,7 +2610,9 @@
         "Senioridade inicial fora do foco desta busca"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164577",
@@ -2598,7 +2646,7 @@
       "description": "As the Production Designer, you will be the dedicated design partner on one of the company's largest accounts. You will produce high-volume print and digital assets from established templates, updating copy and imagery quickly and accurately while keeping every piece consistent with brand standards. The work is split roughly 50/50 between print and digital, and you will focus exclusively on this one account. Responsibilities Produce print and digital assets at high volume using existing, approved templates. Update templates with new copy and images for each asset (for example, swapping featured photos and headlines). Maintain strict consisten…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2614,7 +2662,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164918",
@@ -2649,7 +2699,7 @@
       "description": "Responsibilities Healthcare & Pharmaceutical Design: Design HCP and healthcare/pharmaceutical materials, including detail aids, leave-behinds, digital advertisements, landing pages, brochures, congress graphics, and related materials. Brand Application: Develop polished visual concepts while consistently applying pharmaceutical and healthcare brand guidelines. Clinical & Data Visualization: Create and format charts, clinical visuals, data presentations, and other healthcare-related graphics. PowerPoint Design: Design and format professional PowerPoint presentations, including payer and market access decks. Regulatory & Compliance Design: Ensu…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 68,
       "signals": [
@@ -2665,7 +2715,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165941",
@@ -2697,7 +2749,7 @@
       "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Anúncio original ativo informa remoto, mas exige domínio de Figma e certificação Destrava Receita. Figma não é atendido e a certificação não consta do currículo. Salário não divulgado; nenhum envio realizado.",
       "score": 68,
       "signals": [
@@ -2724,7 +2776,9 @@
       },
       "unmetRequirements": [
         "Domínio de Figma obrigatório; candidata não possui Figma"
-      ]
+      ],
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-152797",
@@ -2755,7 +2809,7 @@
       "description": "A Paytrack, scale-up líder em soluções integradas de Travel, Expense e Meios de Pagamento, busca um(a) Coordenador(a) de Criação e Branding para liderar, acompanhar e desenvolver o time de marketing. O profissional será responsável por garantir a excelência operacional nas entregas, a otimização de processos e o alinhamento estratégico com os objetivos de crescimento da empresa, atuando em um ambiente dinâmico e de rápido crescimento. Responsabilidades Liderar, acompanhar e desenvolver o time de comunicação (social media, design, redação), atuando como mentor de branding. Guiar o time criativo na construção de campanhas e iniciativas, alinhan…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 62,
       "signals": [
@@ -2771,7 +2825,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-160355",
@@ -2803,7 +2859,7 @@
       "description": "A Sympla, maior plataforma de ingressos do Brasil, busca um Analista de Marketing e Branding Sênior para liderar o calendário de marca e executar campanhas de comunicação 360°. Responsabilidades Liderar calendário de marca, garantindo ativações consistentes que nos aproximem dos nossos objetivos de marca e negócios. Executar campanhas de comunicação 360° voltadas ao consumidor, do briefing à entrega, garantindo alinhamento entre objetivo de negócio, mensagem e canal. Desenvolver e revisar peças, conteúdos e narrativas, assegurando consistência de identidade visual, tom de voz e atributos da marca em todos os pontos de contato. Conduzir a fren…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 62,
       "signals": [
@@ -2819,7 +2875,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161963",
@@ -2852,7 +2910,7 @@
       "description": "A Riachuelo está em busca de um(a) Designer Gráfico Sênior para atuar no time de ESTILO - NÚCLEO GRÁFICO, contribuindo com o desenvolvimento de estampas para produtos femininos. O profissional fará parte de uma empresa com mais de 30 mil colaboradores, atuando em diversas áreas para construir a moda que inspira o Brasil. Responsabilidades Atuar com foco em desenvolvimento de estampas para produto feminino; Realizar pesquisa gráfica e de tendências de estamparia; Fazer interface e proposta conjunta com o time de estilo em todas as fases do desenvolvimento de coleção: pesquisa, desenvolvimento e validação; Fazer interface com a fábrica para des…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 62,
       "signals": [
@@ -2868,7 +2926,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162246",
@@ -2900,7 +2960,7 @@
       "description": "A Agência Clickslim está buscando um Designer Gráfico para atuar no desenvolvimento de identidade visual, materiais gráficos e digitais, e organização de arquivos. O profissional será responsável por criar peças e elementos visuais alinhados aos projetos e à identidade das marcas, adaptando layouts para diferentes formatos e preparando arquivos para produção gráfica e digital. Responsabilidades Desenvolver peças e elementos visuais de acordo com os projetos e direcionamentos definidos. Aplicar e manter a identidade visual das marcas nos diferentes materiais e canais. Criar logotipo quando necessário. Criar materiais gráficos para impressão, c…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 62,
       "signals": [
@@ -2914,7 +2974,9 @@
         "Salário não supera R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166073",
@@ -2949,7 +3011,7 @@
       "description": "At DotYeti, we believe great design should feel as good to make as it does to look at. We're a fully remote creative team helping businesses bring their ideas to life. Everything we make starts with two things: artistry in every detail and excellence in every delivery. The rest comes naturally: joy in the work, growth for everyone, and a team that has each other's backs. What you'll do: Creative Craft: Develop high-level website concepts, landing pages, UI/UX systems, and conversion-focused digital designs, made with real artistry and the kind of detail people notice. Quality & Delivery: ﻿Deliver responsive web designs, interactive layouts, a…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 62,
       "signals": [
@@ -2965,7 +3027,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "linkedin-4476470718",
@@ -2996,7 +3060,7 @@
       "description": "Anúncio aparece em Belo Horizonte e Região, mas o texto exige disponibilidade para atuação híbrida em Betim/MG. Solicita formação em Design de Produto ou Automotivo, experiência gráfica, Photoshop e Illustrator; modelagem poligonal é mencionada. Inglês B2 é desejável. Não atende à restrição de híbrido somente na cidade de Belo Horizonte.",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Excluída após conferência do texto original: local presencial é Betim. Nenhum envio realizado.",
       "firstSeenAt": "2026-10-16T03:23:50Z",
       "score": 62,
@@ -3012,7 +3076,9 @@
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
       ],
-      "eligibility": "excluded"
+      "eligibility": "excluded",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "publishedAt": null,
@@ -3032,7 +3098,7 @@
       "tags": [],
       "active": false,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "id": "99jobs-204278",
       "title": "Visual Designer Pleno",
       "company": "Gama Academy",
@@ -3053,7 +3119,9 @@
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa"
       ],
-      "eligibility": "excluded"
+      "eligibility": "excluded",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-145048",
@@ -3085,7 +3153,7 @@
       "description": "A Brivia busca um(a) Diretor(a) de Arte Sênior para atuar na área de Criação, com responsabilidade direta sobre a qualidade criativa, desenvolvimento de campanhas e identificação de novos negócios, contribuindo diretamente para a performance e evolução dos resultados dos clientes e da Brivia. A empresa conecta criatividade, dados e tecnologia para resolver problemas reais de negócio dos seus clientes. Responsabilidades Manter a qualidade criativa estabelecida. Ajudar na seleção e contratação de novos perfis. Administração da pauta junto aos outros times. Ser referência técnica para a equipe. Identificar possibilidades de proatividade junto ao…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3100,7 +3168,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-156076",
@@ -3133,7 +3203,7 @@
       "description": "A Brivia busca um(a) Diretor(a) de Arte Júnior para atuar como parceiro(a) em seu ecossistema especializado na transformação de marcas, auxiliando clientes em desafios de transformação digital, tecnologia e marketing. O profissional contribuirá com a criação e adaptação de peças e campanhas, buscando expandir as capacidades da empresa. Responsabilidades Criar campanhas simples, com acompanhamento. Contribuir com ideias e sugestões em brainstorms. Buscar imagens. Replicar peças. Ajustar peças. Ajustar KVs (Key Visuals). Ajudar a pensar na criação de projetos complexos. Formação em Design Gráfico, Animação, Cinema/Audiovisual, Publicidade ou ár…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3149,7 +3219,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-158422",
@@ -3183,7 +3255,7 @@
       "description": "A V4 Company busca um Designer Gráfico Sênior para atuar no time de Creative Performance, com a missão de transformar estratégia em comunicação visual de alta performance. O profissional será a principal referência técnica da vertical de Design, conectando criatividade, branding, performance e inovação para desenvolver campanhas de alta complexidade e impulsionar resultados de negócio por meio de soluções visuais estratégicas. Além de atuar na criação de campanhas de alto impacto, o Designer Sênior desempenhará um papel fundamental na evolução da equipe, disseminando conhecimento, estruturando processos e utilizando Inteligência Artificial pa…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3198,7 +3270,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-158753",
@@ -3231,7 +3305,7 @@
       "description": "A Segura®, líder global em Segurança de Identidade, busca um(a) Branding Coordinator para gerenciar e escalar as operações globais da marca. O profissional será responsável por garantir que cada ponto de contato com clientes, parceiros, funcionários e executivos reforce consistentemente o posicionamento da empresa e apoie seu crescimento. Responsabilidades Desenvolver e evoluir a estratégia global de marca, posicionamento, mensagens e governança da Segura. Construir e gerenciar o roadmap da marca, prioridades e operações criativas. Garantir consistência em campanhas, canais digitais, eventos, lançamentos de produtos, comunicações executivas e…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3244,7 +3318,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161542",
@@ -3279,7 +3355,7 @@
       "description": "A V4 Company busca um Designer Gráfico (Creative Performance) Sênior para atuar como referência técnica na vertical de Design. O profissional será responsável por conectar criatividade, branding, performance e inovação para desenvolver campanhas de alta complexidade, elevar o padrão das entregas e impulsionar resultados de negócio por meio de soluções visuais estratégicas. Além da criação de campanhas de alto impacto, o Designer Sênior desempenhará um papel fundamental na evolução da equipe, disseminando conhecimento, estruturando processos e utilizando Inteligência Artificial para escalar a produção criativa e acelerar a inovação. Responsabi…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3293,7 +3369,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161652",
@@ -3324,7 +3402,7 @@
       "description": "A Mazzatech está buscando um Content Designer com foco em Visual, Motion e GenAI para integrar o piloto de uma estrutura global de produção de conteúdo. O profissional será responsável pela criação e adaptação de conteúdos para as marcas da empresa no Brasil e em outros países da América Latina, atuando de forma remota, em tempo integral e com alto grau de autonomia. Responsabilidades Receber e interpretar briefings elaborados pelos times locais de marca e negócio; Trabalhar a partir dos direcionamentos e inputs repassados pela liderança criativa; Criar novos conceitos, peças e campanhas quando necessário; Adaptar campanhas e materiais globai…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3338,7 +3416,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161967",
@@ -3372,7 +3452,7 @@
       "description": "A V4 Company busca um Designer Gráfico Sênior para atuar na vertical de Design dentro da operação de Creative Performance. Este profissional será a principal referência técnica, conectando criatividade, branding, performance e inovação para desenvolver campanhas de alta complexidade, elevar o padrão das entregas e impulsionar resultados de negócio por meio de soluções visuais estratégicas. Além de atuar na criação de campanhas de alto impacto, o Designer Gráfico Sênior desempenhará um papel fundamental na evolução da equipe, disseminando conhecimento, estruturando processos e utilizando Inteligência Artificial para escalar a produção criativa…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3387,7 +3467,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162721",
@@ -3419,7 +3501,7 @@
       "description": "A Must Marketing busca um(a) designer de redes sociais com olhar refinado para construir a presença visual de médicos no Instagram. O profissional será responsável por criar uma identidade visual que posicione os clientes como referência premium, transformando sua presença digital em autoridade visual. Responsabilidades Criar estratégia visual: Templates, paleta de cores, tipografia, elementos que comunicam expertise; Design de peças diárias: Posts, stories, reels, carrosséis com identidade consistente; Manutenção visual: Garantir que a marca se comunica igual no dia 1 e no dia 100; Semiótica inteligente: Escolher cores, formas, ícones, fundo…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3432,7 +3514,9 @@
         "Salário não supera R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162807",
@@ -3467,7 +3551,7 @@
       "description": "A FCAMARA busca um UI-UX Designer Junior/Pleno para atuar em parceria com uma empresa líder no mercado brasileiro de soluções de pesagem, automação e gerenciamento de informações. O profissional será responsável por desenvolver e aprimorar interfaces digitais, garantindo experiências consistentes, intuitivas e centradas no usuário. Responsabilidades Criar e evoluir interfaces digitais em alinhamento com guidelines de design e identidade visual da empresa. Conduzir pesquisas de usabilidade e testes com usuários para validar hipóteses de design. Colaborar com times de produto, desenvolvimento e marketing para garantir consistência entre design …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3482,7 +3566,9 @@
         "Senioridade inicial fora do foco desta busca"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164431",
@@ -3515,7 +3601,7 @@
       "description": "A Platform Builders busca um Product Designer Pleno para atuar no desenvolvimento de produtos, com foco em experiências intuitivas e envolventes. O profissional será responsável por solucionar problemas de negócio através de princípios de design centrado no usuário, desde a pesquisa inicial até a entrega de soluções visualmente atraentes e funcionais. Responsabilidades Entender problemas e oportunidades a partir das necessidades das pessoas usuárias e dos objetivos do negócio. Conduzir entrevistas, mapear jornadas e analisar informações e dados para apoiar as decisões de design. Explorar possibilidades e desenvolver soluções que tornem a expe…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3531,7 +3617,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164433",
@@ -3564,7 +3652,7 @@
       "description": "A Platform Builders busca um Product Designer Sênior para projetar produtos com experiências intuitivas e envolventes, focando na solução de problemas de negócio por meio de princípios de design centrado no usuário. O objetivo é desenvolver soluções efetivas que ofereçam experiências únicas e personalizadas para os clientes, atendendo às necessidades específicas de cada segmento, desde a pesquisa inicial até a entrega de soluções visualmente atraentes e altamente funcionais. Responsabilidades Entender problemas e oportunidades a partir das necessidades das pessoas usuárias e dos objetivos do negócio. Conduzir entrevistas, mapear jornadas e an…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3580,7 +3668,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165033",
@@ -3611,7 +3701,7 @@
       "description": "Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício. Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global. Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional. Analista de Employer Brandi…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3625,7 +3715,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165259",
@@ -3657,7 +3749,7 @@
       "description": "O time de Employer Branding da Riachuelo busca um Analista de Social Media Júnior para atuar no planejamento e execução de estratégias de conteúdo para redes sociais corporativas. O profissional será responsável por criar e gerenciar o calendário de postagens, produzir conteúdo visual e textual, monitorar interações e engajamento, e analisar o desempenho das campanhas, contribuindo para o posicionamento da marca empregadora. Responsabilidades Planejar editorias a partir da estratégia de posicionamento de marca. Criar calendário de postagem, sugerindo pautas alinhadas aos movimentos da organização e editorias. Criar conteúdos para redes sociai…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3673,7 +3765,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165449",
@@ -3707,7 +3801,7 @@
       "description": "A Geopixel está buscando um(a) Designer UX/UI Pleno para integrar seu time de produto e desenvolvimento. O profissional atuará com autonomia na concepção, validação e evolução de interfaces e experiências digitais funcionais, intuitivas, acessíveis e centradas no usuário, em plataformas web, mobile e desktop. Responsabilidades Atuar de forma autônoma em múltiplos projetos simultaneamente, adaptando-se a diferentes contextos, públicos, produtos e prioridades. Conduzir a pesquisa e descoberta: coleta e análise de feedbacks, desk research, benchmarking e estudos de mercado. Apoiar na definição de personas, jornadas e fluxos de usuário, identific…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 56,
       "signals": [
@@ -3721,7 +3815,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "publishedAt": null,
@@ -3741,7 +3837,7 @@
       "tags": [],
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "id": "gupy-12702190",
       "title": "Designer Gráfico Pleno",
       "company": "Buzzmonitor",
@@ -3763,7 +3859,9 @@
       "rejectionReasons": [
         "Residência obrigatória em Recife, incompatível com a candidata em Belo Horizonte"
       ],
-      "eligibility": "excluded"
+      "eligibility": "excluded",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "publishedAt": null,
@@ -3783,7 +3881,7 @@
       "tags": [],
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "id": "linkedin-4479170496",
       "title": "Staff Brand Designer - Consumer",
       "company": "Kraken",
@@ -3805,7 +3903,9 @@
       "rejectionReasons": [
         "Figma em nível especialista obrigatório; candidata não possui Figma"
       ],
-      "eligibility": "excluded"
+      "eligibility": "excluded",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-137703",
@@ -3838,7 +3938,7 @@
       "description": "O Grupo Boticário, um dos maiores grupos de beleza do mundo, busca um Analista de Processos III para atuar na área de Branding e Comunicação. Este profissional será responsável por mapear, analisar e otimizar processos ponta a ponta, garantindo clareza, eficiência e alinhamento entre os stakeholders. A atuação envolve a condução de diagnósticos do modelo atual (AS IS), identificando gaps e oportunidades, além de desenhar e implementar fluxos futuros (TO BE). Responsabilidades Mapear, analisar e otimizar processos ponta a ponta da área de Branding e Comunicação. Conduzir diagnósticos do modelo atual (AS IS), identificando gaps, oportunidades d…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -3850,7 +3950,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-138592",
@@ -3884,7 +3986,7 @@
       "description": "O Grupo Boticário busca um(a) Gerente Sênior de FP&A para atuar nas áreas de Categorias e Branding. Este profissional será responsável por garantir a viabilidade financeira e o retorno dos investimentos de novos produtos e inovações em todas as categorias do Grupo Boticário, participando ativamente dos comitês de aprovação e equilibrando a estratégia de lançamentos com foco em margem e eficiência. Responsabilidades Garantir o gerenciamento de resultados (GMV e Full P&L) de todas as categorias e marcas do Grupo Boticário. Gerenciar os investimentos de marketing de marca e consolidar todos os investimentos de marketing do Grupo Boticário. Garan…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -3896,7 +3998,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-140282",
@@ -3928,7 +4032,7 @@
       "description": "Buscamos um UX Designer talentoso, curioso e inquieto para criar experiências digitais bem pensadas, bonitas e funcionais. O profissional irá atuar na criação de sites, landing pages e interfaces digitais, com foco em usabilidade e conversão, além de desenvolver peças visuais para redes sociais. Responsabilidades Criar sites e landing pages com foco em experiência, usabilidade e conversão. Participar do design de aplicações e interfaces digitais, do conceito ao refinamento. Desenvolver artes e peças visuais para redes sociais, mantendo coerência estética e narrativa. Traduzir ideias, briefings e dados em soluções visuais claras, intuitivas e …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -3940,7 +4044,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-155947",
@@ -3971,7 +4077,7 @@
       "description": "A Appmax busca um(a) Supervisor(a) de Employee Experience & Employer Branding para liderar as frentes de comunicação interna, conteúdo, facilities e Employer Branding. O papel é conectar cultura, pessoas e negócio, gerando boas experiências de trabalho para os colaboradores em cada ponto da jornada, fortalecendo o senso de pertencimento e contribuindo para a retenção de talentos. Você será responsável por executar a comunicação alinhada à cultura da empresa e fortalecer a marca empregadora, garantindo que a Appmax viva internamente o mesmo que comunica externamente. Responsabilidades Desenvolver e executar a estratégia de Employer Branding, a…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -3985,7 +4091,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-156085",
@@ -4017,7 +4125,7 @@
       "description": "Buscamos um(a) profissional para atuar como Diretor(a) de Arte com foco em Motion, sendo parceiro(a) da Brivia. A Brivia é um ecossistema especializado na transformação de marcas, auxiliando clientes em desafios de transformação digital, tecnologia e marketing. O profissional irá fortalecer o ecossistema de transformação digital da empresa. Responsabilidades Fazer animação de cartelas. Limpeza e composição de cenas. Criar, editar e animar vídeos. Editar e fazer a sonorização de áudios. Atuar com a equipe de criação desenvolvendo novos projetos. Formação em Design Gráfico, Animação, Cinema/Audiovisual, Publicidade ou áreas correlatas. Formação…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4030,7 +4138,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-157954",
@@ -4062,7 +4172,7 @@
       "description": "Buscamos um(a) designer com experiência consolidada, inovador(a), estratégico(a) e altamente criativo(a), com forte senso estético e domínio de ferramentas de design e IAs (LLMs padrões, Gemini, GPT, Claude). Alguém que compreenda as necessidades do cliente (em estética e negócio) e traduza conceitos em key-visuals impactantes e materiais visuais de alta qualidade. Responsabilidades Criar e personalizar sites responsivos utilizando WordPress. Criar e desenvolver conceitos visuais e peças com velocidade, qualidade e inovação. Sugerir ideias/chamadas criativas e desenvolver Key Visuals inovadores. Garantir a qualidade estética e técnica das peç…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4074,7 +4184,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-160291",
@@ -4106,7 +4218,7 @@
       "description": "A Brivia busca um(a) Líder Service Designer para atuar na concepção, estruturação e condução de projetos estratégicos de Customer Experience, Service Design e transformação de negócios. Mais do que dominar as ferramentas e metodologias de Service Design, essa pessoa será o fio condutor dos projetos, conectando diferentes disciplinas, áreas de negócio e níveis de decisão para transformar problemas complexos em estratégias, serviços e experiências relevantes. É uma posição que exige forte capacidade de liderança, articulação, argumentação e influência, pois terá contato direto com clientes, stakeholders e lideranças executivas, conduzindo discu…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4118,7 +4230,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T15:05:05.151304+00:00"
+      "firstSeenAt": "2026-10-16T15:05:05.151304+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-160358",
@@ -4149,7 +4263,7 @@
       "description": "Estamos em busca de um(a) Product Designer para atuar em uma das principais empresas de infraestrutura de mercado financeiro do mundo. Você trabalhará em um ambiente de inovação contínua, alta complexidade técnica e exigência regulatória. Seu papel será equilibrar usabilidade, viabilidade técnica e valor de negócio, atuando estrategicamente desde a pesquisa e validação de hipóteses até a entrega final. Buscamos alguém que seja a \"voz do cliente\" e tenha paixão por resolver problemas complexos. Responsabilidades Conduzir o processo de descoberta com stakeholders, mapeando jornadas, identificando pontos de fricção, dores e oportunidades. Planej…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4163,7 +4277,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T15:05:05.151304+00:00"
+      "firstSeenAt": "2026-10-16T15:05:05.151304+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-160699",
@@ -4194,7 +4310,7 @@
       "description": "Como Product Designer na Educbank, você liderará a criação e aprimoramento de funcionalidades, atuando em um ambiente dinâmico e colaborativo. Será responsável por conduzir o processo de design de ponta a ponta, desde a descoberta do problema até a entrega da solução final, e será um agente chave na evolução do Design System, trabalhando de perto com stakeholders e equipes de desenvolvimento para garantir um handoff fluido. Adicionalmente, realizará pesquisas qualitativas e quantitativas, conduzirá product discoveries e tomará decisões de design orientadas por dados. Responsabilidades Conduzir o processo de design de ponta a ponta, desde a de…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4208,7 +4324,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T15:05:05.151304+00:00"
+      "firstSeenAt": "2026-10-16T15:05:05.151304+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-160903",
@@ -4239,7 +4357,7 @@
       "description": "A BRQ Digital Solutions busca um Product Designer para atuar em modelo de consultoria, trabalhando em projetos com clientes dos setores bancário, fintechs, varejo e benefícios. O profissional terá autonomia para interagir diretamente com stakeholders de negócio, defender soluções e contribuir para decisões de produto, atuando em squads de produto digital desde o discovery e fluxos de UX até a entrega de UI com qualidade e consistência. O papel envolve traduzir objetivos de negócio em experiências digitais que equilibrem usabilidade, estética e viabilidade, transitando entre diferentes projetos e contextos, e contribuindo com documentação de p…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4253,7 +4371,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161030",
@@ -4286,7 +4406,7 @@
       "description": "Responsabilidades Liderar iniciativas de produto desde a descoberta do problema até a validação da solução. Conduzir processos de Discovery, definindo hipóteses, estratégias de validação e oportunidades de evolução do produto. Conectar necessidades dos usuários, objetivos de negócio e restrições técnicas para orientar decisões. Definir métricas de sucesso e acompanhar a evolução das soluções após o lançamento. Identificar riscos, dependências e oportunidades antes que se tornem problemas. Projetar jornadas, fluxos, wireframes, protótipos e interfaces considerando usabilidade, acessibilidade, consistência e escalabilidade. Garantir a qualidade…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4300,7 +4420,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161072",
@@ -4333,7 +4455,7 @@
       "description": "A AMcom está em busca de uma Pessoa Designer UI/UX Sênior para projetar experiências intuitivas e centradas no usuário para produtos de analytics, relatórios e inteligência comercial. O profissional trabalhará em estreita colaboração com Product Owners, especialistas de negócio (SMEs), Analistas de Dados, Cientistas de Dados e equipes de Desenvolvimento, garantindo consistência entre interfaces de usuário, sistemas de design e produtos digitais. Responsabilidades Projetar experiências intuitivas e centradas no usuário para produtos de analytics, relatórios e inteligência comercial. Conduzir pesquisas com usuários, entrevistas com stakeholders…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4346,7 +4468,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161091",
@@ -4379,7 +4503,7 @@
       "description": "Como Product Designer III, você atuará no ecossistema de Venda Direta do Grupo Boticário, sendo o ponto focal responsável pela experiência do fluxo de checkout do aplicativo da revendedora. O objetivo principal do papel é desenhar soluções detalhadas de interface focadas na redução do abandono de carrinho e no entendimento claro das promoções e condições comerciais, atuando em testes contínuos de alto impacto no faturamento em parceria direta com o time de Produto e Engenharia. Responsabilidades Criar e aprimorar componentes, modais interativos e telas intuitivas focadas em experiência mobile-first para o fluxo de carrinho, pagamento e pós-co…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4391,7 +4515,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161130",
@@ -4426,7 +4552,7 @@
       "description": "A Zallpy Digital está em busca de um(a) Designer UI/UX Sênior para atuar com produtos de inteligência analítica e comercial. O profissional será responsável por projetar experiências intuitivas e centradas no usuário para produtos de análise, relatórios e inteligência comercial, conduzindo pesquisas de usuário, entrevistas com stakeholders e sessões de descoberta de requisitos. Além disso, criará wireframes, fluxos de usuário, protótipos e designs de alta fidelidade, colaborando de perto com Product Owners, SMEs de Negócios, Analistas de Dados, Cientistas de Dados e equipes de Desenvolvimento. O papel também envolve garantir a consistência en…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4439,7 +4565,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161323",
@@ -4472,7 +4600,7 @@
       "description": "A Radix está em busca de um Designer de UI/UX Júnior para integrar sua equipe e contribuir na criação de experiências digitais intuitivas e centradas no usuário. Esta é uma oportunidade de nível inicial, ideal para quem possui bons fundamentos de design, interesse em solucionar problemas dos usuários e motivação para se desenvolver em uma equipe de produto colaborativa. O profissional trabalhará em parceria com designers seniores, profissionais de Produto e Engenharia, contribuindo para atividades de pesquisa, criação de wireframes e design de interfaces, enquanto desenvolve suas habilidades em um ambiente real de produto. Responsabilidades A…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4485,7 +4613,9 @@
         "Senioridade inicial fora do foco desta busca"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-161587",
@@ -4517,7 +4647,7 @@
       "description": "A nstech, maior plataforma de tecnologia e softwares para logística e supply chain da América Latina, busca um(a) Product Designer (PD) Sênior para atuar na evolução da experiência dos produtos. O profissional transformará necessidades complexas de negócio em soluções digitais simples, intuitivas, eficientes e consistentes. A atuação será próxima a PM, PO, Engenharia e clientes, participando desde a descoberta e pesquisa até a validação e evolução das soluções, com foco em experiência do usuário, usabilidade e geração de valor. Responsabilidades Garantir que as soluções do ERP sejam intuitivas, eficientes e consistentes, traduzindo necessidad…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4529,7 +4659,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162013",
@@ -4561,7 +4693,7 @@
       "description": "A Premiersoft está buscando um(a) Designer UI/UX Sênior para integrar squads internas de desenvolvimento de sistemas. O profissional contribuirá para a construção e evolução de uma plataforma digital no setor financeiro, atuando no desenvolvimento e aprimoramento de módulos de crédito, investimentos e aplicativo do associado, garantindo soluções eficientes e alinhadas às necessidades do negócio. Responsabilidades Criação de wireframes, protótipos e interfaces intuitivas; Pesquisa com usuários e testes de usabilidade; Colaboração com desenvolvedores e analistas para garantir aderência ao projeto. Domínio de ferramentas como Figma, Adobe XD, Sk…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4573,7 +4705,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162054",
@@ -4605,7 +4739,7 @@
       "description": "A Thera Consulting busca um Designer Instrucional para atuar na construção de conteúdos SCORM utilizando a ferramenta Adobe Articulate. O profissional será responsável por desenvolver materiais educacionais interativos, garantindo a qualidade e a eficácia do aprendizado. Responsabilidades Construir conteúdos SCORM através do Adobe Articulate. Experiência como Designer Instrucional",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4617,7 +4751,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162153",
@@ -4654,7 +4790,7 @@
       "description": "O Designer Instrucional Pleno na Revvo atua na criação de experiências de aprendizado inovadoras e eficazes, desenvolvendo soluções online ou presenciais alinhadas às necessidades dos clientes. Este profissional utiliza as melhores práticas de design instrucional, tecnologias educacionais e metodologias de ensino para adultos, contribuindo para a revolução da aprendizagem corporativa. Responsabilidades Desenvolver materiais didáticos como cursos online, módulos de e-learning, vídeos educacionais e apresentações interativas, alinhadas com os objetivos de negócio e objetivos de aprendizagem dos clientes. Colaborar com stakeholders internos para…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4666,7 +4802,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162309",
@@ -4697,7 +4835,7 @@
       "description": "A BRQ busca um Service Designer para mapear e redesenhar jornadas ponta a ponta, conectando a experiência do cliente final nos canais com os processos, sistemas e áreas que sustentam a entrega do serviço. O profissional será responsável por produzir artefatos de service design com profundidade e clareza, como blueprints, mapas de jornada, diagnósticos de pontos de atrito e cenários de serviço futuro, sempre acompanhados do racional de decisão e do impacto esperado no negócio. Responsabilidades Mapear e redesenhar jornadas ponta a ponta, conectando o que o cliente final vive nos canais com os processos, sistemas e áreas que sustentam a entrega…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4709,7 +4847,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162369",
@@ -4742,7 +4882,7 @@
       "description": "A Caju, empresa brasileira de tecnologia, busca um(a) Especialista FrontEnd com foco em Design System para liderar tecnicamente o time, aumentando a produtividade dos times de Produto e a consistência da experiência nas plataformas web e mobile. O profissional garantirá a alta adoção do Design System, do design ao código, em Figma, React e Flutter, e definirá as releases, mantendo uma cadência saudável entre as necessidades dos times de Produto e as esteiras de design e front-end. Responsabilidades Liderar tecnicamente o time de Design System, com foco em aumentar a produtividade dos times de Produto e a consistência da Experiência nas Plataf…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4754,7 +4894,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162382",
@@ -4789,7 +4931,7 @@
       "description": "A Sólides, HR Tech líder no Brasil em Gestão Integrada de Pessoas com Inteligência Comportamental, busca um(a) Designer de Produto Pleno para transformar problemas e oportunidades em experiências simples, eficientes e encantadoras para seus usuários. O profissional será responsável por atuar na construção de processos da área, garantir que o time esteja resolvendo os problemas certos e conduzir discussões de discovery, priorização e estratégia. Responsabilidades Dominar o negócio e as regras relacionadas. Definir objetivos, hipóteses, métricas de sucesso e resultados esperados para as iniciativas sob sua responsabilidade. Atuar como principal…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4802,7 +4944,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162718",
@@ -4834,7 +4978,7 @@
       "description": "Nossos designers trabalham em modelo atuando em projetos de alocação, com autonomia para trabalhar diretamente com stakeholders de negócio, defender soluções e contribuir para decisões de produto. Se você tem experiência sólida com UX e UI de produto digital e se comunica muito bem, queremos conhecer seu trabalho. Responsabilidades Atuar em squads de produto digital, cobrindo desde discovery e fluxos de UX até a entrega de UI com qualidade e consistência; Interagir diretamente com stakeholders do cliente, apresentar soluções, alinhar expectativas e defender decisões de design com clareza; Traduzir objetivos de negócio em experiências digitais…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4848,7 +4992,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162830",
@@ -4881,7 +5027,7 @@
       "description": "A Framework está em busca de um Designer de Produto Sênior para conduzir projetos de ponta a ponta, desde o discovery até a entrega final, garantindo soluções centradas no usuário e alinhadas ao negócio. O profissional irá criar e manter protótipos funcionais de alta fidelidade no Figma, contribuindo ativamente para a evolução dos Design Systems da empresa. A atuação envolve colaboração com times multidisciplinares e stakeholders de diversas áreas, traduzindo necessidades em experiências simples e eficientes, além de participar de pesquisas qualitativas e quantitativas com usuários para gerar insights práticos para decisões de produto. O ambi…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4894,7 +5040,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162865",
@@ -4927,7 +5075,7 @@
       "description": "Buscamos uma pessoa Product Designer Pleno para atuar na criação e evolução de produtos digitais que apoiem a jornada dos nossos clientes. Procuramos alguém com boa capacidade analítica, senso de produto e paixão por resolver problemas complexos por meio de experiências simples e intuitivas. Você atuará em squads multidisciplinares, colaborando com Product Managers, Engenharia e demais stakeholders para transformar necessidades de negócio e insights de usuários em soluções de alto impacto. Responsabilidades Participar do processo de design de ponta a ponta, da descoberta à entrega. Criar fluxos, wireframes, protótipos e interfaces de alta fid…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4939,7 +5087,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-162951",
@@ -4972,7 +5122,7 @@
       "description": "A Avenue busca um Product Designer Sênior com visão crítica e capacidade de execução para construir soluções robustas e escaláveis. O profissional irá atuar em squads multidisciplinares, com autonomia e responsabilidade, contribuindo para a evolução de produtos digitais. Responsabilidades Conduzir projetos de design de ponta a ponta, desde a descoberta até a entrega das soluções. Planejar e executar pesquisas com usuários para identificar oportunidades e validar hipóteses. Desenhar jornadas, fluxos de navegação, wireframes, protótipos e interfaces de alta fidelidade. Trabalhar em parceria com times de Produto, Engenharia e Negócios para const…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -4984,7 +5134,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-163768",
@@ -5016,7 +5168,7 @@
       "description": "A pessoa que ocupar esta posição atuará de forma transversal no portfólio de hospedagem de sites. Como referência em experiência do usuário para múltiplos produtos, você assumirá a liderança estratégica dos ativos de design e conteúdo (Design System e Content System), além de liderar iniciativas de jornada de grande escopo. A missão da área é garantir a consistência, qualidade e acessibilidade de todo o portfólio, capacitando os Product Managers na execução das interfaces no dia a dia e impulsionando a eficiência da operação por meio da curadoria de ferramentas avançadas e Inteligência Artificial. Responsabilidades Manter, evoluir e documenta…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5028,7 +5180,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-163799",
@@ -5062,7 +5216,7 @@
       "description": "A MadeinWeb está em busca de um Designer UX/UI Pleno para atuar na concepção e evolução de produtos digitais de ponta a ponta. O profissional liderará fluxos de discovery, pesquisas com usuários, arquitetura da informação, prototipagem e entrega de interfaces acessíveis e escaláveis, construindo experiências digitais de alto impacto que transformam a maneira como milhares de pessoas interagem com tecnologia. Responsabilidades Atuar no ciclo completo de Product Design em projetos de média e alta complexidade, garantindo o alinhamento entre as necessidades dos usuários e os objetivos de negócio. Planejar e executar UX Research e Testes de Usabi…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5076,7 +5230,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164004",
@@ -5107,7 +5263,7 @@
       "description": "Buscamos uma pessoa Especialista em Product Design para atuar de forma transversal no ecossistema VR, contribuindo para a evolução de produtos e jornadas B2B2C. Essa posição fará parte da estrutura de Design e terá atuação com os times de Produto, Engenharia, Arquitetura, Dados, Negócio, entre outros. Procuramos uma pessoa genuinamente obcecada pelo cliente, mas com repertório para dialogar com negócio e tecnologia, transformando necessidades reais em soluções relevantes, viáveis e escaláveis. Responsabilidades Atuar em problemas complexos com impacto em múltiplos produtos e jornadas. Trabalhar desde a definição do problema até a evolução da …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5121,7 +5277,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164081",
@@ -5153,7 +5311,7 @@
       "description": "A Koncluí busca um(a) Product Designer / UI/UX Designer com forte orientação para interfaces (UI), Design Systems escaláveis e produtos operacionais multiplataforma (Web Desktop e Mobile nativo/híbrido). A empresa atua no setor de food service em escala nacional, com interfaces para colaboradores em ambientes operacionais de alta velocidade e executivos/franqueadores que consomem dashboards analíticos. Responsabilidades Liderar o design de ponta a ponta de novos módulos e produtos para plataformas Mobile (iOS/Android) e Web (backoffice administrativo e dashboards gerenciais). Construir, documentar e manter o Design System central da Koncluí, …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5165,7 +5323,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164155",
@@ -5196,7 +5356,7 @@
       "description": "Como Staff Product Designer, você atuará de ponta a ponta no desenvolvimento de produtos digitais, combinando visão estratégica, excelência em execução e liderança técnica para evoluir a experiência dos nossos usuários e a maturidade de Product Design da Benup. Você será responsável por transformar desafios de negócio em experiências de produto relevantes e de alto impacto, utilizando Inteligência Artificial para acelerar processos de pesquisa, ideação, prototipação e exploração de soluções. Responsabilidades Atuar desde a compreensão do problema até a entrega da solução, transformando desafios de negócio em experiências de produto relevantes…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5208,7 +5368,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164458",
@@ -5239,7 +5401,7 @@
       "description": "Buscamos uma pessoa Product Designer (UX/UI) experiente para integrar nosso time de tecnologia. Você será peça-chave na transformação de processos complexos do mercado de seguros em experiências digitais fluidas e intuitivas. O perfil ideal atua de ponta a ponta — do discovery ao handoff —, domina as melhores práticas de design de interface e utiliza Inteligência Artificial para potencializar pesquisas e soluções. Se você tem forte capacidade analítica, sabe negociar com times técnicos e tem paixão por simplificar fluxos burocráticos, essa posição é para você. Responsabilidades Desenhar interfaces de alta e baixa fidelidade, criando wireframe…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5251,7 +5413,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164530",
@@ -5282,7 +5446,7 @@
       "description": "Atividades do cargo: Atuar com criação de materiais gráficos, como folders, lonas, gigantografias, filipetas, backbus e materiais impressos em geral. Atuar na criação de marcas, manuais e identidades visuais. Atuar na criação de materiais para internet, como posts. Turno: Tempo integral Carga Horária: Segunda a Sexta-feira, das 08:00 às 18:00. Com uma hora de almoço e duas paradas de 15 minutos para café. Regime de Contratação: Home Office Requisitos e observações: Experiência Necessária: Necessário experiência Formação: Ensino médio completo Observações: Obrigatório atender a todos os requisitos abaixo: Indispensável conhecimento de fechamen…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5291,7 +5455,9 @@
         "Salário não supera R$ 7.000"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164531",
@@ -5325,7 +5491,7 @@
       "description": "What You'll Do Design across branding, campaigns, and digital platforms: logos, visual identity systems, social and display content, presentations, web and landing pages, and more. Use generative AI tools & models (e.g. Flora, Krea, Figma AI, Claude, NanoBanana, GPT Image, Seedance, etc.) throughout your process: concepting, ideation, image generation, layout exploration, and production to move faster without sacrificing craft. Translate creative briefs into polished, on-brand visual concepts, iterating based on feedback from creative leads and clients. Maintain and evolve visual identity systems, ensuring consistency across deliverables and …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5340,7 +5506,9 @@
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
       "duplicateIds": [
         "remotar-164532"
-      ]
+      ],
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164534",
@@ -5373,7 +5541,7 @@
       "description": "What You'll Do Generate and refine visual concepts using AI tools such as text-to-image, video, and layout automation. Experiment with emerging AI workflows to improve quality, speed, and creative output. Integrate AI-assisted assets into workflows while maintaining brand integrity and emotional impact. Guide creative direction to ensure all work aligns with strategy, brand, and purpose. Communicate clearly with clients, building trust through structured and solution-oriented leadership. Foster an inclusive team environment that supports collaboration and shared ownership. Connect creative outputs to business goals using insights and performa…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5385,7 +5553,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164595",
@@ -5417,7 +5587,7 @@
       "description": "O QUE VOCÊ VAI FAZER Acompanhar projetos de design de ponta a ponta, desde a descoberta do problema até a implementação da solução; Participar ativamente da definição de estratégia de produto, contribuindo com uma visão sistêmica e foco na experiência dos analistas internos; Traduzir necessidades operacionais complexas em experiências que elevam a eficiência do atendimento ao cliente; Conduzir pesquisas, entrevistas e validações com analistas internos para embasar decisões de produto e design; Mapear e otimizar fluxos de atendimento, identificando gargalos e oportunidades de simplificação; Utilizar dados qualitativos e quantitativos para orie…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5429,7 +5599,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164600",
@@ -5464,7 +5636,7 @@
       "description": "Accountabilities Map and diagnose customer journeys using service design and user research methods, identifying pain points, opportunities, and critical touchpoints across the service experience. Plan and conduct qualitative research, including interviews, observations, and usability testing, to uncover user needs, behaviors, expectations, and insights. Create journey maps, Service Blueprints, diagrams, personas, and other visual artifacts that help teams understand and improve the user experience. Develop, prototype, test, and iterate service solutions aligned with user needs and business objectives, incorporating feedback into continuous im…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5476,7 +5648,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164652",
@@ -5508,7 +5682,7 @@
       "description": "Estamos em busca de um(a) Product Designer Sênior para atuar em projetos estratégicos e de grande impacto na Suflex. A pessoa ideal terá sólida experiência em UX/UI Design, forte domínio de Design Systems, e profundo entendimento dos princípios de design aplicados à criação de produtos digitais escaláveis e centrados no usuário. Você será responsável por transformar necessidades de negócio e insights de pesquisa em experiências digitais intuitivas, acessíveis e visualmente consistentes, colaborando de perto com outros Product Designers, Product Managers, Desenvolvedores, QAs e Stakeholders. Responsabilidades Liderar o processo de design de po…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5522,7 +5696,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164680",
@@ -5555,7 +5731,7 @@
       "description": "O que buscamos Estamos procurando um Product Designer Pleno para se juntar ao nosso time de Produto e fortalecer o chapter de Design. Buscamos uma pessoa com vivência em projetos complexos, pensamento estratégico e excelência na execução. Você atuará alocado(a) em uma das maiores construtoras da América Latina, colaborando com um time multidisciplinar para criar soluções digitais com alto impacto.Unimos tecnologia e design para resolver problemas complexos de empresas. Criamos produtos digitais que revolucionam o relacionamento entre empresas e consumidores. Ferramentas que utilizamos, mas não limitam nosso trabalho Figma Miro Maze Google Fir…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5567,7 +5743,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164730",
@@ -5599,7 +5777,7 @@
       "description": "A Jump busca um(a) UX Designer Sênior para desenhar experiências digitais (web e app) que sustentem as estratégias de personalização e conversão do squad, garantindo usabilidade e consistência de marca ao longo da jornada do cliente. Responsabilidades Conduzir pesquisas com usuários e análise de jornadas (onboarding, recarga, uso do cartão). Criar wireframes, protótipos e fluxos de tela para os testes de CRO. Colaborar com os CROs na definição de variantes de teste (design de experimentos). Garantir consistência visual e de usabilidade entre pontos de contato personalizados. Validar a viabilidade técnica das soluções propostas junto ao Dev Fu…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5611,7 +5789,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164818",
@@ -5643,7 +5823,7 @@
       "description": "Estamos em busca de um(a) UX Designer Pleno para atuar junto ao time de Dados, contribuindo na criação e evolução de dashboards, aplicações e experiências digitais orientadas por dados. Buscamos um profissional com experiência em discovery, prototipação e construção de interfaces, capaz de conectar necessidades de negócio, usuários e tecnologia para desenvolver soluções intuitivas e eficientes. Responsabilidades Conduzir processos de discovery com stakeholders de diferentes áreas de negócio, tecnologia e dados. Planejar e facilitar entrevistas, workshops, dinâmicas colaborativas e rituais de alinhamento. Mapear dores, oportunidades e necessid…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5657,7 +5837,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-164986",
@@ -5690,7 +5872,7 @@
       "description": "A Brivia busca um(a) Product Design Lead para atuar na área de Experience Designer. Este profissional será responsável por traduzir necessidades de negócios e solicitações de clientes em soluções de design viáveis e planos de ação claros para a equipe operacional, contribuindo para a performance e evolução dos resultados dos clientes e da Brivia. Responsabilidades Liderar e padronizar o ciclo completo de design de produto (end-to-end), desde a concepção até a entrega e o acompanhamento pós-lançamento. Conduzir Design Reviews e aplicar critérios de QA de Design, assegurando usabilidade, viabilidade técnica e alto nível de qualidade em todas as…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5704,7 +5886,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165070",
@@ -5736,7 +5920,7 @@
       "description": "O time de Design do Bling está em um momento de redesenho estrutural, desde a arquitetura de informação até as jornadas transacionais mais críticas para lojistas. A equipe busca reforçar sua capacidade de execução para garantir consistência e usabilidade em um ambiente de alta velocidade, com foco na visão cross da experiência. Responsabilidades Conduzir o design de ponta a ponta: da descoberta ao acompanhamento em produção, em jornadas de alta complexidade (fiscal, financeira, venda online, venda física). Ser a voz do cliente internamente, representando as necessidades do lojista em conversas com Produto e Engenharia. Criar soluções de alta …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5748,7 +5932,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165079",
@@ -5783,7 +5969,7 @@
       "description": "About the opportunity micro1 is looking for a Game Designer / Gameplay Developer to support an AI data-training project. The work focuses on reviewing and annotating videos of robotic-arm activity, rather than traditional game development. Scope of work Review videos of robotic-arm actions. Identify actions, states, cause-and-effect relationships and relevant interaction details. Annotate and label video content according to project guidelines. Provide clear written observations and maintain consistent annotation quality. Work independently and collaborate remotely with the project team. Preferred qualifications Experience in game design, gam…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5796,7 +5982,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165228",
@@ -5827,7 +6015,7 @@
       "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success. Product Designer – Design Systems at BairesDev As a Product Designer specializing in…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5839,7 +6027,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165232",
@@ -5870,7 +6060,7 @@
       "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success. Responsive Web Designer (Figma) at BairesDev As a Responsive Web Designer, you will …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5882,7 +6072,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165247",
@@ -5913,7 +6105,7 @@
       "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success. UX Designer (Design Systems & Figma) at BairesDev As a UX Designer specializing in D…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5925,7 +6117,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165248",
@@ -5956,7 +6150,7 @@
       "description": "At BairesDev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley. Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide. When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success. UX/UI Designer (Figma) at BairesDev As a UX/UI Designer, you will shape the digital …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -5968,7 +6162,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165362",
@@ -6000,7 +6196,7 @@
       "description": "A Radix busca um Gerente de Design UX/UI para liderar a estratégia e execução das frentes de UX/UI, conectando necessidades de usuários, objetivos de negócio e restrições técnicas. O profissional coordenará a equipe, definirá padrões de qualidade, revisará entregas e garantirá agilidade sem comprometer a experiência do usuário. Atuará na construção de soluções, apoiará decisões críticas e será o principal interlocutor de UX/UI com o cliente, traduzindo feedbacks em direcionamentos claros para designers, product managers e equipes de engenharia. Também será responsável por promover a integração entre Design, Produto, Engenharia e áreas de negó…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6013,7 +6209,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165408",
@@ -6046,7 +6244,7 @@
       "description": "A Objective busca UI/UX Designer Sênior/Especialista para atuar em um ambiente colaborativo e dinâmico, focado em aprendizado contínuo e desenvolvimento de grandes projetos para clientes nacionais e internacionais. O profissional será responsável por facilitar a colaboração entre design e engenharia, criando interfaces ricas e acessíveis para produtos digitais (web, mobile nativo e sites). Responsabilidades Mapear a arquitetura de informação, criar wireframes, protótipos, fluxos de navegação, layouts de botões, aplicar tipografia, esquemas de cores e componentes visuais atrativos. Garantir padrões de usabilidade, design responsivo, acessibili…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6061,7 +6259,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165434",
@@ -6093,7 +6293,7 @@
       "description": "A V4 Company está em busca de um Designer Gráfico Júnior para atuar na criação de materiais visuais e de comunicação, abrangendo desde páginas de vendas e captura até criativos e copys. O profissional trabalhará em um ambiente colaborativo e horizontal, focado em metas e com autonomia para tomar decisões. Responsabilidades Criar páginas de vendas, páginas de captura, criativos e copys. Desenvolver materiais considerando público-alvo e personas. Aplicar conhecimentos de Marketing Direto e Inbound Marketing. Comunicar e envolver diferentes públicos através do design. Colaborar com a equipe no desenvolvimento de artes, vídeos e landing pages. Co…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6107,7 +6307,9 @@
         "Híbrido fora de Belo Horizonte"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165459",
@@ -6141,7 +6343,7 @@
       "description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue. We're a remote-first team of 150+ people across 25+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. This isn't the right fit for everyone. The systems you’ll build here manage bill…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6154,7 +6356,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165470",
@@ -6188,7 +6392,7 @@
       "description": "RevenueCat gives app businesses the infrastructure and tools to build, run, and improve their monetization. Since graduating from YC's S18 batch, we've grown into the default monetization platform for mobile. We're in 50%+ of newly shipped subscription apps, we process $16B+ in annual purchase volume, and we help everyone from a solo developer to the OpenAI mobile team understand and grow their revenue. We're a remote-first team of 150+ people across 25+ countries, guided by values we actually practice: Customer Obsession, Always Be Shipping, Own It, and Balance. This isn't the right fit for everyone. The systems you’ll build here manage bill…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6200,7 +6404,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165779",
@@ -6233,7 +6439,7 @@
       "description": "A Clicksign, líder brasileira em assinaturas eletrônicas, busca um Product Designer com foco em IA e Inovação. Este profissional será responsável por transformar necessidades de usuários e oportunidades de negócio em experiências digitais simples, modernas e relevantes, explorando o potencial da inteligência artificial para aprimorar o design de produtos. Atuará de forma colaborativa e remota com equipes de Produto, Engenharia, Dados, Marketing e Sucesso do Cliente. Responsabilidades Projetar experiências estimulantes e eficientes para funcionalidades baseadas em IA generativa (assistentes virtuais, copilotos, busca semântica, recomendações p…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6245,7 +6451,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165863",
@@ -6280,7 +6488,7 @@
       "description": "SOBRE A OPORTUNIDADE A micro1 está recrutando profissionais de UX/UI para um projeto de anotação de vídeos voltado a tarefas avançadas com braços robóticos. A própria publicação indica trabalho remoto para América do Norte, América Latina, Europa, Reino Unido e Oceania. Contrato como especialista contribuinte. ESCOPO • Revisar vídeos de braços robóticos executando tarefas e anotar as sessões conforme as diretrizes. • Aplicar marcações e classificações precisas com base nos requisitos do projeto. • Usar ferramentas de anotação de vídeo para marcar ações, comportamentos e resultados. • Documentar observações e justificativas de forma clara e co…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6293,7 +6501,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-165967",
@@ -6324,7 +6534,7 @@
       "description": "SOBRE A VAGA Buscamos uma pessoa Senior Product Designer para transformar a experiência do App do Jusbrasil, um dos principais vetores de crescimento da plataforma. Você terá domínio de UI e UX, cuidará da qualidade das interações e trabalhará próxima ao time de produto para elevar a estratégia do aplicativo a uma experiência de excelência. Como a estratégia do app está em crescimento e ajuste, esperamos visão própria de produto e contribuição ativa para o que ainda está sendo descoberto. Você desenvolverá múltiplas soluções para o mesmo problema, testará com usuários reais, defenderá escolhas com argumentos e construirá consenso com o time e…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6336,7 +6546,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166069",
@@ -6371,7 +6583,7 @@
       "description": "We're looking for a Senior Product Designer to own up leveling the design of our core experiences across our worker and workplace apps. You'll partner closely with product and engineering to define vision, build roadmaps, and solve real problems for our customers. You'll talk to customers regularly and use what you learn to form a clear point of view on how to build solutions for their needs. You'll explore multiple directions, design user flows, visuals, and interactions, build detailed prototypes to test them with customers, and iterate until what ships is polished, intuitive, and impactful. This is an opportunity to build products in an in…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6384,7 +6596,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166072",
@@ -6418,7 +6632,7 @@
       "description": "At DotYeti, we believe great design should feel as good to make as it does to look at. We're a fully remote creative team helping businesses bring their ideas to life. Everything we make starts with two things: artistry in every detail and excellence in every delivery. The rest comes naturally: joy in the work, growth for everyone, and a team that has each other's backs. What you'll do: Creative Craft: Develop product illustrations, social media graphics, logos, print designs, animations, and videos made with real artistry and the kind of detail people notice. Quality & Delivery: Deliver polished, high-quality, and on-brand multimedia content…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6430,7 +6644,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166098",
@@ -6465,7 +6681,7 @@
       "description": "At DotYeti, we believe great design should feel as good to make as it does to look at. We're a fully remote creative team helping businesses bring their ideas to life. Everything we make starts with two things: artistry in every detail and excellence in every delivery. The rest comes naturally: joy in the work, growth for everyone, and a team that has each other's backs. What you'll do: Creative Craft: ﻿﻿Drive high-concept motion graphic directions, cinematic animations, complex video production, and visual strategies, made with real artistry and the kind of detail people notice. Quality & Delivery: ﻿Deliver benchmark-setting motion content, …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6477,7 +6693,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166099",
@@ -6511,7 +6729,7 @@
       "description": "You are a visually driven Web Designer who enjoys transforming product requirements, user needs, and brand direction into polished, engaging digital experiences. You have a strong eye for visual hierarchy, typography, composition, spacing, and detail, while understanding how your design decisions translate across responsive products and different digital touchpoints. You are comfortable taking ideas from early visual exploration through high-fidelity, development-ready designs, working within established design systems and brand standards. You collaborate effectively with product, UX, and engineering teams, bring consistency to complex digita…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6524,7 +6742,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166100",
@@ -6559,7 +6779,7 @@
       "description": "You are a Senior UX/UI Designer who is passionate about creating intuitive, user-centered digital experiences for complex enterprise applications. You thrive leading the end-to-end design process, from discovery and research to high-fidelity designs and engineering handoff, while balancing user needs, business goals, and technical constraints. You enjoy collaborating with Product Managers, Engineers, and business stakeholders to transform complex workflows into simple, scalable, and engaging experiences. You are proactive, detail-oriented, and comfortable working autonomously while driving design excellence across the entire product lifecycle…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6572,7 +6792,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166111",
@@ -6605,7 +6827,7 @@
       "description": "A MPLAN, braço de inteligência e planejamento estratégico do Grupo Guanabara, busca uma Pessoa Product Designer Sênior para transformar a experiência dos produtos digitais da empresa. O desafio vai além da estética, focando em repensar a base do software para simplificar fluxos complexos, eliminar cliques desnecessários e entregar uma experiência intuitiva, moderna e agradável para os usuários. Responsabilidades Analisar produtos e identificar problemas de UX e usabilidade. Redesenhar fluxos e funcionalidades, buscando simplicidade e eficiência. Transformar processos complexos em experiências simples e intuitivas. Criar um novo look & feel pa…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6617,7 +6839,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166307",
@@ -6650,7 +6874,7 @@
       "description": "Buscamos uma Pessoa UI/UX Designer Sênior para atuar com foco em softwares B2B e corporativos (Enterprise), especialmente em sistemas complexos e aplicações com alta densidade de dados. O profissional irá facilitar workshops, aplicar metodologias Lean UX, conduzir pesquisas com usuários e prototipagem, além de traduzir processos de negócios complexos em experiências de usuário intuitivas. Será fundamental colaborar com Product Owners e desenvolvedores para garantir a viabilidade técnica e a consistência das soluções de design, contribuindo também para a evolução do Design System e da biblioteca de componentes. Responsabilidades Facilitar work…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6663,7 +6887,9 @@
         "Exige inglês; busca restrita a português"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166404",
@@ -6695,7 +6921,7 @@
       "description": "Estamos em busca de uma pessoa Product Designer (UX/UI) para conduzir o ciclo completo de design dos nossos produtos digitais, da pesquisa à prototipação e testes. O papel central da função é transformar problemas complexos de negócio em experiências digitais intuitivas, claras e eficientes, atuando de forma integrada com os times de Produto e Engenharia. Trata-se de uma posição com impacto direto na evolução da plataforma, exigindo visão sistêmica, pensamento analítico e forte capacidade de colaboração. Responsabilidades Conduzir pesquisas qualitativas e quantitativas com usuários; Analisar dados de uso e identificar oportunidades de melhori…",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6707,7 +6933,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
       "id": "remotar-166504",
@@ -6741,7 +6969,7 @@
       "description": "Como Staff Product Designer (UX Especialista) do Astrea, você será a principal referência técnica de design do produto e responderá pela direção de design e usabilidade como parte da estratégia de produto. Sem alocar-se em um squad específico, você vai liderar os projetos mais estratégicos e transversais, como o redesign do produto e a organização e governança do design system, como guardião que garante que ele seja respeitado em todo o produto, conduzindo a execução junto aos designers dos squads e colocando a mão na massa nos momentos críticos. O papel não tem gestão de pessoas: você lidera por critério técnico, influência e exemplo, eleva …",
       "active": true,
       "recruiterUrl": null,
-      "applicationStatus": "not_applied",
+      "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
@@ -6753,7 +6981,9 @@
         "Especialidade fora do foco principal do perfil"
       ],
       "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     }
   ],
   "runs": [
