@@ -1,0 +1,19 @@
+{
+  "profile": {
+    "name": "Thaiane Siao",
+    "linkedin": "https://www.linkedin.com/in/thaiane-siao/",
+    "portfolio": "https://www.behance.net/thaianesilva3",
+    "roles": ["Designer Gráfico", "Diretor(a) de Arte", "Designer de Marca", "Designer Editorial", "Designer de Campanhas", "Designer Criativo"],
+    "skills": ["Photoshop", "Illustrator", "InDesign", "Canva", "Identidade visual", "Campanhas", "Design editorial", "Edição de vídeo"],
+    "location": "Belo Horizonte, MG"
+  },
+  "criteria": {"salaryAbove": 7000, "currency": "BRL", "period": "monthly", "hybridCity": "Belo Horizonte", "maxOfficeDays": 2, "language": "pt-BR"},
+  "queries": ["designer", "diretor de arte", "design editorial", "branding"],
+  "sources": [
+    {"name": "Remotar", "url": "https://remotar.com.br/search/jobs?q=designer", "priority": 1, "mode": "Coleta automática", "reason": "Vagas remotas e híbridas com categorias Design e Marketing; agrega Gupy, Inhire e outros portais. Salário nem sempre disponível."},
+    {"name": "trampos", "url": "https://trampos.co/oportunidades", "priority": 2, "mode": "Pesquisa assistida diária", "reason": "Especializada em criação, design e marketing; boa aderência a direção de arte e identidade visual."},
+    {"name": "LinkedIn Jobs", "url": "https://www.linkedin.com/jobs/search/?keywords=designer%20gr%C3%A1fico&location=Brasil&f_WT=2%2C3", "priority": 3, "mode": "Pesquisa assistida diária", "reason": "Busca por remoto/híbrido e contato com recrutadores. Candidatura exige a conta correta de Thaiane."},
+    {"name": "Gupy", "url": "https://portal.gupy.io/", "priority": 4, "mode": "Vagas via Remotar + pesquisa assistida", "reason": "Página original de muitas empresas brasileiras. Formulários e perguntas variam por empresa."},
+    {"name": "99jobs", "url": "https://www.99jobs.com/", "priority": 5, "mode": "Pesquisa assistida diária", "reason": "Fonte complementar de empresas brasileiras; conferir modalidade e senioridade em cada anúncio."}
+  ]
+}
