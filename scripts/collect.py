@@ -11,6 +11,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = json.loads((ROOT / 'config.json').read_text(encoding='utf-8'))
+PUBLIC_ASSISTED_FIELDS = {
+    'id', 'title', 'company', 'url', 'applyUrl', 'source', 'sourceSystem',
+    'publishedAt', 'publishedAtPrecision', 'checkedAt', 'workMode', 'city',
+    'officeDays', 'salary', 'portugueseConfirmed', 'adLanguage', 'requiresEnglish',
+    'tags', 'description', 'active', 'recruiterUrl', 'applicationStatus',
+    'contactStatus', 'contactedAt', 'applicationNote'
+}
+
+def public_assisted(record):
+    # Explicit publication boundary: never read .private or copy message/proof fields.
+    safe = {k: v for k, v in record.items() if k in PUBLIC_ASSISTED_FIELDS}
+    if '/messaging/thread/' in json.dumps(safe):
+        raise ValueError('Private conversation links cannot be published')
+    return safe
 
 def norm(value):
     return ''.join(c for c in unicodedata.normalize('NFD', str(value or '').lower()) if unicodedata.category(c) != 'Mn')
@@ -110,6 +124,13 @@ def main():
     path = ROOT / 'data' / 'jobs.json'
     old = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'jobs': [], 'runs': []}
     jobs = {j['id']: j for j in old['jobs']}
+    assisted_path = ROOT / 'data' / 'assisted.json'
+    if assisted_path.exists():
+        for record in json.loads(assisted_path.read_text(encoding='utf-8')):
+            assisted = public_assisted(record)
+            previous = jobs.get(assisted['id'], {})
+            assisted['firstSeenAt'] = previous.get('firstSeenAt', assisted['checkedAt'])
+            jobs[assisted['id']] = classify(assisted)
     override_path = ROOT / 'data' / 'verified.json'
     overrides = json.loads(override_path.read_text(encoding='utf-8')) if override_path.exists() else {}
     errors, fetched = [], set()
@@ -145,7 +166,7 @@ def main():
             job['rejectionReasons'] = list(dict.fromkeys(job['rejectionReasons'] + ['Inscrições encerradas na página original']))
     run = {'at': now, 'fetched': len(fetched), 'pages': pages, 'errors': errors, 'status': 'failed' if not pages else ('partial' if errors else 'success')}
     result = {'updatedAt': now, 'lastSuccessAt': now if not errors else old.get('lastSuccessAt'),
-              'coverage': 'Remotar: até 3 páginas por termo. Outras fontes: pesquisa assistida pelo Codex.',
+              'coverage': 'Remotar: até 3 páginas por termo. LinkedIn e outras fontes: pesquisa assistida pelo Codex; cada vaga mantém a data da própria verificação.',
               'jobs': sorted(jobs.values(), key=lambda j: (j['eligibility'] == 'excluded', -j['score'], j.get('publishedAt') or '' )),
               'runs': ([run] + old.get('runs', []))[:30]}
     path.parent.mkdir(exist_ok=True)

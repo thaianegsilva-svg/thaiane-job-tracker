@@ -28,6 +28,7 @@ Uma automação assistida do Codex complementa a pesquisa nas outras fontes, rev
 - Atualizar painel consulta o último JSON publicado; não inicia uma coleta no servidor. Para coletar imediatamente, execute o workflow em Actions.
 - `data/jobs.json` guarda registros compartilhados de coleta/ações verificadas. Não publicar telefone, endereço, currículo, e-mail pessoal, credenciais nem conteúdo privado de conversas.
 - `data/verified.json` preserva verificações assistidas da página original, incluindo seleções encerradas que o agregador ainda divulga. Remover ou revisar uma marca de encerramento somente com evidência nova da fonte original.
+- `data/assisted.json` contém vagas revisadas manualmente no LinkedIn e respectivos estados verificados. Atualizar o registro neste arquivo para persistir novas respostas ou candidaturas; o coletor o incorpora a cada execução. Datas relativas do anúncio são aproximadas; a data da consulta é explícita. Conversas e comprovantes privados permanecem em `.private/` (ignorado pelo Git).
 - `score` é uma heurística por sinais de ferramentas e especialidades, **não uma probabilidade de contratação**. Sempre conferir todos os requisitos no anúncio original.
 - Resultados não revisitados há 48h ficam desatualizados. Uma vaga ainda listada pela fonte pode já estar encerrada na empresa; validar na candidatura.
 

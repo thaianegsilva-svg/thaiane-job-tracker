@@ -2,7 +2,7 @@ import sys
 import unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from collect import classify, convert
+from collect import classify, convert, public_assisted
 
 class EligibilityTests(unittest.TestCase):
     def job(self, **changes):
@@ -23,6 +23,11 @@ class EligibilityTests(unittest.TestCase):
     def test_ux_not_assumed(self): self.assertEqual(self.job(title='Senior Product Designer UX')['eligibility'],'excluded')
     def test_closed_not_eligible(self): self.assertEqual(self.job(active=False)['eligibility'],'excluded')
     def test_frontend_not_graphic_design(self): self.assertEqual(self.job(title='Especialista FrontEnd Design System')['eligibility'],'excluded')
+    def test_private_message_fields_never_exported(self):
+        safe = public_assisted(dict(id='linkedin-1',title='Designer',message='private body',conversationUrl='private link',sender='private sender',recipient='private recipient'))
+        self.assertEqual(safe,dict(id='linkedin-1',title='Designer'))
+    def test_private_thread_url_rejected(self):
+        with self.assertRaises(ValueError): public_assisted(dict(url='https://www.linkedin.com/messaging/thread/private'))
     def test_source_salary_is_cents(self):
         job=convert(dict(id=1,title='Designer Gráfico',active=True,type='remote',jobSalary=dict(type='monthly',currency='BRL',**{'from':300000,'to':500000})), '2026-10-16T00:00:00+00:00')
         self.assertEqual(job['salary']['min'],3000)
