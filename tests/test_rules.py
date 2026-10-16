@@ -22,6 +22,7 @@ class EligibilityTests(unittest.TestCase):
     def test_three_days_excluded(self): self.assertEqual(self.job(workMode='hybrid',city='Belo Horizonte',officeDays=3)['eligibility'],'excluded')
     def test_ux_not_assumed(self): self.assertEqual(self.job(title='Senior Product Designer UX')['eligibility'],'excluded')
     def test_closed_not_eligible(self): self.assertEqual(self.job(active=False)['eligibility'],'excluded')
+    def test_unmet_mandatory_skill_excluded(self): self.assertEqual(self.job(unmetRequirements=['Figma obrigatório não atendido'])['eligibility'],'excluded')
     def test_frontend_not_graphic_design(self): self.assertEqual(self.job(title='Especialista FrontEnd Design System')['eligibility'],'excluded')
     def test_private_message_fields_never_exported(self):
         safe = public_assisted(dict(id='linkedin-1',title='Designer',message='private body',conversationUrl='private link',sender='private sender',recipient='private recipient'))

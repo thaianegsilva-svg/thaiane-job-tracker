@@ -16,7 +16,7 @@ PUBLIC_ASSISTED_FIELDS = {
     'publishedAt', 'publishedAtPrecision', 'checkedAt', 'workMode', 'city',
     'officeDays', 'salary', 'portugueseConfirmed', 'adLanguage', 'requiresEnglish',
     'tags', 'description', 'active', 'recruiterUrl', 'applicationStatus',
-    'contactStatus', 'contactedAt', 'applicationNote'
+    'contactStatus', 'contactedAt', 'applicationNote', 'unmetRequirements'
 }
 
 def public_assisted(record):
@@ -53,6 +53,7 @@ def classify(job):
         rejected.append('Senioridade inicial fora do foco desta busca')
     if not role: rejected.append('Cargo fora do foco')
     if not job.get('active', True): rejected.append('Inscrições encerradas ou vaga inativa')
+    rejected.extend(job.get('unmetRequirements', []))
     if job['workMode'] == 'hybrid':
         if norm(job.get('city')) != norm(CONFIG['criteria']['hybridCity']):
             if job.get('city'): rejected.append('Híbrido fora de Belo Horizonte')

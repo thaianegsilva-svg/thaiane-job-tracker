@@ -24,7 +24,8 @@
     "applicationStatus": "contacted",
     "contactStatus": "sent",
     "contactedAt": "2026-10-16T03:23:00Z",
-    "applicationNote": "Contato realizado pelo LinkedIn da candidata para confirmar remuneração, idioma e condições do remoto. Aguardando resposta. Conhecimentos de Figma, PowerPoint e IA ainda precisam de validação com a candidata; não constam explicitamente do currículo fornecido. Nenhuma candidatura enviada."
+    "unmetRequirements": ["Conhecimento de Figma exigido; candidata informou não possuir"],
+    "applicationNote": "Contato já enviado pelo LinkedIn para confirmar remuneração, idioma e condições do remoto. Posteriormente, a candidata confirmou que não possui Figma, exigido no anúncio. PowerPoint e ChatGPT para criação: avançados. Não candidatar enquanto o requisito obrigatório de Figma permanecer. Nenhuma candidatura enviada."
   },
   {
     "id": "linkedin-4476470718",
@@ -73,6 +74,7 @@
     "active": true,
     "recruiterUrl": null,
     "applicationStatus": "not_applied",
-    "applicationNote": "Salário e idioma de trabalho precisam de confirmação. Figma, Premiere Pro e CapCut não estão comprovados no currículo fornecido. Não foi identificado recrutador individual no anúncio. Nenhuma candidatura enviada."
+    "unmetRequirements": ["Domínio de Figma obrigatório; candidata informou não possuir"],
+    "applicationNote": "Excluída após confirmação da candidata: não possui Figma, cujo domínio é obrigatório. Salário e idioma também não estão confirmados. Nenhuma candidatura enviada."
   }
 ]
