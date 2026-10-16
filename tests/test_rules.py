@@ -2,9 +2,17 @@ import sys
 import unittest
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
-from collect import classify, convert, public_assisted
+from collect import classify, convert, public_assisted, deduplicate
 
 class EligibilityTests(unittest.TestCase):
+    def test_duplicate_application_prefers_assisted_review(self):
+        jobs=[dict(id='feed-1',source='Remotar',applyUrl='https://jobs.example/job/1/application?source=feed'),dict(id='review-1',source='LinkedIn',applyUrl='https://jobs.example/job/1/?source=linkedin')]
+        result=deduplicate(jobs)
+        self.assertEqual(len(result),1)
+        self.assertEqual(result[0]['id'],'review-1')
+        self.assertEqual(result[0]['duplicateIds'],['feed-1'])
+    def test_different_application_paths_remain_separate(self):
+        self.assertEqual(len(deduplicate([dict(id='1',url='https://jobs.example/1'),dict(id='2',url='https://jobs.example/2')])),2)
     def job(self, **changes):
         j=dict(title='Designer Gráfico Sênior', description='Photoshop Illustrator identidade visual', workMode='remote',city=None,officeDays=None,portugueseConfirmed=True,requiresEnglish=False,salary=dict(min=8000,max=9000,currency='BRL',period='monthly'))
         j.update(changes)

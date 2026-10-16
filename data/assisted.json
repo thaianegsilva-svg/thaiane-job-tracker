@@ -13,18 +13,29 @@
     "workMode": "remote",
     "city": "Belo Horizonte",
     "officeDays": null,
-    "salary": {"min": null, "max": null, "currency": null, "period": null},
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
     "portugueseConfirmed": false,
     "adLanguage": "pt-BR",
     "requiresEnglish": false,
-    "tags": ["CLT", "Remoto", "Banco de talentos"],
+    "tags": [
+      "CLT",
+      "Remoto",
+      "Banco de talentos"
+    ],
     "description": "Banco de talentos para criação de campanhas, conceitos visuais, identidade de marca, materiais digitais e impressos e apresentações. Exige Photoshop, Illustrator e InDesign; também menciona Figma, PowerPoint e uso de IA. After Effects é diferencial. Anúncio informa CLT, remoto, de segunda a sexta, das 8h às 17h30. Salário e idioma de trabalho não estão explícitos.",
     "active": true,
     "recruiterUrl": "https://www.linkedin.com/company/star-7latam/home/",
     "applicationStatus": "contacted",
     "contactStatus": "sent",
     "contactedAt": "2026-10-16T03:23:00Z",
-    "unmetRequirements": ["Conhecimento de Figma exigido; candidata informou não possuir"],
+    "unmetRequirements": [
+      "Conhecimento de Figma exigido; candidata informou não possuir"
+    ],
     "applicationNote": "Contato já enviado pelo LinkedIn para confirmar remuneração, idioma e condições do remoto. Posteriormente, a candidata confirmou que não possui Figma, exigido no anúncio. PowerPoint e ChatGPT para criação: avançados. Não candidatar enquanto o requisito obrigatório de Figma permanecer. Nenhuma candidatura enviada."
   },
   {
@@ -40,11 +51,19 @@
     "workMode": "hybrid",
     "city": "Betim",
     "officeDays": null,
-    "salary": {"min": null, "max": null, "currency": null, "period": null},
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
     "portugueseConfirmed": false,
     "adLanguage": "pt-BR",
     "requiresEnglish": false,
-    "tags": ["Híbrido", "Betim"],
+    "tags": [
+      "Híbrido",
+      "Betim"
+    ],
     "description": "Anúncio aparece em Belo Horizonte e Região, mas o texto exige disponibilidade para atuação híbrida em Betim/MG. Solicita formação em Design de Produto ou Automotivo, experiência gráfica, Photoshop e Illustrator; modelagem poligonal é mencionada. Inglês B2 é desejável. Não atende à restrição de híbrido somente na cidade de Belo Horizonte.",
     "active": true,
     "recruiterUrl": null,
@@ -65,16 +84,116 @@
     "workMode": "remote",
     "city": "São Paulo",
     "officeDays": null,
-    "salary": {"min": null, "max": null, "currency": null, "period": null},
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
     "portugueseConfirmed": false,
     "adLanguage": "pt-BR",
     "requiresEnglish": false,
-    "tags": ["PJ", "100% remoto"],
+    "tags": [
+      "PJ",
+      "100% remoto"
+    ],
     "description": "Oportunidade para a Base Viral, divulgada por Sales Leaders Group. Criação de campanhas, anúncios e redes sociais, apresentações, impressos, identidade visual e vídeos. Anúncio informa contratação PJ e trabalho 100% remoto; remuneração descrita apenas como competitiva. Exige domínio de Figma, Illustrator e Photoshop e conhecimento de Premiere Pro e CapCut.",
     "active": true,
     "recruiterUrl": null,
     "applicationStatus": "not_applied",
-    "unmetRequirements": ["Domínio de Figma obrigatório; candidata informou não possuir"],
+    "unmetRequirements": [
+      "Domínio de Figma obrigatório; candidata informou não possuir"
+    ],
     "applicationNote": "Excluída após confirmação da candidata: não possui Figma, cujo domínio é obrigatório. Salário e idioma também não estão confirmados. Nenhuma candidatura enviada."
+  },
+  {
+    "publishedAt": null,
+    "checkedAt": "2026-10-16T15:06:53.168112+00:00",
+    "workMode": "remote",
+    "city": "Recife",
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [],
+    "active": true,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "id": "gupy-12702190",
+    "title": "Designer Gráfico Pleno",
+    "company": "Buzzmonitor",
+    "url": "https://buzzmonitor.gupy.io/jobs/12702190",
+    "applyUrl": "https://buzzmonitor.gupy.io/jobs/12702190",
+    "source": "Gupy",
+    "description": "Criação para redes sociais, vídeos, landing pages, apresentações e materiais de eventos. A vaga se apresenta como remota, mas exige residência em Recife para encontros presenciais. Não atende à localização da candidata em Belo Horizonte.",
+    "unmetRequirements": [
+      "Residência obrigatória em Recife, incompatível com a candidata em Belo Horizonte"
+    ],
+    "applicationNote": "Anúncio original conferido. Não candidatar: exigência territorial não atendida."
+  },
+  {
+    "publishedAt": null,
+    "checkedAt": "2026-10-16T15:06:53.168112+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [],
+    "active": false,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "id": "99jobs-204278",
+    "title": "Visual Designer Pleno",
+    "company": "Gama Academy",
+    "url": "https://99jobs.com/gama-academy/jobs/204278-visual-designer-pleno?preview=true",
+    "applyUrl": "https://99jobs.com/gama-academy/jobs/204278-visual-designer-pleno?preview=true",
+    "source": "99jobs",
+    "description": "Criação de peças para campanhas e lançamentos, redes sociais e vídeos. A página original informa inscrições encerradas. As menções a trabalho remoto no conteúdo não reabrem a seleção.",
+    "applicationNote": "Inscrições encerradas na página original; nenhum contato ou candidatura realizado."
+  },
+  {
+    "publishedAt": null,
+    "checkedAt": "2026-10-16T15:06:53.168112+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "en",
+    "requiresEnglish": false,
+    "tags": [],
+    "active": true,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "id": "linkedin-4479170496",
+    "title": "Staff Brand Designer - Consumer",
+    "company": "Kraken",
+    "url": "https://www.linkedin.com/jobs/view/4479170496/",
+    "applyUrl": "https://jobs.ashbyhq.com/kraken.com/1e7c38ce-3bd3-46a7-878f-f551ccbeebcb/application",
+    "source": "LinkedIn",
+    "description": "Vaga remota de branding com produção 2D e 3D. Exige Figma em nível especialista e domínio de Cinema 4D, além de experiência de pelo menos sete anos e portfólio com produção 3D. Figma obrigatório não é atendido; Cinema 4D não está comprovado no currículo.",
+    "unmetRequirements": [
+      "Figma em nível especialista obrigatório; candidata não possui Figma"
+    ],
+    "applicationNote": "Revisada na conta de Thaiane. Excluída por requisito obrigatório não atendido; sem candidatura ou contato."
   }
 ]

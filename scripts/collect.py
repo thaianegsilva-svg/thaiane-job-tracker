@@ -32,6 +32,20 @@ def norm(value):
 def plain(value):
     return re.sub(r'\s+', ' ', html.unescape(re.sub('<[^>]+>', ' ', value or ''))).strip()
 
+def deduplicate(jobs):
+    by_url = {}
+    # Prefer an assisted review or an action already recorded for the same application.
+    ordered = sorted(jobs, key=lambda j: (j.get('applicationStatus', 'not_applied') == 'not_applied', j.get('source') == 'Remotar'))
+    for job in ordered:
+        url = urllib.parse.urlsplit(job.get('applyUrl') or job['url'])
+        key = (url.netloc.lower(), url.path.rstrip('/').removesuffix('/application'))
+        if key not in by_url:
+            by_url[key] = job
+        else:
+            kept = by_url[key]
+            kept['duplicateIds'] = sorted(set(kept.get('duplicateIds', []) + job.get('duplicateIds', []) + [job['id']]))
+    return list(by_url.values())
+
 def get_json(url):
     request = urllib.request.Request(url, headers={'User-Agent': 'ThaianeJobTracker/1.0 (public job discovery)', 'Accept': 'application/json'})
     for attempt in range(3):
@@ -161,6 +175,10 @@ def main():
         job = jobs[job_id]
         job['verification'] = override
         job['applicationNote'] = override['note']
+        if override.get('unmetRequirements'):
+            job['unmetRequirements'] = override['unmetRequirements']
+            job['rejectionReasons'] = list(dict.fromkeys(job['rejectionReasons'] + override['unmetRequirements']))
+            job['eligibility'] = 'excluded'
         if override.get('closed'):
             job['active'] = False
             job['eligibility'] = 'excluded'
@@ -168,7 +186,7 @@ def main():
     run = {'at': now, 'fetched': len(fetched), 'pages': pages, 'errors': errors, 'status': 'failed' if not pages else ('partial' if errors else 'success')}
     result = {'updatedAt': now, 'lastSuccessAt': now if not errors else old.get('lastSuccessAt'),
               'coverage': 'Remotar: até 3 páginas por termo. LinkedIn e outras fontes: pesquisa assistida pelo Codex; cada vaga mantém a data da própria verificação.',
-              'jobs': sorted(jobs.values(), key=lambda j: (j['eligibility'] == 'excluded', -j['score'], j.get('publishedAt') or '' )),
+              'jobs': sorted(deduplicate(jobs.values()), key=lambda j: (j['eligibility'] == 'excluded', -j['score'], j.get('publishedAt') or '' )),
               'runs': ([run] + old.get('runs', []))[:30]}
     path.parent.mkdir(exist_ok=True)
     path.write_text(json.dumps(result, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
