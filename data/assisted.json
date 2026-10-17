@@ -195,5 +195,41 @@
       "Figma em nível especialista obrigatório; candidata não possui Figma"
     ],
     "applicationNote": "Revisada na conta de Thaiane. Excluída por requisito obrigatório não atendido; sem candidatura ou contato."
+  },
+  {
+    "id": "linkedin-4480804196",
+    "title": "Analista de Social Media e Design",
+    "company": "Grupo MCX",
+    "url": "https://www.linkedin.com/jobs/view/4480804196/",
+    "applyUrl": "https://grupomcx.vagas.solides.com.br/vaga/939361",
+    "source": "LinkedIn",
+    "sourceSystem": "solides",
+    "publishedAt": "2026-10-17T00:00:00-03:00",
+    "publishedAtPrecision": "day_estimated_from_listing",
+    "checkedAt": "2026-10-17T15:28:13.199930+00:00",
+    "workMode": "hybrid",
+    "city": "Belo Horizonte",
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "Híbrido",
+      "CLT",
+      "Belo Horizonte"
+    ],
+    "description": "Criação de peças gráficas para redes sociais, campanhas, apresentações, comunicação interna e identidade da marca. Inclui calendário editorial, textos e acompanhamento das redes. Exige ensino superior completo ou em curso em Publicidade, Design Gráfico ou Cinema. Tráfego pago é diferencial. Anúncio original confirma híbrido em Belo Horizonte; salário, idioma de trabalho e dias presenciais não informados.",
+    "active": true,
+    "recruiterUrl": "https://www.linkedin.com/company/grupomcx/",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-17T15:28:13.199930+00:00",
+    "applicationNote": "Solicitação enviada ao canal oficial de Carreiras do Grupo MCX pelo LinkedIn para confirmar salário mensal fixo acima de R$ 7.000, idioma e até 2 dias presenciais em BH. Envio confirmado pelo LinkedIn. Aguardar resposta antes de candidatar. Portal Sólides informou manutenção de login e candidaturas em 17/10 até 17h; anúncio segue acessível."
   }
 ]

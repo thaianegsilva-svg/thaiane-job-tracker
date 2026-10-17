@@ -56,9 +56,10 @@ Não há dependências Python externas. JavaScript sem build. Ações oficiais d
 ## Procedimento diário assistido
 
 1. Sincronizar `main` sem sobrescrever alterações locais. Conferir execução e cobertura do coletor.
-2. Pesquisar as fontes priorizadas e anúncios originais dos cargos em português. Deduplicar pelo link original/empresa/cargo; não inventar vagas, salário ou contato.
-3. Revalidar modalidade, BH/dias, salário fixo mensal em reais, idioma, atividade da vaga e todos os requisitos obrigatórios contra o currículo privado.
-4. Quando faltar salário, idioma ou dias presenciais, procurar o recrutador identificado no anúncio. Enviar uma pergunta objetiva somente por canal verificado e com a identidade real do remetente; mencionar que está auxiliando a candidata se a conta for de outra pessoa. Sem contato verificável, registrar bloqueio, sem adivinhar e-mail.
-5. Tentar candidatar apenas com dados verdadeiros e a conta da candidata. Não responder perguntas pessoais desconhecidas nem aceitar termos/compromissos em nome dela. Interromper no ponto que exigir intervenção humana.
-6. Registrar envio somente com protocolo, URL ou evidência verificável. Comprovantes privados ficam privados. Publicar apenas situação e referência pública, sem conteúdo de mensagens.
-7. Atualizar `data/jobs.json`, validar, fazer commit/push e conferir deploy. Notificar somente novas oportunidades relevantes, envios, falhas ou ação necessária.
+2. Consultar os comprovantes privados em `.private/*-contact.json` e verificar respostas na conta correta, sem reenviar solicitações já registradas. Nunca publicar os comprovantes ou links das conversas.
+3. Pesquisar as fontes priorizadas e anúncios originais dos cargos em português. Deduplicar pelo link original/empresa/cargo; não inventar vagas, salário ou contato.
+4. Revalidar modalidade, BH/dias, salário fixo mensal em reais, idioma, atividade da vaga e todos os requisitos obrigatórios contra o currículo privado.
+5. Quando faltar salário, idioma ou dias presenciais, procurar o recrutador identificado no anúncio. Enviar uma pergunta objetiva somente por canal verificado e com a identidade real do remetente; mencionar que está auxiliando a candidata se a conta for de outra pessoa. Sem contato verificável, registrar bloqueio, sem adivinhar e-mail.
+6. Tentar candidatar apenas com dados verdadeiros e a conta da candidata. Não responder perguntas pessoais desconhecidas nem aceitar termos/compromissos em nome dela. Interromper no ponto que exigir intervenção humana.
+7. Registrar envio somente com protocolo, URL ou evidência verificável. Comprovantes privados ficam privados. Publicar apenas situação e referência pública, sem conteúdo de mensagens.
+8. Atualizar `data/jobs.json`, validar, fazer commit/push e conferir deploy. Notificar somente novas oportunidades relevantes, envios, falhas ou ação necessária.
