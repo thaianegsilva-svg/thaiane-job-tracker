@@ -263,5 +263,40 @@
     "recruiterUrl": "https://www.linkedin.com/in/carlosbsfilho/",
     "applicationStatus": "not_applied",
     "applicationNote": "Anunciante identificado no próprio LinkedIn, porém sem contato ou candidatura por salário abaixo do limite e híbrido fora de BH, com 4 dias presenciais."
+  },
+  {
+    "id": "trampos-774758",
+    "title": "Diretor(a) de Arte Pleno",
+    "company": "Nest Comunicação",
+    "url": "https://www.trampos.co/oportunidades/774758-diretor-a-de-arte-pleno",
+    "applyUrl": "https://www.trampos.co/oportunidades/774758-diretor-a-de-arte-pleno",
+    "source": "trampos",
+    "sourceSystem": "trampos",
+    "publishedAt": null,
+    "checkedAt": "2026-10-19T15:07:26.118742+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "PJ",
+      "100% home office",
+      "Figma desejável"
+    ],
+    "description": "Conceitos de campanhas, key visuals, branding, identidade visual, redes sociais e apresentações. Requer formação em design/publicidade, experiência em agência e Photoshop, Illustrator, InDesign, Premiere e After Effects. Figma e UX/UI são desejáveis. Contrato PJ e 100% home office. Salário e idioma de trabalho não divulgados.",
+    "active": true,
+    "recruiterUrl": "https://www.linkedin.com/company/nestcomunicacao/",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-19T15:07:26.118742+00:00",
+    "applicationNote": "Solicitação enviada ao canal oficial de Carreiras da Nest pelo LinkedIn, com confirmação de envio. Aguardar salário mensal fixo acima de R$ 7.000, idioma de trabalho e remoto para residente em BH. Confirmar se Premiere é indispensável ou se aceitam experiência em edição de vídeo/After Effects com adaptação; Premiere não consta do currículo. Figma apenas desejável. Exigência de dedicação exclusiva durante o período de atuação também precisa ser validada antes de eventual candidatura. Nenhuma candidatura enviada."
   }
 ]
