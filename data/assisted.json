@@ -108,7 +108,7 @@
   },
   {
     "publishedAt": null,
-    "checkedAt": "2026-10-16T15:06:53.168112+00:00",
+    "checkedAt": "2026-10-20T15:03:50.879329+00:00",
     "workMode": "remote",
     "city": "Recife",
     "officeDays": null,
@@ -122,7 +122,7 @@
     "adLanguage": "pt-BR",
     "requiresEnglish": false,
     "tags": [],
-    "active": true,
+    "active": false,
     "recruiterUrl": null,
     "applicationStatus": "not_applied",
     "id": "gupy-12702190",
@@ -135,7 +135,7 @@
     "unmetRequirements": [
       "Residência obrigatória em Recife, incompatível com a candidata em Belo Horizonte"
     ],
-    "applicationNote": "Anúncio original conferido. Não candidatar: exigência territorial não atendida."
+    "applicationNote": "Página original da Gupy passou a informar inscrições encerradas. Mantida a incompatibilidade por residência obrigatória em Recife. Nenhuma candidatura enviada."
   },
   {
     "publishedAt": null,
@@ -273,7 +273,7 @@
     "source": "trampos",
     "sourceSystem": "trampos",
     "publishedAt": null,
-    "checkedAt": "2026-10-19T15:07:26.118742+00:00",
+    "checkedAt": "2026-10-20T15:03:50.879329+00:00",
     "workMode": "remote",
     "city": null,
     "officeDays": null,
@@ -298,5 +298,100 @@
     "contactStatus": "sent",
     "contactedAt": "2026-10-19T15:07:26.118742+00:00",
     "applicationNote": "Solicitação enviada ao canal oficial de Carreiras da Nest pelo LinkedIn, com confirmação de envio. Aguardar salário mensal fixo acima de R$ 7.000, idioma de trabalho e remoto para residente em BH. Confirmar se Premiere é indispensável ou se aceitam experiência em edição de vídeo/After Effects com adaptação; Premiere não consta do currículo. Figma apenas desejável. Exigência de dedicação exclusiva durante o período de atuação também precisa ser validada antes de eventual candidatura. Nenhuma candidatura enviada."
+  },
+  {
+    "id": "linkedin-4478625226",
+    "title": "Diretor de Arte Pleno",
+    "company": "Eyemobile",
+    "url": "https://www.linkedin.com/jobs/view/4478625226/",
+    "applyUrl": "https://www.linkedin.com/jobs/view/4478625226/",
+    "source": "LinkedIn",
+    "publishedAt": null,
+    "checkedAt": "2026-10-20T15:06:05.409180+00:00",
+    "workMode": "hybrid",
+    "city": "São Paulo",
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [],
+    "active": true,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "description": "Comunicação visual, campanhas, apresentações, branding e motion design. Embora marcado remoto no LinkedIn, o texto exige disponibilidade híbrida em São Paulo. Exige também noções práticas de Figma para colaboração com Produto e Tecnologia.",
+    "unmetRequirements": [
+      "Atuação híbrida em São Paulo exigida no texto original",
+      "Noções práticas de Figma obrigatórias; candidata não possui Figma"
+    ],
+    "applicationNote": "Anúncio original publicado pela Eyemobile no LinkedIn revisado. Incompatível com híbrido somente em BH e competência Figma. Nenhum envio realizado."
+  },
+  {
+    "id": "linkedin-4478606214",
+    "title": "Designer Gráfico - Remoto",
+    "company": "Pessoalize RH / Stanley Gibbons Baldwins",
+    "url": "https://www.linkedin.com/jobs/view/4478606214/",
+    "applyUrl": "https://jobs.quickin.io/pessoalizerh/jobs/6ab09a2379c1fb00129e3b39",
+    "source": "LinkedIn",
+    "publishedAt": null,
+    "checkedAt": "2026-10-20T15:06:05.409180+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": 3000,
+      "max": 5000,
+      "currency": "BRL",
+      "period": "monthly"
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": true,
+    "tags": [],
+    "active": true,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "description": "Design gráfico para catálogos, produtos físicos, campanhas digitais e contato com equipe britânica. Exige Figma, Affinity e Adobe, além de inglês para briefings e comunicação escrita. LinkedIn informa R$ 3 mil a R$ 5 mil por mês; original Quickin confirma faixa e requisitos.",
+    "unmetRequirements": [
+      "Domínio de Figma obrigatório; candidata não possui Figma"
+    ],
+    "applicationNote": "Original Quickin e anúncio da recrutadora conferidos. Fora do salário mínimo, idioma de trabalho e Figma. Nenhum envio realizado."
+  },
+  {
+    "id": "linkedin-4478671959",
+    "title": "Designer gráfico freelancer",
+    "company": "Onet Brasil",
+    "url": "https://www.linkedin.com/jobs/view/4478671959/",
+    "applyUrl": "https://www.linkedin.com/jobs/view/4478671959/",
+    "source": "LinkedIn",
+    "publishedAt": null,
+    "checkedAt": "2026-10-20T15:06:05.409180+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "Remoto",
+      "Freelancer",
+      "Adobe ou Figma"
+    ],
+    "active": true,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "description": "Criação de peças para redes sociais, identidade visual, apresentações B2B, materiais de eventos e campanhas. Requer experiência em design gráfico e domínio de Figma e/ou Adobe Photoshop, Illustrator e InDesign; Adobe é alternativa aceita no texto. Motion, IA generativa e experiência em saúde/educação são diferenciais. Trabalho remoto com alinhamentos online; contratação por projeto ou demanda recorrente a combinar.",
+    "applicationNote": "Aderência temática e ferramentas Adobe compatíveis. Sem confirmação de valor fixo mensal acima de R$ 7.000, idioma de trabalho e disponibilidade da candidata para o modelo por projeto/demanda. Recrutador individual não identificado no anúncio; página oficial da Onet não disponibiliza mensagens ou canal Carreiras no LinkedIn. Contato bloqueado por ausência de canal de recrutamento verificável. Nenhuma candidatura ou mensagem enviada."
   }
 ]
