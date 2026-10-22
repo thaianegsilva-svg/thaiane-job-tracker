@@ -459,5 +459,74 @@
     "applicationStatus": "not_applied",
     "description": "Criação de peças digitais, PDV, impressos, anúncios, campanhas, branding e apresentações. Requer formação em Design ou área correlata, Photoshop e Illustrator avançados, experiência e portfólio. RD Station, Salesforce, vídeo, animação, UX/UI e HTML aparecem como desejáveis ou diferenciais. LinkedIn informa híbrido em Belo Horizonte; original Gupy ativo, sem salário ou dias presenciais.",
     "applicationNote": "Anúncio original Gupy conferido, com candidatura aberta. Requisitos técnicos centrais compatíveis com currículo. Pendente confirmação de remuneração fixa mensal em BRL acima de R$ 7.000, idioma português e no máximo 2 dias presenciais por semana. Recrutador individual e canal direto de recrutamento não identificados no anúncio ou página oficial da empresa; LinkedIn da Carbel não oferece mensagens. Nenhum contato ou candidatura enviado."
+  },
+  {
+    "id": "remotar-167433",
+    "title": "Diretor(a) de Arte",
+    "company": "Canta",
+    "url": "https://trampos.co/oportunidades/774921-diretor-a-de-arte",
+    "applyUrl": "https://trampos.co/oportunidades/774921/apply",
+    "source": "trampos",
+    "publishedAt": null,
+    "checkedAt": "2026-10-22T15:10:21.807293+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "PJ",
+      "Remoto",
+      "Figma desejável"
+    ],
+    "active": true,
+    "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-22T15:10:21.807293+00:00",
+    "description": "Direção de arte para campanhas, identidades visuais, redes sociais, apresentações e impressos. Exige Photoshop e Illustrator, composição, tipografia, tratamento de imagens, diagramação, experiência e portfólio. Disponibilidade em horário comercial a confirmar com a candidata antes de envio. Figma, InDesign, motion, vídeo e IA são desejáveis. Original informa modelo remoto e contrato PJ; salário e idioma de trabalho ausentes.",
+    "applicationNote": "Anúncio original ativo na trampos conferido. Competências técnicas centrais compatíveis com currículo; Figma é apenas desejável. Consulta enviada e confirmada pelo canal Carreiras da página oficial da Canta no LinkedIn sobre remuneração fixa mensal em reais acima de R$ 7.000, idioma português e remoto sem presença obrigatória em São Paulo. Aguardar resposta e confirmar disponibilidade em horário comercial antes de candidatura. Nenhuma candidatura enviada."
+  },
+  {
+    "id": "linkedin-4481181985",
+    "title": "Graphic Designer (UI, nível inicial)",
+    "company": "HiredBuddy",
+    "url": "https://www.linkedin.com/jobs/view/4481181985/",
+    "applyUrl": "https://www.linkedin.com/jobs/view/4481181985/",
+    "source": "LinkedIn",
+    "publishedAt": null,
+    "checkedAt": "2026-10-22T15:10:21.807293+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "en",
+    "requiresEnglish": false,
+    "tags": [
+      "UI",
+      "Entry level"
+    ],
+    "active": true,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "description": "Apesar do título Graphic Designer, a vaga é de nível inicial em UI: interfaces web/mobile, wireframes, protótipos interativos e design systems. Exige portfólio de UI e Figma, Sketch ou Adobe XD; atividades incluem produzir protótipos em Figma.",
+    "unmetRequirements": [
+      "Atuação principal em UI e design systems fora da especialidade confirmada",
+      "Atividades exigem Figma; candidata não possui Figma"
+    ],
+    "applicationNote": "Original LinkedIn ativo conferido. Fora do foco técnico e experiência comprovada da candidata. Salário e idioma de trabalho não confirmados; não inferidos a partir do anúncio em inglês. Nenhum envio realizado."
   }
 ]
