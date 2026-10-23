@@ -528,5 +528,37 @@
       "Atividades exigem Figma; candidata não possui Figma"
     ],
     "applicationNote": "Original LinkedIn ativo conferido. Fora do foco técnico e experiência comprovada da candidata. Salário e idioma de trabalho não confirmados; não inferidos a partir do anúncio em inglês. Nenhum envio realizado."
+  },
+  {
+    "id": "linkedin-4482723193",
+    "title": "Graphic Designer",
+    "company": "NeoWork",
+    "url": "https://www.linkedin.com/jobs/view/4482723193/",
+    "applyUrl": "https://www.linkedin.com/jobs/view/4482723193/",
+    "source": "LinkedIn",
+    "publishedAt": null,
+    "checkedAt": "2026-10-23T15:06:49.052938+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "en",
+    "requiresEnglish": true,
+    "tags": [
+      "Remoto",
+      "Inglês obrigatório",
+      "Adobe ou Figma"
+    ],
+    "active": true,
+    "recruiterUrl": null,
+    "applicationStatus": "not_applied",
+    "description": "Design gráfico remoto para equipes dos Estados Unidos: redes sociais, anúncios, materiais de marketing, apresentações e marcas. Exige 2+ anos de experiência, portfólio e Adobe e/ou Figma. O anúncio exige expressamente inglês escrito e falado para trabalhar com equipes dos EUA, e jornada geralmente alinhada ao horário comercial americano.",
+    "applicationNote": "Original LinkedIn ativo revisado na conta da Thaiane. Adobe atende à alternativa ao Figma, mas inglês escrito e falado obrigatório contraria o critério de trabalho em português. Remuneração não divulgada. Encerrada no acompanhamento; nenhum contato ou candidatura enviado."
   }
 ]
