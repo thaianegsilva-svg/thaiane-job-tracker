@@ -75,9 +75,10 @@
     "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
   },
   "remotar-167433": {
-    "checkedAt": "2026-10-22T15:10:21.807293+00:00",
-    "url": "https://trampos.co/oportunidades/774921-diretor-a-de-arte",
-    "note": "Anúncio original ativo na trampos conferido. Competências técnicas centrais compatíveis com currículo; Figma é apenas desejável. Consulta enviada e confirmada pelo canal Carreiras da página oficial da Canta no LinkedIn sobre remuneração fixa mensal em reais acima de R$ 7.000, idioma português e remoto sem presença obrigatória em São Paulo. Aguardar resposta e confirmar disponibilidade em horário comercial antes de candidatura. Nenhuma candidatura enviada."
+    "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+    "closed": true,
+    "url": "https://www.trampos.co/oportunidades/774921-diretor-a-de-arte?locale=pt-BR",
+    "note": "Anúncio anterior 774921 redireciona à listagem geral da trampos na consulta atual. Encerrado no acompanhamento, preservando o contato anterior. Nova seleção temporária 774937 registrada separadamente; a empresa foi consultada sobre possível substituição, vigência e condições. Nenhuma candidatura enviada."
   },
   "remotar-167546": {
     "checkedAt": "2026-10-23T15:05:24.203017+00:00",
@@ -96,5 +97,18 @@
       "Autodesk 3ds Max avançado, visualização arquitetônica e 5+ anos de experiência 3D não comprovados no currículo"
     ],
     "note": "Original da BairesDev ativo conferido: exige inglês avançado e especialização em modelagem, renderização e visualização arquitetônica 3D com 3ds Max. Requisitos fora do perfil comprovado. Encerrada no acompanhamento; nenhum contato ou candidatura enviado."
+  },
+  "remotar-167984": {
+    "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+    "url": "https://trampos.co/oportunidades/774937-diretor-a-de-arte-temporario",
+    "note": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada."
+  },
+  "remotar-167917": {
+    "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+    "url": "https://job-boards.greenhouse.io/stone/jobs/7980880003",
+    "unmetRequirements": [
+      "Especialidade em design conversacional e arquitetura de fluxos multicanal fora do foco e não comprovada no currículo"
+    ],
+    "note": "Original da Stone ativo revisado: cargo de especialista em design conversacional, arquitetura de jornadas multicanal, governança e liderança técnica de experiências com IA. Uso avançado de ChatGPT não comprova essa especialização. Encerrado no acompanhamento; nenhum envio realizado."
   }
 }

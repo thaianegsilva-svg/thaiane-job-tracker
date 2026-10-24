@@ -560,5 +560,107 @@
     "applicationStatus": "not_applied",
     "description": "Design gráfico remoto para equipes dos Estados Unidos: redes sociais, anúncios, materiais de marketing, apresentações e marcas. Exige 2+ anos de experiência, portfólio e Adobe e/ou Figma. O anúncio exige expressamente inglês escrito e falado para trabalhar com equipes dos EUA, e jornada geralmente alinhada ao horário comercial americano.",
     "applicationNote": "Original LinkedIn ativo revisado na conta da Thaiane. Adobe atende à alternativa ao Figma, mas inglês escrito e falado obrigatório contraria o critério de trabalho em português. Remuneração não divulgada. Encerrada no acompanhamento; nenhum contato ou candidatura enviado."
+  },
+  {
+    "publishedAt": null,
+    "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "active": true,
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-24T17:54:37.862803+00:00",
+    "id": "remotar-167984",
+    "title": "Diretor(a) de Arte - Temporário",
+    "company": "Canta",
+    "url": "https://trampos.co/oportunidades/774937-diretor-a-de-arte-temporario",
+    "applyUrl": "https://trampos.co/oportunidades/774937/apply",
+    "source": "trampos",
+    "workMode": "remote",
+    "city": null,
+    "tags": [
+      "Temporário",
+      "PJ",
+      "Remoto",
+      "Figma desejável"
+    ],
+    "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
+    "description": "Seleção temporária de direção de arte para campanhas, identidade visual, apresentações, impressos e redes sociais. Photoshop e Illustrator obrigatórios; Figma, InDesign, motion, vídeo e IA desejáveis. Modelo remoto PJ. Não informa vigência, salário fixo mensal ou idioma de trabalho.",
+    "applicationNote": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada."
+  },
+  {
+    "publishedAt": null,
+    "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "active": true,
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-24T17:54:37.862803+00:00",
+    "id": "gupy-12458506",
+    "title": "Designer - Editorial",
+    "company": "Bernoulli Educação",
+    "url": "https://bernoullieducacao.gupy.io/jobs/12458506",
+    "applyUrl": "https://bernoullieducacao.gupy.io/jobs/12458506",
+    "source": "Gupy",
+    "workMode": "hybrid",
+    "city": "Belo Horizonte",
+    "tags": [
+      "CLT",
+      "Editorial",
+      "Híbrido BH ou remoto"
+    ],
+    "recruiterUrl": "https://www.linkedin.com/company/bernoulli-educacao/",
+    "description": "Design editorial e diagramação de materiais educacionais digitais e impressos. Exige Adobe Illustrator, Photoshop, Acrobat, Bridge, InDesign e Word/Excel básicos; MathType desejável. Anúncio informa híbrido para BH e região ou remoto, CLT, 44 horas semanais. Salário, idioma e quantidade de dias presenciais não informados.",
+    "applicationNote": "Original Gupy ativo conferido. Adobe e diagramação alinhados ao currículo; conhecimentos em Acrobat, Bridge, Word e Excel não estão explicitamente comprovados. Consulta enviada e confirmada no canal oficial Carreiras da Bernoulli sobre faixa fixa mensal em reais acima de R$ 7.000, idioma, dias presenciais/opção remota para BH e caráter eliminatório dessas ferramentas. Nenhuma candidatura enviada."
+  },
+  {
+    "publishedAt": null,
+    "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": true,
+    "active": true,
+    "applicationStatus": "not_applied",
+    "contactStatus": "not_sent",
+    "contactedAt": null,
+    "id": "linkedin-4482639944",
+    "title": "Designer Gráfico e Social Media (com domínio de IA)",
+    "company": "Immunomatics, Inc.",
+    "url": "https://www.linkedin.com/jobs/view/4482639944/",
+    "applyUrl": "https://www.linkedin.com/jobs/view/4482639944/",
+    "source": "LinkedIn",
+    "workMode": "remote",
+    "city": null,
+    "tags": [
+      "Inglês obrigatório",
+      "Conteúdo em inglês"
+    ],
+    "recruiterUrl": null,
+    "description": "Serviços de design gráfico, motion, infográficos, vídeos e gestão de redes sociais para startup de transplantes e IA. Exige proficiência profissional em inglês escrito e leitura porque o conteúdo é produzido em inglês. Mínimo de 20 horas semanais, remoto a partir do Brasil. Proficiência em ferramentas de IA obrigatória, sem produtos específicos.",
+    "applicationNote": "Original LinkedIn ativo revisado. Conteúdo explicitamente em inglês e proficiência profissional obrigatória contrariam o critério de trabalho em português. Nenhum contato ou candidatura enviado."
   }
 ]

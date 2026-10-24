@@ -4,37 +4,40 @@
   "coverage": "Remotar: até 3 páginas por termo. LinkedIn e outras fontes: pesquisa assistida pelo Codex; cada vaga mantém a data da própria verificação.",
   "jobs": [
     {
-      "id": "remotar-167984",
-      "title": "Diretor(a) de Arte",
-      "company": "Canta",
-      "url": "https://remotar.com.br/job/167984",
-      "applyUrl": "https://remotar.com.br/job/167984",
-      "source": "Remotar",
-      "sourceSystem": "trampos",
-      "publishedAt": "2026-10-23T15:57:16.744-03:00",
-      "checkedAt": "2026-10-24T17:48:47.611962+00:00",
-      "workMode": "remote",
-      "city": null,
+      "publishedAt": null,
+      "checkedAt": "2026-10-24T17:54:37.862803+00:00",
       "officeDays": null,
       "salary": {
         "min": null,
         "max": null,
         "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
+        "period": null
       },
       "portugueseConfirmed": false,
       "adLanguage": "pt-BR",
       "requiresEnglish": false,
-      "tags": [
-        "🤝🏽 PJ",
-        "🌍 100% Remoto"
-      ],
-      "description": "Buscamos um(a) Diretor(a) de Arte criativo(a) e colaborativo(a) com olhar estratégico para desenvolver conceitos e soluções visuais para campanhas e projetos de diferentes marcas. Você atuará desde a interpretação do briefing até a finalização das peças, conectando criatividade, identidade visual e objetivos de comunicação. Responsabilidades Desenvolver conceitos criativos e identidades visuais para campanhas e projetos. Criar peças para redes sociais, mídia digital, apresentações e materiais impressos. Traduzir briefings em soluções visuais alinhadas ao posicionamento e aos objetivos de cada marca. Trabalhar em parceria com redação, atendime…",
       "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "not_applied",
-      "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "applicationStatus": "contacted",
+      "contactStatus": "sent",
+      "contactedAt": "2026-10-24T17:54:37.862803+00:00",
+      "id": "remotar-167984",
+      "title": "Diretor(a) de Arte - Temporário",
+      "company": "Canta",
+      "url": "https://trampos.co/oportunidades/774937-diretor-a-de-arte-temporario",
+      "applyUrl": "https://trampos.co/oportunidades/774937/apply",
+      "source": "trampos",
+      "workMode": "remote",
+      "city": null,
+      "tags": [
+        "Temporário",
+        "PJ",
+        "Remoto",
+        "Figma desejável"
+      ],
+      "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
+      "description": "Seleção temporária de direção de arte para campanhas, identidade visual, apresentações, impressos e redes sociais. Photoshop e Illustrator obrigatórios; Figma, InDesign, motion, vídeo e IA desejáveis. Modelo remoto PJ. Não informa vigência, salário fixo mensal ou idioma de trabalho.",
+      "applicationNote": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada.",
+      "firstSeenAt": "2026-10-24T17:48:47.611962+00:00",
       "score": 86,
       "signals": [
         "photoshop",
@@ -50,60 +53,10 @@
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
-      "firstSeenAt": "2026-10-24T17:48:47.611962+00:00"
-    },
-    {
-      "id": "remotar-167433",
-      "title": "Diretor(a) de Arte",
-      "company": "Canta",
-      "url": "https://trampos.co/oportunidades/774921-diretor-a-de-arte",
-      "applyUrl": "https://trampos.co/oportunidades/774921/apply",
-      "source": "trampos",
-      "publishedAt": null,
-      "checkedAt": "2026-10-22T15:10:21.807293+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": null
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "PJ",
-        "Remoto",
-        "Figma desejável"
-      ],
-      "active": true,
-      "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
-      "applicationStatus": "contacted",
-      "contactStatus": "sent",
-      "contactedAt": "2026-10-22T15:10:21.807293+00:00",
-      "description": "Direção de arte para campanhas, identidades visuais, redes sociais, apresentações e impressos. Exige Photoshop e Illustrator, composição, tipografia, tratamento de imagens, diagramação, experiência e portfólio. Disponibilidade em horário comercial a confirmar com a candidata antes de envio. Figma, InDesign, motion, vídeo e IA são desejáveis. Original informa modelo remoto e contrato PJ; salário e idioma de trabalho ausentes.",
-      "applicationNote": "Anúncio original ativo na trampos conferido. Competências técnicas centrais compatíveis com currículo; Figma é apenas desejável. Consulta enviada e confirmada pelo canal Carreiras da página oficial da Canta no LinkedIn sobre remuneração fixa mensal em reais acima de R$ 7.000, idioma português e remoto sem presença obrigatória em São Paulo. Aguardar resposta e confirmar disponibilidade em horário comercial antes de candidatura. Nenhuma candidatura enviada.",
-      "firstSeenAt": "2026-10-22T15:05:09.278576+00:00",
-      "score": 80,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "indesign",
-        "campanhas",
-        "direcao de arte"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [],
-      "eligibility": "pending",
       "verification": {
-        "checkedAt": "2026-10-22T15:10:21.807293+00:00",
-        "url": "https://trampos.co/oportunidades/774921-diretor-a-de-arte",
-        "note": "Anúncio original ativo na trampos conferido. Competências técnicas centrais compatíveis com currículo; Figma é apenas desejável. Consulta enviada e confirmada pelo canal Carreiras da página oficial da Canta no LinkedIn sobre remuneração fixa mensal em reais acima de R$ 7.000, idioma português e remoto sem presença obrigatória em São Paulo. Aguardar resposta e confirmar disponibilidade em horário comercial antes de candidatura. Nenhuma candidatura enviada."
+        "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+        "url": "https://trampos.co/oportunidades/774937-diretor-a-de-arte-temporario",
+        "note": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada."
       }
     },
     {
@@ -360,6 +313,55 @@
         "url": "https://remotar.com.br/job/159525",
         "note": "Requer 5 anos ou mais em direção de arte, Visual Aids e experiência em indústria farmacêutica. Essas exigências específicas não estão comprovadas no currículo fornecido. Salário e idioma de trabalho ausentes; recrutador individual não identificado no anúncio público."
       }
+    },
+    {
+      "publishedAt": null,
+      "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": null
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "active": true,
+      "applicationStatus": "contacted",
+      "contactStatus": "sent",
+      "contactedAt": "2026-10-24T17:54:37.862803+00:00",
+      "id": "gupy-12458506",
+      "title": "Designer - Editorial",
+      "company": "Bernoulli Educação",
+      "url": "https://bernoullieducacao.gupy.io/jobs/12458506",
+      "applyUrl": "https://bernoullieducacao.gupy.io/jobs/12458506",
+      "source": "Gupy",
+      "workMode": "hybrid",
+      "city": "Belo Horizonte",
+      "tags": [
+        "CLT",
+        "Editorial",
+        "Híbrido BH ou remoto"
+      ],
+      "recruiterUrl": "https://www.linkedin.com/company/bernoulli-educacao/",
+      "description": "Design editorial e diagramação de materiais educacionais digitais e impressos. Exige Adobe Illustrator, Photoshop, Acrobat, Bridge, InDesign e Word/Excel básicos; MathType desejável. Anúncio informa híbrido para BH e região ou remoto, CLT, 44 horas semanais. Salário, idioma e quantidade de dias presenciais não informados.",
+      "applicationNote": "Original Gupy ativo conferido. Adobe e diagramação alinhados ao currículo; conhecimentos em Acrobat, Bridge, Word e Excel não estão explicitamente comprovados. Consulta enviada e confirmada no canal oficial Carreiras da Bernoulli sobre faixa fixa mensal em reais acima de R$ 7.000, idioma, dias presenciais/opção remota para BH e caráter eliminatório dessas ferramentas. Nenhuma candidatura enviada.",
+      "firstSeenAt": "2026-10-24T17:54:37.862803+00:00",
+      "score": 74,
+      "signals": [
+        "photoshop",
+        "illustrator",
+        "indesign",
+        "editorial"
+      ],
+      "missing": [
+        "quantidade de dias presenciais por semana",
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [],
+      "eligibility": "pending"
     },
     {
       "id": "remotar-154991",
@@ -1201,10 +1203,7 @@
         "remuneração mensal em reais"
       ],
       "rejectionReasons": [],
-      "eligibility": "pending",
-      "duplicateIds": [
-        "remotar-167274"
-      ]
+      "eligibility": "pending"
     },
     {
       "id": "remotar-137663",
@@ -1697,47 +1696,6 @@
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
-      "id": "remotar-167917",
-      "title": "AI Conversation Designer",
-      "company": "Stone",
-      "url": "https://remotar.com.br/job/167917",
-      "applyUrl": "https://job-boards.greenhouse.io/stone/jobs/7980880003?gh_src=5be8bfef3us&utm_source=remotar",
-      "source": "Remotar",
-      "sourceSystem": null,
-      "publishedAt": "2026-10-23T12:48:22.099-03:00",
-      "checkedAt": "2026-10-24T17:48:47.611962+00:00",
-      "workMode": "remote",
-      "city": "",
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": "BRL",
-        "period": "monthly",
-        "sourceType": "monthly"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "🌍 100% Remoto"
-      ],
-      "description": "O Desafio Você Atuará Como Especialista, Com Alto Grau De Autonomia e Responsabilidade Técnica. Sua Missão é Traduzir Necessidades De Negócio Em Experiências Conversacionais Escaláveis e Sustentáveis, Equilibrando Profundidade Técnica e Amplitude De Atuação. Esta Função é Crítica Para Garantir a Coerência e o Amadurecimento Técnico Das Soluções De Conversation AI Em Múltiplos Projetos Simultaneamente.O Que Não Pode Faltar Domínio do contexto técnico e estratégico do Design Conversacional para atuar com autonomia. Habilidade para atuar em problemas ambíguos sem escopo pré-definido, exigindo priorização difícil e equilibrando prazo e qualidade.…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "not_applied",
-      "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
-      "score": 50,
-      "signals": [],
-      "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
-      ],
-      "rejectionReasons": [],
-      "eligibility": "pending",
-      "firstSeenAt": "2026-10-23T18:52:43.643975+00:00"
-    },
-    {
       "id": "remotar-164020",
       "title": "Designer Criativo Sênior",
       "company": "Grupo OLX",
@@ -1847,6 +1805,65 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-167433",
+      "title": "Diretor(a) de Arte",
+      "company": "Canta",
+      "url": "https://trampos.co/oportunidades/774921-diretor-a-de-arte",
+      "applyUrl": "https://trampos.co/oportunidades/774921/apply",
+      "source": "trampos",
+      "publishedAt": null,
+      "checkedAt": "2026-10-22T15:10:21.807293+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": null
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "PJ",
+        "Remoto",
+        "Figma desejável"
+      ],
+      "active": false,
+      "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
+      "applicationStatus": "closed",
+      "contactStatus": "sent",
+      "contactedAt": "2026-10-22T15:10:21.807293+00:00",
+      "description": "Direção de arte para campanhas, identidades visuais, redes sociais, apresentações e impressos. Exige Photoshop e Illustrator, composição, tipografia, tratamento de imagens, diagramação, experiência e portfólio. Disponibilidade em horário comercial a confirmar com a candidata antes de envio. Figma, InDesign, motion, vídeo e IA são desejáveis. Original informa modelo remoto e contrato PJ; salário e idioma de trabalho ausentes.",
+      "applicationNote": "Anúncio anterior 774921 redireciona à listagem geral da trampos na consulta atual. Encerrado no acompanhamento, preservando o contato anterior. Nova seleção temporária 774937 registrada separadamente; a empresa foi consultada sobre possível substituição, vigência e condições. Nenhuma candidatura enviada.",
+      "firstSeenAt": "2026-10-22T15:05:09.278576+00:00",
+      "score": 80,
+      "signals": [
+        "photoshop",
+        "illustrator",
+        "indesign",
+        "campanhas",
+        "direcao de arte"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Inscrições encerradas na página original"
+      ],
+      "eligibility": "excluded",
+      "verification": {
+        "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+        "closed": true,
+        "url": "https://www.trampos.co/oportunidades/774921-diretor-a-de-arte?locale=pt-BR",
+        "note": "Anúncio anterior 774921 redireciona à listagem geral da trampos na consulta atual. Encerrado no acompanhamento, preservando o contato anterior. Nova seleção temporária 774937 registrada separadamente; a empresa foi consultada sobre possível substituição, vigência e condições. Nenhuma candidatura enviada."
+      },
+      "previousApplicationStatus": "contacted",
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -5527,6 +5544,52 @@
       "description": "Design gráfico remoto para equipes dos Estados Unidos: redes sociais, anúncios, materiais de marketing, apresentações e marcas. Exige 2+ anos de experiência, portfólio e Adobe e/ou Figma. O anúncio exige expressamente inglês escrito e falado para trabalhar com equipes dos EUA, e jornada geralmente alinhada ao horário comercial americano.",
       "applicationNote": "Original LinkedIn ativo revisado na conta da Thaiane. Adobe atende à alternativa ao Figma, mas inglês escrito e falado obrigatório contraria o critério de trabalho em português. Remuneração não divulgada. Encerrada no acompanhamento; nenhum contato ou candidatura enviado.",
       "firstSeenAt": "2026-10-23T15:06:49.052938+00:00",
+      "score": 50,
+      "signals": [],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Exige inglês; busca restrita a português"
+      ],
+      "eligibility": "excluded",
+      "previousApplicationStatus": "not_applied",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "publishedAt": null,
+      "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": null
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": true,
+      "active": true,
+      "applicationStatus": "closed",
+      "contactStatus": "not_sent",
+      "contactedAt": null,
+      "id": "linkedin-4482639944",
+      "title": "Designer Gráfico e Social Media (com domínio de IA)",
+      "company": "Immunomatics, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4482639944/",
+      "applyUrl": "https://www.linkedin.com/jobs/view/4482639944/",
+      "source": "LinkedIn",
+      "workMode": "remote",
+      "city": null,
+      "tags": [
+        "Inglês obrigatório",
+        "Conteúdo em inglês"
+      ],
+      "recruiterUrl": null,
+      "description": "Serviços de design gráfico, motion, infográficos, vídeos e gestão de redes sociais para startup de transplantes e IA. Exige proficiência profissional em inglês escrito e leitura porque o conteúdo é produzido em inglês. Mínimo de 20 horas semanais, remoto a partir do Brasil. Proficiência em ferramentas de IA obrigatória, sem produtos específicos.",
+      "applicationNote": "Original LinkedIn ativo revisado. Conteúdo explicitamente em inglês e proficiência profissional obrigatória contrariam o critério de trabalho em português. Nenhum contato ou candidatura enviado.",
+      "firstSeenAt": "2026-10-24T17:54:37.862803+00:00",
       "score": 50,
       "signals": [],
       "missing": [
@@ -9889,6 +9952,62 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-23T15:02:18.822476+00:00",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-167917",
+      "title": "AI Conversation Designer",
+      "company": "Stone",
+      "url": "https://remotar.com.br/job/167917",
+      "applyUrl": "https://job-boards.greenhouse.io/stone/jobs/7980880003?gh_src=5be8bfef3us&utm_source=remotar",
+      "source": "Remotar",
+      "sourceSystem": null,
+      "publishedAt": "2026-10-23T12:48:22.099-03:00",
+      "checkedAt": "2026-10-24T17:48:47.611962+00:00",
+      "workMode": "remote",
+      "city": "",
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": "BRL",
+        "period": "monthly",
+        "sourceType": "monthly"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "🌍 100% Remoto"
+      ],
+      "description": "O Desafio Você Atuará Como Especialista, Com Alto Grau De Autonomia e Responsabilidade Técnica. Sua Missão é Traduzir Necessidades De Negócio Em Experiências Conversacionais Escaláveis e Sustentáveis, Equilibrando Profundidade Técnica e Amplitude De Atuação. Esta Função é Crítica Para Garantir a Coerência e o Amadurecimento Técnico Das Soluções De Conversation AI Em Múltiplos Projetos Simultaneamente.O Que Não Pode Faltar Domínio do contexto técnico e estratégico do Design Conversacional para atuar com autonomia. Habilidade para atuar em problemas ambíguos sem escopo pré-definido, exigindo priorização difícil e equilibrando prazo e qualidade.…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Original da Stone ativo revisado: cargo de especialista em design conversacional, arquitetura de jornadas multicanal, governança e liderança técnica de experiências com IA. Uso avançado de ChatGPT não comprova essa especialização. Encerrado no acompanhamento; nenhum envio realizado.",
+      "score": 50,
+      "signals": [],
+      "missing": [
+        "idioma de trabalho em português",
+        "salário mensal fixo acima de R$ 7.000"
+      ],
+      "rejectionReasons": [
+        "Especialidade em design conversacional e arquitetura de fluxos multicanal fora do foco e não comprovada no currículo"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-23T18:52:43.643975+00:00",
+      "verification": {
+        "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+        "url": "https://job-boards.greenhouse.io/stone/jobs/7980880003",
+        "unmetRequirements": [
+          "Especialidade em design conversacional e arquitetura de fluxos multicanal fora do foco e não comprovada no currículo"
+        ],
+        "note": "Original da Stone ativo revisado: cargo de especialista em design conversacional, arquitetura de jornadas multicanal, governança e liderança técnica de experiências com IA. Uso avançado de ChatGPT não comprova essa especialização. Encerrado no acompanhamento; nenhum envio realizado."
+      },
+      "unmetRequirements": [
+        "Especialidade em design conversacional e arquitetura de fluxos multicanal fora do foco e não comprovada no currículo"
+      ],
+      "previousApplicationStatus": "not_applied",
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
