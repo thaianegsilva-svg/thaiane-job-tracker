@@ -662,5 +662,40 @@
     "recruiterUrl": null,
     "description": "Serviços de design gráfico, motion, infográficos, vídeos e gestão de redes sociais para startup de transplantes e IA. Exige proficiência profissional em inglês escrito e leitura porque o conteúdo é produzido em inglês. Mínimo de 20 horas semanais, remoto a partir do Brasil. Proficiência em ferramentas de IA obrigatória, sem produtos específicos.",
     "applicationNote": "Original LinkedIn ativo revisado. Conteúdo explicitamente em inglês e proficiência profissional obrigatória contrariam o critério de trabalho em português. Nenhum contato ou candidatura enviado."
+  },
+  {
+    "id": "br2-ha-2026",
+    "title": "Designer Gráfico - Horários Atípicos",
+    "company": "Agência BR2",
+    "url": "https://agenciabr2.com.br/vagas/horarios-atipicos",
+    "applyUrl": "https://agenciabr2.com.br/vagas/horarios-atipicos",
+    "source": "Site da empresa",
+    "publishedAt": "2026-09-17",
+    "checkedAt": "2026-10-25T15:38:53.480539+00:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "PJ",
+      "PowerPoint",
+      "Illustrator",
+      "Noturno ou fim de semana"
+    ],
+    "description": "Vaga aberta com inscrições até 16/11/2026. Criação de apresentações, peças gráficas e adaptações; PowerPoint e Illustrator prioritários. Figma e IA são diferenciais. Remoto PJ, demanda recorrente, remunerada por job ou período. Opções: segunda a sexta 18h-2h; ou sexta 18h-2h e sábado/domingo 9h-17h. Sem opção comercial atual.",
+    "active": true,
+    "recruiterUrl": "https://agenciabr2.com.br/vagas/horarios-atipicos",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-25T15:38:53.480539+00:00",
+    "applicationNote": "Consulta enviada ao canal oficial da empresa para confirmar remuneração fixa mensal em reais acima de R$ 7.000, idioma e remoto a partir de BH. Turnos noturnos/fim de semana e emissão de nota PJ dependem de confirmação da candidata. Nenhuma candidatura enviada."
   }
 ]
