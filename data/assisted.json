@@ -697,5 +697,40 @@
     "contactStatus": "sent",
     "contactedAt": "2026-10-25T15:38:53.480539+00:00",
     "applicationNote": "Consulta enviada ao canal oficial da empresa para confirmar remuneração fixa mensal em reais acima de R$ 7.000, idioma e remoto a partir de BH. Turnos noturnos/fim de semana e emissão de nota PJ dependem de confirmação da candidata. Nenhuma candidatura enviada."
+  },
+  {
+    "id": "octopus-designer-conteudo",
+    "title": "Designer de Conteúdo",
+    "company": "Octopus Company",
+    "url": "https://octopuscompany.com/designer/",
+    "applyUrl": "https://octopuscompany.com/designer/",
+    "source": "Site da empresa",
+    "publishedAt": null,
+    "checkedAt": "2026-10-26T15:11:52.540Z",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "Adobe",
+      "Canva",
+      "Redes sociais",
+      "Vídeo como diferencial"
+    ],
+    "description": "Página original informa vaga aberta de Designer de Conteúdo, 100% remota, para redes sociais, feed, stories, carrosséis e reels. Pede Adobe e Canva; edição de vídeo é diferencial. Empresa opera no Brasil e nos Estados Unidos. Salário, regime, carga horária e idioma de trabalho não informados. Formulário solicita dados pessoais, disponibilidade, currículo e consentimento de recrutamento.",
+    "active": true,
+    "recruiterUrl": "https://octopuscompany.com/designer/",
+    "applicationStatus": "not_applied",
+    "contactStatus": "not_sent",
+    "contactedAt": null,
+    "applicationNote": "Contato institucional publicado na página original identificado. Consulta sobre salário fixo mensal acima de R$ 7.000, idioma e remoto a partir de BH preparada, mas envio bloqueado pela revisão automática e aguardando autorização específica do usuário. Nenhuma mensagem ou candidatura enviada. Confirmar requisitos detalhados, regime, carga horária e disponibilidade antes de se candidatar."
   }
 ]
