@@ -728,9 +728,9 @@
     "description": "Página original informa vaga aberta de Designer de Conteúdo, 100% remota, para redes sociais, feed, stories, carrosséis e reels. Pede Adobe e Canva; edição de vídeo é diferencial. Empresa opera no Brasil e nos Estados Unidos. Salário, regime, carga horária e idioma de trabalho não informados. Formulário solicita dados pessoais, disponibilidade, currículo e consentimento de recrutamento.",
     "active": true,
     "recruiterUrl": "https://octopuscompany.com/designer/",
-    "applicationStatus": "not_applied",
-    "contactStatus": "not_sent",
-    "contactedAt": null,
-    "applicationNote": "Contato institucional publicado na página original identificado. Consulta sobre salário fixo mensal acima de R$ 7.000, idioma e remoto a partir de BH preparada, mas envio bloqueado pela revisão automática e aguardando autorização específica do usuário. Nenhuma mensagem ou candidatura enviada. Confirmar requisitos detalhados, regime, carga horária e disponibilidade antes de se candidatar."
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-26T15:13:33.008125+00:00",
+    "applicationNote": "Consulta enviada ao contato institucional publicado na página original, após autorização específica do usuário, para confirmar remuneração fixa mensal acima de R$ 7.000, idioma, remoto a partir de BH, regime e carga horária. Aguardando resposta. Nenhuma candidatura enviada."
   }
 ]
