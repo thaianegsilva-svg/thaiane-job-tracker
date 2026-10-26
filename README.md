@@ -42,12 +42,19 @@ Uma automação assistida do Codex complementa a pesquisa nas outras fontes, rev
 5. [99jobs](https://www.99jobs.com/): complemento de empresas brasileiras, com conferência de senioridade/modalidade.
 6. [Behance Jobs](https://www.behance.net/joblist?locale=pt_BR): ampliação diária para criação, branding e direção de arte, priorizando anúncios do Brasil e contratos recorrentes.
 7. [Indeed Brasil](https://br.indeed.com/q-designer-gr%C3%A1fico-l-remoto-vagas.html): ampliação diária para anúncios brasileiros; conferir a empresa original e remover duplicatas e ofertas expiradas.
-8. [Domestika Jobs](https://www.domestika.org/pt/jobs/full_time/where/remote/forever): consulta complementar por disciplinas criativas. A interface em português não confirma o idioma ou a localização do trabalho.
-9. [Remotive Design](https://remotive.com/remote-jobs/design): consulta complementar com filtros de localização e idioma, limitada a informações públicas. Não contratar plano pago sem autorização.
+8. [Glassdoor Brasil](https://www.glassdoor.com.br/): vagas brasileiras e informações sobre empresas. Estimativas salariais não comprovam o salário oferecido pela empresa; deduplicar com outros portais.
+9. [Catho](https://www.catho.com.br/vagas/designer-grafico/): design gráfico e criação no Brasil; verificar modalidade e remuneração na vaga individual. Registrar bloqueios de leitura ou login sem contorná-los.
+10. [InfoJobs](https://www.infojobs.com.br/vagas-de-designer-grafico-trabalho-home-office.aspx): busca brasileira de design em home office; separar trabalho recorrente de projetos por demanda.
+11. [Vagas.com](https://www.vagas.com.br/vagas-de-designer): anúncios de empresas brasileiras, com filtros de remoto/híbrido e conferência da especialidade e senioridade.
+12. [Empregos.com.br](https://www.empregos.com.br/): complemento nacional; resultados amplos exigem conferir cargo, modalidade e anúncio original.
+13. [Domestika Jobs](https://www.domestika.org/pt/jobs/full_time/where/remote/forever): consulta complementar por disciplinas criativas. A interface em português não confirma o idioma ou a localização do trabalho.
+14. [Remotive Design](https://remotive.com/remote-jobs/design): consulta complementar com filtros de localização e idioma, limitada a informações públicas. Não contratar plano pago sem autorização.
 
 Behance e Indeed foram incorporados à pesquisa assistida em 26/10/2026. Domestika e Remotive têm prioridade menor para esta busca por sua cobertura internacional. A coleta automática continua restrita à Remotar; incluir um site nesta lista não cria integração ou candidatura automática. Vagas repetidas, como a BR2 encontrada em Behance e Indeed, preservam um único acompanhamento na página original da empresa.
 
 As prioridades são uma avaliação de aderência, não um ranking absoluto. Fontes além da Remotar exigem pesquisa assistida; o painel distingue a cobertura.
+
+Glassdoor, Catho, InfoJobs, Vagas.com e Empregos.com.br foram acrescentados em 26/10/2026 após a revisão dos sites sugeridos pelo usuário. ZipRecruiter, Monster e CareerBuilder não entraram na rotina principal: os resultados consultados têm menor aderência à exigência de trabalho em português, contratação a partir do Brasil e salário fixo em reais. Isso não caracteriza esses sites como inválidos; podem ser revisitados se aparecer uma oportunidade que confirme todos os critérios. Usar os domínios oficiais em HTTPS, sem os redirecionamentos de segurança do LinkedIn.
 
 ## Executar localmente
 
@@ -63,7 +70,7 @@ Não há dependências Python externas. JavaScript sem build. Ações oficiais d
 
 1. Sincronizar `main` sem sobrescrever alterações locais. Conferir execução e cobertura do coletor.
 2. Consultar os comprovantes privados em `.private/*-contact.json` e verificar respostas na conta correta, sem reenviar solicitações já registradas. Nunca publicar os comprovantes ou links das conversas.
-3. Pesquisar as fontes de `config.json`, incluindo Behance Jobs e Indeed Brasil além das cinco fontes iniciais; consultar Domestika e Remotive como complemento. Validar anúncios originais dos cargos em português. Deduplicar pelo link original/empresa/cargo; não inventar vagas, salário ou contato.
+3. Pesquisar as fontes de `config.json`: Remotar, trampos, LinkedIn, Gupy, 99jobs, Behance, Indeed, Glassdoor, Catho, InfoJobs e Vagas.com; consultar Empregos.com.br, Domestika e Remotive como complemento. Validar anúncios originais dos cargos em português. Deduplicar pelo link original/empresa/cargo; não inventar vagas, salário ou contato. Não usar médias ou estimativas de mercado como salário confirmado da vaga.
 4. Revalidar modalidade, BH/dias, salário fixo mensal em reais, idioma, atividade da vaga e todos os requisitos obrigatórios contra o currículo privado.
 5. Quando faltar salário, idioma ou dias presenciais, procurar o recrutador identificado no anúncio. Enviar uma pergunta objetiva somente por canal verificado e com a identidade real do remetente; mencionar que está auxiliando a candidata se a conta for de outra pessoa. Sem contato verificável, registrar bloqueio, sem adivinhar e-mail.
 6. Tentar candidatar apenas com dados verdadeiros e a conta da candidata. Não responder perguntas pessoais desconhecidas nem aceitar termos/compromissos em nome dela. Interromper no ponto que exigir intervenção humana.
