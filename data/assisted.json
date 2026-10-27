@@ -732,5 +732,42 @@
     "contactStatus": "sent",
     "contactedAt": "2026-10-26T15:13:33.008125+00:00",
     "applicationNote": "Consulta enviada ao contato institucional publicado na página original, após autorização específica do usuário, para confirmar remuneração fixa mensal acima de R$ 7.000, idioma, remoto a partir de BH, regime e carga horária. Aguardando resposta. Nenhuma candidatura enviada."
+  },
+  {
+    "id": "enlizt-2644352",
+    "title": "Brand Designer",
+    "company": "Echo Lab Technology",
+    "url": "https://echolabtechnology.enlizt.me/vagas/brand_designer-041026",
+    "applyUrl": "https://echolabtechnology.enlizt.me/vagas/brand_designer-041026",
+    "source": "Site da empresa",
+    "sourceSystem": "enlizt",
+    "publishedAt": null,
+    "checkedAt": "2026-10-27T15:07:08.232099+00:00",
+    "workMode": "remote",
+    "city": "Florianópolis",
+    "officeDays": null,
+    "salary": {
+      "min": 7500,
+      "max": 7500,
+      "currency": "BRL",
+      "period": "monthly"
+    },
+    "portugueseConfirmed": true,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "PJ",
+      "Pleno a sênior",
+      "Branding"
+    ],
+    "description": "Brand Designer para o sistema visual da echo_lab e marcas do grupo. Anúncio original explicita remoto, PJ, R$ 7.500 mensais e português; inclui Figma nos pré-requisitos. Página original indica Vaga Encerrada.",
+    "active": false,
+    "applicationStatus": "closed",
+    "contactStatus": "not_sent",
+    "recruiterUrl": null,
+    "unmetRequirements": [
+      "Figma consta nos pré-requisitos; candidata informou não possuir"
+    ],
+    "applicationNote": "Original Enlizt/Plooral verificado: vaga encerrada. Exige Figma. Não candidatar nem enviar consulta sobre esta seleção. Salário listado em agregadores não comprova que a oportunidade continua aberta."
   }
 ]
