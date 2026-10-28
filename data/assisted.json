@@ -769,5 +769,40 @@
       "Figma consta nos pré-requisitos; candidata informou não possuir"
     ],
     "applicationNote": "Original Enlizt/Plooral verificado: vaga encerrada. Exige Figma. Não candidatar nem enviar consulta sobre esta seleção. Salário listado em agregadores não comprova que a oportunidade continua aberta."
+  },
+  {
+    "id": "linkedin-4474445595",
+    "title": "Designer gráfico",
+    "company": "Studio Be Digital",
+    "url": "https://br.linkedin.com/jobs/view/designer-gr%C3%A1fico-at-studio-be-digital-4474445595",
+    "applyUrl": "https://br.linkedin.com/jobs/view/designer-gr%C3%A1fico-at-studio-be-digital-4474445595",
+    "source": "LinkedIn",
+    "publishedAt": null,
+    "checkedAt": "2026-10-28T13:03:49.1886255-03:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "100% remoto Brasil",
+      "Campanhas",
+      "Branding",
+      "Moda"
+    ],
+    "description": "Anúncio original informa trabalho 100% remoto de qualquer lugar do Brasil, com criação para redes sociais, e-commerce, campanhas, mídia paga, branding e infográficos. O metadado do LinkedIn indica nível Assistente, enquanto o texto não define a senioridade. Salário, regime e idioma de trabalho não foram informados.",
+    "active": true,
+    "recruiterUrl": "https://br.linkedin.com/jobs/view/designer-gr%C3%A1fico-at-studio-be-digital-4474445595",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-28T13:03:49.1886255-03:00",
+    "applicationNote": "Consulta enviada ao contato de recrutamento explicitamente publicado no anúncio para confirmar se a seleção segue aberta e considera nível sênior, remuneração fixa mensal em reais acima de R$ 7.000, regime, idioma e remoto sem comparecimentos fora de Belo Horizonte. O metadado Assistente exige esclarecimento. Nenhuma candidatura enviada."
   }
 ]
