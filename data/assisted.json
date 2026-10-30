@@ -804,5 +804,42 @@
     "contactStatus": "sent",
     "contactedAt": "2026-10-28T13:03:49.1886255-03:00",
     "applicationNote": "A empresa respondeu que a vaga já foi preenchida. Encerrada no acompanhamento e sem novo contato. Nenhuma candidatura ou currículo foi enviado."
+  },
+  {
+    "id": "remotar-168822",
+    "title": "Diretor de Arte - Fito",
+    "company": "Fito Ag.",
+    "url": "https://remotar.com.br/job/168822",
+    "applyUrl": "https://v4company.inhire.app/vagas/504762ac-05e6-4800-a8fa-969f36226b6a/diretor-de-arte-fito",
+    "source": "Remotar",
+    "sourceSystem": "InHire",
+    "publishedAt": "2026-10-29T20:37:45.825-03:00",
+    "checkedAt": "2026-10-30T12:04:06.0744265-03:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "Direção de arte",
+      "Branding",
+      "Mídias sociais",
+      "Pleno",
+      "Remoto a confirmar"
+    ],
+    "description": "Vaga para direção de arte com foco em mídias sociais, identidade visual e branding. A listagem da Remotar informa 100% remoto, mas uma publicação recente da empresa no LinkedIn afirma que as vagas anunciadas eram presenciais em Ribeirão Preto. Salário, idioma, regime definitivo, modalidade e exigência de Claude precisam de confirmação.",
+    "active": true,
+    "recruiterUrl": "https://fitoag.com.br/",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-30T12:04:06.0744265-03:00",
+    "applicationNote": "Consulta enviada ao contato institucional publicado no site oficial para confirmar se a seleção segue aberta, considera nível sênior, é realmente remota a partir de Belo Horizonte, remunera fixo mensal em reais acima de R$ 7.000, trabalha em português e se Claude é obrigatório. Nenhuma candidatura ou currículo foi enviado."
   }
 ]

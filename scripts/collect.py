@@ -170,7 +170,7 @@ def main():
                     if not re.search(r'design|diretor.*arte|branding', norm(raw.get('title'))): continue
                     job = convert(raw, now)
                     previous = jobs.get(job['id'], {})
-                    for key in ['applicationStatus', 'applicationNote', 'applicationEvidence', 'recruiterUrl', 'contactStatus', 'contactEvidence']:
+                    for key in ['applicationStatus', 'applicationNote', 'applicationEvidence', 'recruiterUrl', 'contactStatus', 'contactedAt', 'contactEvidence']:
                         if key in previous: job[key] = previous[key]
                     job['firstSeenAt'] = previous.get('firstSeenAt', now)
                     jobs[job['id']] = job
