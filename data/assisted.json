@@ -841,5 +841,78 @@
     "contactStatus": "sent",
     "contactedAt": "2026-10-30T12:04:06.0744265-03:00",
     "applicationNote": "Consulta enviada ao contato institucional publicado no site oficial para confirmar se a seleção segue aberta, considera nível sênior, é realmente remota a partir de Belo Horizonte, remunera fixo mensal em reais acima de R$ 7.000, trabalha em português e se Claude é obrigatório. Nenhuma candidatura ou currículo foi enviado."
+  },
+  {
+    "id": "remotar-169351",
+    "title": "Designer Gráfico",
+    "company": "Lumine",
+    "url": "https://remotar.com.br/job/169351",
+    "applyUrl": "https://lumine.inhire.app/vagas/adf97d11-d393-495a-a609-a8c0d10b597b/designer-grafico",
+    "source": "Remotar",
+    "sourceSystem": "InHire",
+    "publishedAt": "2026-10-30T19:25:28.888-03:00",
+    "checkedAt": "2026-10-31T14:54:13.1041092-03:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "PJ",
+      "100% remoto",
+      "Design editorial",
+      "Audiovisual",
+      "Identidade visual"
+    ],
+    "description": "Designer gráfico para criação e adaptação de cartazes, banners, letterings, identidades visuais e materiais editoriais ligados ao catálogo audiovisual da Lumine. Exige Photoshop ou Illustrator, composição, tipografia, tratamento de imagens, criação conceitual e portfólio. Experiência cinematográfica, ilustração e IA são diferenciais, não requisitos obrigatórios. Salário e idioma de trabalho não foram informados.",
+    "active": true,
+    "recruiterUrl": "https://www.lumine.tv/",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-31T14:54:13.1041092-03:00",
+    "applicationNote": "Consulta enviada ao contato institucional publicado no site oficial para confirmar se a seleção segue aberta, considera nível sênior, permite atuação 100% remota a partir de Belo Horizonte, oferece remuneração fixa mensal em reais acima de R$ 7.000 e trabalha em português. Nenhuma candidatura ou currículo foi enviado."
+  },
+  {
+    "id": "linkedin-4410621283",
+    "title": "Diretor(a) de Arte Sênior",
+    "company": "Grupo Jobs",
+    "url": "https://br.linkedin.com/jobs/view/diretor-de-arte-s%C3%AAnior-at-grupo-jobs-4410621283",
+    "applyUrl": "https://br.linkedin.com/jobs/view/diretor-de-arte-s%C3%AAnior-at-grupo-jobs-4410621283",
+    "source": "LinkedIn",
+    "publishedAt": null,
+    "checkedAt": "2026-10-31T14:55:13.9129686-03:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": null,
+    "salary": {
+      "min": null,
+      "max": null,
+      "currency": null,
+      "period": null
+    },
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": [
+      "Sênior",
+      "100% remoto",
+      "Direção de arte",
+      "Branding",
+      "Campanhas"
+    ],
+    "description": "Vaga sênior para criação de campanhas, marcas e projetos integrados. Exige experiência sólida em direção de arte, domínio do pacote Adobe, branding, composição, tipografia e atuação digital e offline. Motion, vídeo e IA generativa são diferenciais. O anúncio informa modelo 100% remoto, mas não divulga salário, regime ou idioma de trabalho.",
+    "active": true,
+    "recruiterUrl": "https://br.linkedin.com/jobs/view/diretor-de-arte-s%C3%AAnior-at-grupo-jobs-4410621283",
+    "applicationStatus": "contacted",
+    "contactStatus": "sent",
+    "contactedAt": "2026-10-31T14:55:13.9129686-03:00",
+    "applicationNote": "Consulta enviada ao canal de recrutamento explicitamente publicado no anúncio para confirmar atividade da seleção, regime, remuneração fixa mensal em reais acima de R$ 7.000, idioma e remoto a partir de Belo Horizonte. Nenhuma candidatura ou currículo foi enviado."
   }
 ]
