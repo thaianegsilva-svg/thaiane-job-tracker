@@ -184,7 +184,7 @@ def main():
         job = jobs[job_id]
         job['verification'] = override
         # Facts checked against the original publication override feed heuristics.
-        for key in ['requiresEnglish', 'portugueseConfirmed', 'workMode', 'city', 'officeDays', 'salary', 'active']:
+        for key in ['requiresEnglish', 'portugueseConfirmed', 'workMode', 'city', 'officeDays', 'salary', 'active', 'applicationStatus']:
             if key in override:
                 job[key] = override[key]
         job['applicationNote'] = override['note']
