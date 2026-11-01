@@ -1,64 +1,8 @@
 {
-  "updatedAt": "2026-11-01T19:20:48.619747+00:00",
-  "lastSuccessAt": "2026-11-01T19:20:48.619747+00:00",
+  "updatedAt": "2026-11-01T21:44:59.693089+00:00",
+  "lastSuccessAt": "2026-11-01T21:44:59.693089+00:00",
   "coverage": "Remotar: até 3 páginas por termo. LinkedIn e outras fontes: pesquisa assistida pelo Codex; cada vaga mantém a data da própria verificação.",
   "jobs": [
-    {
-      "id": "remotar-167984",
-      "title": "Diretor(a) de Arte",
-      "company": "Canta",
-      "url": "https://remotar.com.br/job/167984",
-      "applyUrl": "https://remotar.com.br/job/167984",
-      "source": "Remotar",
-      "sourceSystem": "trampos",
-      "publishedAt": "2026-10-23T15:57:16.744-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "🤝🏽 PJ",
-        "🌍 100% Remoto"
-      ],
-      "description": "Buscamos um(a) Diretor(a) de Arte criativo(a) e colaborativo(a) com olhar estratégico para desenvolver conceitos e soluções visuais para campanhas e projetos de diferentes marcas. Você atuará desde a interpretação do briefing até a finalização das peças, conectando criatividade, identidade visual e objetivos de comunicação. Responsabilidades Desenvolver conceitos criativos e identidades visuais para campanhas e projetos. Criar peças para redes sociais, mídia digital, apresentações e materiais impressos. Traduzir briefings em soluções visuais alinhadas ao posicionamento e aos objetivos de cada marca. Trabalhar em parceria com redação, atendime…",
-      "active": true,
-      "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
-      "applicationStatus": "contacted",
-      "applicationNote": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada.",
-      "score": 86,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "indesign",
-        "identidade visual",
-        "campanhas",
-        "direcao de arte"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [],
-      "eligibility": "pending",
-      "contactStatus": "sent",
-      "contactedAt": "2026-10-24T17:54:37.862803+00:00",
-      "firstSeenAt": "2026-10-24T17:48:47.611962+00:00",
-      "verification": {
-        "checkedAt": "2026-10-24T17:54:37.862803+00:00",
-        "url": "https://trampos.co/oportunidades/774937-diretor-a-de-arte-temporario",
-        "note": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada."
-      }
-    },
     {
       "id": "trampos-774758",
       "title": "Diretor(a) de Arte Pleno",
@@ -207,114 +151,6 @@
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
-      "id": "remotar-140848",
-      "title": "Growth Brand Designer Pleno",
-      "company": "Auvo Tecnologia",
-      "url": "https://remotar.com.br/job/140848",
-      "applyUrl": "https://auvotecnologia.inhire.app/vagas/c4146d2f-3890-4874-954c-5123bb88c473/growth-brand-designer-pleno",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-06-23T10:19:27.236-03:00",
-      "checkedAt": "2026-10-17T17:44:52.285156+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "😎 Pleno",
-        "💬 Espanhol",
-        "🌍 100% Remoto"
-      ],
-      "description": "Buscamos um(a) Brand & Creative Designer Pleno para atuar na Auvo Tecnologia, transitando entre a estratégia visual de marca e a execução. Você será o guardião(ã) da identidade visual da empresa e, ao mesmo tempo, um(a) criador(a) de linha de frente, liderando o brandbook e o design system, e atuando na criação de criativos para mídia paga, redes sociais, landing pages, campanhas de produto, e edição de vídeos. A posição exige uma mentalidade de performance e de negócio, com foco em funil de vendas, geração de demanda e uso de dados para medir e evoluir o impacto das entregas. Valoriza-se a velocidade de uma startup, a capacidade de prosperar…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "not_applied",
-      "applicationNote": "Link original da Auvo retorna página de link inválido. Atividade da vaga e canal de recrutamento precisam de confirmação.",
-      "score": 80,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "indesign",
-        "identidade visual",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [],
-      "eligibility": "pending",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
-      "verification": {
-        "checkedAt": "2026-10-16T03:15:00Z",
-        "url": "https://auvotecnologia.inhire.app/vagas/c4146d2f-3890-4874-954c-5123bb88c473/growth-brand-designer-pleno",
-        "note": "Link original da Auvo retorna página de link inválido. Atividade da vaga e canal de recrutamento precisam de confirmação."
-      }
-    },
-    {
-      "id": "remotar-159525",
-      "title": "Diretor(a) de Arte Sênior",
-      "company": "Heal Marketing",
-      "url": "https://remotar.com.br/job/159525",
-      "applyUrl": "https://remotar.com.br/job/159525",
-      "source": "Remotar",
-      "sourceSystem": "trampos",
-      "publishedAt": "2026-08-19T16:58:17.209-03:00",
-      "checkedAt": "2026-10-17T17:44:52.285156+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "🤝🏽 PJ",
-        "🧓🏽 Sênior",
-        "🌍 100% Remoto"
-      ],
-      "description": "A Heal Marketing está em busca de um(a) Diretor(a) de Arte Sênior com forte repertório visual e experiência na criação de campanhas, especialmente para o mercado de healthcare e indústria farmacêutica. O profissional atuará de forma hands-on em todo o processo criativo, desde o conceito e criação do Key Visual (KV) até os desdobramentos da campanha. É fundamental ter experiência com Visual Aids e materiais médicos/científicos complexos, transformando conteúdos densos em soluções visuais claras, organizadas e criativamente interessantes. Responsabilidades Fazer imersão sobre medicamentos/doenças. Criar conceitos visuais e Key Visuals (KVs) par…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "not_applied",
-      "applicationNote": "Requer 5 anos ou mais em direção de arte, Visual Aids e experiência em indústria farmacêutica. Essas exigências específicas não estão comprovadas no currículo fornecido. Salário e idioma de trabalho ausentes; recrutador individual não identificado no anúncio público.",
-      "score": 80,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "indesign",
-        "campanhas",
-        "direcao de arte"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [],
-      "eligibility": "pending",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
-      "verification": {
-        "checkedAt": "2026-10-16T03:13:00Z",
-        "url": "https://remotar.com.br/job/159525",
-        "note": "Requer 5 anos ou mais em direção de arte, Visual Aids e experiência em indústria farmacêutica. Essas exigências específicas não estão comprovadas no currículo fornecido. Salário e idioma de trabalho ausentes; recrutador individual não identificado no anúncio público."
-      }
-    },
-    {
       "publishedAt": null,
       "checkedAt": "2026-10-24T17:54:37.862803+00:00",
       "officeDays": null,
@@ -410,112 +246,6 @@
       "rejectionReasons": [],
       "eligibility": "pending",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
-    },
-    {
-      "id": "remotar-166751",
-      "title": "Designer de CRM (Freelacer)",
-      "company": "Yooper",
-      "url": "https://remotar.com.br/job/166751",
-      "applyUrl": "https://yooper.inhire.app/vagas/c6d56449-461e-4d0a-b1e2-14596645fc8d/designer-de-crm-freelacer",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-10-16T19:40:23.924-03:00",
-      "checkedAt": "2026-10-26T15:40:03.032790+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "👩‍💻 Freelancer",
-        "🌍 100% Remoto"
-      ],
-      "description": "Responsabilidades Desenvolver layouts para e-mails marketing promocionais, institucionais e de relacionamento, contemplando diferentes etapas das jornadas de CRM. Criar e adaptar peças digitais, como banners, pop-ups e landing pages, de acordo com os briefings e objetivos de cada campanha. Assegurar a aplicação correta da identidade visual de cada cliente, considerando a hierarquia das informações, a legibilidade e a adaptação dos layouts para dispositivos móveis. Preparar e organizar os arquivos para implementação pelo time de CRM, incorporando feedbacks, realizando os ajustes necessários e mantendo o alinhamento com os prazos definidos. Exp…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "not_applied",
-      "applicationNote": "Anúncio original ativo e remoto BR. Exige 3 a 5 anos em design digital, e-mails marketing, Photoshop/Illustrator e boas práticas de UX/UI aplicadas às peças. Trabalho freelancer conforme volume e cronograma; remuneração fixa mensal acima de R$ 7.000 e idioma não confirmados. Especialização em CRM e disponibilidade freelancer precisam de validação. Sem recrutador ou canal de Carreiras identificado no anúncio original; nenhum contato ou candidatura enviado.",
-      "score": 74,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "identidade visual",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [],
-      "eligibility": "pending",
-      "firstSeenAt": "2026-10-17T15:06:25.691719+00:00",
-      "verification": {
-        "checkedAt": "2026-10-17T15:28:13.199930+00:00",
-        "url": "https://yooper.inhire.app/vagas/c6d56449-461e-4d0a-b1e2-14596645fc8d/designer-de-crm-freelacer",
-        "note": "Anúncio original ativo e remoto BR. Exige 3 a 5 anos em design digital, e-mails marketing, Photoshop/Illustrator e boas práticas de UX/UI aplicadas às peças. Trabalho freelancer conforme volume e cronograma; remuneração fixa mensal acima de R$ 7.000 e idioma não confirmados. Especialização em CRM e disponibilidade freelancer precisam de validação. Sem recrutador ou canal de Carreiras identificado no anúncio original; nenhum contato ou candidatura enviado."
-      }
-    },
-    {
-      "id": "remotar-169351",
-      "title": "Designer Gráfico",
-      "company": "Lumine",
-      "url": "https://remotar.com.br/job/169351",
-      "applyUrl": "https://lumine.inhire.app/vagas/adf97d11-d393-495a-a609-a8c0d10b597b/designer-grafico",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-10-30T19:25:28.888-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "🤝🏽 PJ",
-        "🌍 100% Remoto"
-      ],
-      "description": "Estamos em busca de um(a) Designer Gráfico com excelente senso estético, repertório visual e criatividade para integrar o time de plataforma da Lumine. O profissional será responsável principalmente pela criação e adaptação de peças visuais para os filmes, séries e coleções do nosso catálogo, contribuindo para uma apresentação atraente, coerente e profissional dos conteúdos da plataforma. Buscamos alguém com sensibilidade para a linguagem visual do cinema, capaz de desenvolver peças com qualidade estética característica de cartazes cinematográficos, evitando soluções genéricas ou excessivamente associadas à comunicação de redes sociais. Respo…",
-      "active": true,
-      "recruiterUrl": "https://www.lumine.tv/",
-      "applicationStatus": "contacted",
-      "applicationNote": "Página oficial da InHire permanece publicada e a listagem completa da Remotar informa contrato PJ e 100% remoto. Os requisitos obrigatórios consultados são compatíveis com as competências comprovadas; experiência com cinema, ilustração e IA aparece como diferencial. Consulta enviada ao contato institucional publicado no site oficial para confirmar atividade, nível, remuneração, idioma e remoto a partir de Belo Horizonte. Nenhuma candidatura enviada.",
-      "score": 74,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "editorial",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [],
-      "eligibility": "pending",
-      "contactStatus": "sent",
-      "contactedAt": "2026-10-31T14:54:13.1041092-03:00",
-      "firstSeenAt": "2026-10-31T15:03:10.617683+00:00",
-      "verification": {
-        "checkedAt": "2026-10-31T14:54:13.1041092-03:00",
-        "url": "https://lumine.inhire.app/vagas/adf97d11-d393-495a-a609-a8c0d10b597b/designer-grafico",
-        "note": "Página oficial da InHire permanece publicada e a listagem completa da Remotar informa contrato PJ e 100% remoto. Os requisitos obrigatórios consultados são compatíveis com as competências comprovadas; experiência com cinema, ilustração e IA aparece como diferencial. Consulta enviada ao contato institucional publicado no site oficial para confirmar atividade, nível, remuneração, idioma e remoto a partir de Belo Horizonte. Nenhuma candidatura enviada."
-      }
     },
     {
       "id": "linkedin-4478945473",
@@ -757,7 +487,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-10T19:52:01.365-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -803,7 +533,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-13T16:16:33.053-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -989,7 +719,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-23T16:38:28.799-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1035,7 +765,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-07T18:11:17.460-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1082,7 +812,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-08T18:19:24.524-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1128,7 +858,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-29T20:37:45.825-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1221,6 +951,57 @@
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
+    },
+    {
+      "id": "remotar-140848",
+      "title": "Growth Brand Designer Pleno",
+      "company": "Auvo Tecnologia",
+      "url": "https://remotar.com.br/job/140848",
+      "applyUrl": "https://auvotecnologia.inhire.app/vagas/c4146d2f-3890-4874-954c-5123bb88c473/growth-brand-designer-pleno",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-06-23T10:19:27.236-03:00",
+      "checkedAt": "2026-10-17T17:44:52.285156+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "😎 Pleno",
+        "💬 Espanhol",
+        "🌍 100% Remoto"
+      ],
+      "description": "Buscamos um(a) Brand & Creative Designer Pleno para atuar na Auvo Tecnologia, transitando entre a estratégia visual de marca e a execução. Você será o guardião(ã) da identidade visual da empresa e, ao mesmo tempo, um(a) criador(a) de linha de frente, liderando o brandbook e o design system, e atuando na criação de criativos para mídia paga, redes sociais, landing pages, campanhas de produto, e edição de vídeos. A posição exige uma mentalidade de performance e de negócio, com foco em funil de vendas, geração de demanda e uso de dados para medir e evoluir o impacto das entregas. Valoriza-se a velocidade de uma startup, a capacidade de prosperar…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "not_applied",
+      "applicationNote": "Link original da Auvo retorna página de link inválido. Atividade da vaga e canal de recrutamento precisam de confirmação.",
+      "score": 62,
+      "signals": [
+        "identidade visual",
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [],
+      "eligibility": "pending",
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "verification": {
+        "checkedAt": "2026-10-16T03:15:00Z",
+        "url": "https://auvotecnologia.inhire.app/vagas/c4146d2f-3890-4874-954c-5123bb88c473/growth-brand-designer-pleno",
+        "note": "Link original da Auvo retorna página de link inválido. Atividade da vaga e canal de recrutamento precisam de confirmação."
+      }
     },
     {
       "id": "remotar-157001",
@@ -1316,6 +1097,58 @@
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
+    },
+    {
+      "id": "remotar-167984",
+      "title": "Diretor(a) de Arte",
+      "company": "Canta",
+      "url": "https://remotar.com.br/job/167984",
+      "applyUrl": "https://remotar.com.br/job/167984",
+      "source": "Remotar",
+      "sourceSystem": "trampos",
+      "publishedAt": "2026-10-23T15:57:16.744-03:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "🤝🏽 PJ",
+        "🌍 100% Remoto"
+      ],
+      "description": "Buscamos um(a) Diretor(a) de Arte criativo(a) e colaborativo(a) com olhar estratégico para desenvolver conceitos e soluções visuais para campanhas e projetos de diferentes marcas. Você atuará desde a interpretação do briefing até a finalização das peças, conectando criatividade, identidade visual e objetivos de comunicação. Responsabilidades Desenvolver conceitos criativos e identidades visuais para campanhas e projetos. Criar peças para redes sociais, mídia digital, apresentações e materiais impressos. Traduzir briefings em soluções visuais alinhadas ao posicionamento e aos objetivos de cada marca. Trabalhar em parceria com redação, atendime…",
+      "active": true,
+      "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
+      "applicationStatus": "contacted",
+      "applicationNote": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada.",
+      "score": 62,
+      "signals": [
+        "identidade visual",
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [],
+      "eligibility": "pending",
+      "contactStatus": "sent",
+      "contactedAt": "2026-10-24T17:54:37.862803+00:00",
+      "firstSeenAt": "2026-10-24T17:48:47.611962+00:00",
+      "verification": {
+        "checkedAt": "2026-10-24T17:54:37.862803+00:00",
+        "url": "https://trampos.co/oportunidades/774937-diretor-a-de-arte-temporario",
+        "note": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada."
+      }
     },
     {
       "id": "linkedin-4481735550",
@@ -1633,6 +1466,56 @@
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
+      "id": "remotar-159525",
+      "title": "Diretor(a) de Arte Sênior",
+      "company": "Heal Marketing",
+      "url": "https://remotar.com.br/job/159525",
+      "applyUrl": "https://remotar.com.br/job/159525",
+      "source": "Remotar",
+      "sourceSystem": "trampos",
+      "publishedAt": "2026-08-19T16:58:17.209-03:00",
+      "checkedAt": "2026-10-17T17:44:52.285156+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "🤝🏽 PJ",
+        "🧓🏽 Sênior",
+        "🌍 100% Remoto"
+      ],
+      "description": "A Heal Marketing está em busca de um(a) Diretor(a) de Arte Sênior com forte repertório visual e experiência na criação de campanhas, especialmente para o mercado de healthcare e indústria farmacêutica. O profissional atuará de forma hands-on em todo o processo criativo, desde o conceito e criação do Key Visual (KV) até os desdobramentos da campanha. É fundamental ter experiência com Visual Aids e materiais médicos/científicos complexos, transformando conteúdos densos em soluções visuais claras, organizadas e criativamente interessantes. Responsabilidades Fazer imersão sobre medicamentos/doenças. Criar conceitos visuais e Key Visuals (KVs) par…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "not_applied",
+      "applicationNote": "Requer 5 anos ou mais em direção de arte, Visual Aids e experiência em indústria farmacêutica. Essas exigências específicas não estão comprovadas no currículo fornecido. Salário e idioma de trabalho ausentes; recrutador individual não identificado no anúncio público.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [],
+      "eligibility": "pending",
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "verification": {
+        "checkedAt": "2026-10-16T03:13:00Z",
+        "url": "https://remotar.com.br/job/159525",
+        "note": "Requer 5 anos ou mais em direção de arte, Visual Aids e experiência em indústria farmacêutica. Essas exigências específicas não estão comprovadas no currículo fornecido. Salário e idioma de trabalho ausentes; recrutador individual não identificado no anúncio público."
+      }
+    },
+    {
       "id": "remotar-160946",
       "title": "Designer",
       "company": "La Moda",
@@ -1687,7 +1570,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-16T16:00:16.848-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1814,6 +1697,104 @@
       "rejectionReasons": [],
       "eligibility": "pending",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
+    },
+    {
+      "id": "remotar-166751",
+      "title": "Designer de CRM (Freelacer)",
+      "company": "Yooper",
+      "url": "https://remotar.com.br/job/166751",
+      "applyUrl": "https://yooper.inhire.app/vagas/c6d56449-461e-4d0a-b1e2-14596645fc8d/designer-de-crm-freelacer",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-10-16T19:40:23.924-03:00",
+      "checkedAt": "2026-10-26T15:40:03.032790+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "👩‍💻 Freelancer",
+        "🌍 100% Remoto"
+      ],
+      "description": "Responsabilidades Desenvolver layouts para e-mails marketing promocionais, institucionais e de relacionamento, contemplando diferentes etapas das jornadas de CRM. Criar e adaptar peças digitais, como banners, pop-ups e landing pages, de acordo com os briefings e objetivos de cada campanha. Assegurar a aplicação correta da identidade visual de cada cliente, considerando a hierarquia das informações, a legibilidade e a adaptação dos layouts para dispositivos móveis. Preparar e organizar os arquivos para implementação pelo time de CRM, incorporando feedbacks, realizando os ajustes necessários e mantendo o alinhamento com os prazos definidos. Exp…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "not_applied",
+      "applicationNote": "Anúncio original ativo e remoto BR. Exige 3 a 5 anos em design digital, e-mails marketing, Photoshop/Illustrator e boas práticas de UX/UI aplicadas às peças. Trabalho freelancer conforme volume e cronograma; remuneração fixa mensal acima de R$ 7.000 e idioma não confirmados. Especialização em CRM e disponibilidade freelancer precisam de validação. Sem recrutador ou canal de Carreiras identificado no anúncio original; nenhum contato ou candidatura enviado.",
+      "score": 56,
+      "signals": [
+        "identidade visual"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [],
+      "eligibility": "pending",
+      "firstSeenAt": "2026-10-17T15:06:25.691719+00:00",
+      "verification": {
+        "checkedAt": "2026-10-17T15:28:13.199930+00:00",
+        "url": "https://yooper.inhire.app/vagas/c6d56449-461e-4d0a-b1e2-14596645fc8d/designer-de-crm-freelacer",
+        "note": "Anúncio original ativo e remoto BR. Exige 3 a 5 anos em design digital, e-mails marketing, Photoshop/Illustrator e boas práticas de UX/UI aplicadas às peças. Trabalho freelancer conforme volume e cronograma; remuneração fixa mensal acima de R$ 7.000 e idioma não confirmados. Especialização em CRM e disponibilidade freelancer precisam de validação. Sem recrutador ou canal de Carreiras identificado no anúncio original; nenhum contato ou candidatura enviado."
+      }
+    },
+    {
+      "id": "remotar-168610",
+      "title": "Designer Gráfico",
+      "company": "Digital ws",
+      "url": "https://remotar.com.br/job/168610",
+      "applyUrl": "https://remotar.com.br/job/168610",
+      "source": "Remotar",
+      "sourceSystem": "trampos",
+      "publishedAt": "2026-10-28T16:33:45.400-03:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
+      "workMode": "remote",
+      "city": "",
+      "officeDays": null,
+      "salary": {
+        "min": 7000.0,
+        "max": 10000.0,
+        "currency": "BRL",
+        "period": "monthly",
+        "sourceType": "monthly"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "🌍 100% Remoto"
+      ],
+      "description": "A Digital.ws busca um Designer Gráfico Sênior para integrar sua equipe, auxiliando marcas globais a solucionar desafios complexos de comunicação. A empresa atua com criatividade, tecnologia, conteúdo, eventos, experiências digitais e produção, atendendo a setores como aviação, mobilidade, tecnologia e indústria. O profissional será responsável por projetos que abrangem desde conteúdo para redes sociais e campanhas até sites, eventos, vídeos, branding e experiências interativas, com foco em uma estética minimalista e atenção aos detalhes. Responsabilidades Organizar a complexidade e manter o ritmo dos projetos sem comprometer a qualidade. Inte…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Anúncio original da Trampos ativo e revisado: vaga sênior, 100% remota, com faixa de R$ 7.000 a R$ 10.000 mensais. Inglês avançado está em Desejável, não nos requisitos obrigatórios. A faixa cruza o limite mínimo e o idioma de trabalho não foi confirmado; permanece pendente. Nenhum canal público verificável do recrutador foi localizado e nenhum envio foi realizado.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "oferta efetiva acima de R$ 7.000 (faixa cruza o limite)"
+      ],
+      "rejectionReasons": [],
+      "eligibility": "pending",
+      "firstSeenAt": "2026-10-28T20:03:29.512986+00:00",
+      "verification": {
+        "checkedAt": "2026-11-01T15:16:00Z",
+        "url": "https://www.trampos.co/oportunidades/774983-graphic-designer?locale=pt-BR",
+        "requiresEnglish": false,
+        "note": "Anúncio original da Trampos ativo e revisado: vaga sênior, 100% remota, com faixa de R$ 7.000 a R$ 10.000 mensais. Inglês avançado está em Desejável, não nos requisitos obrigatórios. A faixa cruza o limite mínimo e o idioma de trabalho não foi confirmado; permanece pendente. Nenhum canal público verificável do recrutador foi localizado e nenhum envio foi realizado."
+      }
     },
     {
       "id": "octopus-designer-conteudo",
@@ -1946,15 +1927,15 @@
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
-      "id": "remotar-164020",
-      "title": "Designer Criativo Sênior",
-      "company": "Grupo OLX",
-      "url": "https://remotar.com.br/job/164020",
-      "applyUrl": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI1NDU4NjIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "id": "remotar-169351",
+      "title": "Designer Gráfico",
+      "company": "Lumine",
+      "url": "https://remotar.com.br/job/169351",
+      "applyUrl": "https://lumine.inhire.app/vagas/adf97d11-d393-495a-a609-a8c0d10b597b/designer-grafico",
       "source": "Remotar",
-      "sourceSystem": "gupy",
-      "publishedAt": "2026-09-24T07:06:46.421-03:00",
-      "checkedAt": "2026-10-17T17:44:52.285156+00:00",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-10-30T19:25:28.888-03:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1969,41 +1950,30 @@
       "adLanguage": "pt-BR",
       "requiresEnglish": false,
       "tags": [
-        "♿ PcD",
-        "🧓🏽 Sênior",
-        "👩‍💻 Freelancer",
+        "🤝🏽 PJ",
         "🌍 100% Remoto"
       ],
-      "description": "Buscamos uma pessoa Designer Criativo Sênior para atuar em contrato temporário de 6 meses no time de Criação do Grupo OLX. O profissional será responsável por liderar conceitualmente projetos de marca e comunicação, desde o desafio inicial até a entrega final, em um ambiente dinâmico e colaborativo. Responsabilidades Liderar conceitualmente projetos de criação, traduzindo desafios de negócio e comunicação em ideias relevantes e consistentes. Desenvolver conceitos criativos e soluções visuais para diferentes desafios de marca, campanhas e comunicação. Transformar briefings em propostas criativas conectadas ao negócio, à estratégia da marca e a…",
-      "active": false,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Página original da Gupy indica candidaturas encerradas. Não candidatar nem contatar sobre esta seleção encerrada.",
-      "score": 86,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "indesign",
-        "identidade visual",
-        "campanhas",
-        "direcao de arte"
-      ],
+      "description": "Estamos em busca de um(a) Designer Gráfico com excelente senso estético, repertório visual e criatividade para integrar o time de plataforma da Lumine. O profissional será responsável principalmente pela criação e adaptação de peças visuais para os filmes, séries e coleções do nosso catálogo, contribuindo para uma apresentação atraente, coerente e profissional dos conteúdos da plataforma. Buscamos alguém com sensibilidade para a linguagem visual do cinema, capaz de desenvolver peças com qualidade estética característica de cartazes cinematográficos, evitando soluções genéricas ou excessivamente associadas à comunicação de redes sociais. Respo…",
+      "active": true,
+      "recruiterUrl": "https://www.lumine.tv/",
+      "applicationStatus": "contacted",
+      "applicationNote": "Página oficial da InHire permanece publicada e a listagem completa da Remotar informa contrato PJ e 100% remoto. Os requisitos obrigatórios consultados são compatíveis com as competências comprovadas; experiência com cinema, ilustração e IA aparece como diferencial. Consulta enviada ao contato institucional publicado no site oficial para confirmar atividade, nível, remuneração, idioma e remoto a partir de Belo Horizonte. Nenhuma candidatura enviada.",
+      "score": 50,
+      "signals": [],
       "missing": [
         "idioma de trabalho em português",
         "remuneração mensal em reais"
       ],
-      "rejectionReasons": [
-        "Inscrições encerradas na página original"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "rejectionReasons": [],
+      "eligibility": "pending",
+      "contactStatus": "sent",
+      "contactedAt": "2026-10-31T14:54:13.1041092-03:00",
+      "firstSeenAt": "2026-10-31T15:03:10.617683+00:00",
       "verification": {
-        "checkedAt": "2026-10-16T03:12:00Z",
-        "closed": true,
-        "url": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI1NDU4NjIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
-        "note": "Página original da Gupy indica candidaturas encerradas. Não candidatar nem contatar sobre esta seleção encerrada."
-      },
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+        "checkedAt": "2026-10-31T14:54:13.1041092-03:00",
+        "url": "https://lumine.inhire.app/vagas/adf97d11-d393-495a-a609-a8c0d10b597b/designer-grafico",
+        "note": "Página oficial da InHire permanece publicada e a listagem completa da Remotar informa contrato PJ e 100% remoto. Os requisitos obrigatórios consultados são compatíveis com as competências comprovadas; experiência com cinema, ilustração e IA aparece como diferencial. Consulta enviada ao contato institucional publicado no site oficial para confirmar atividade, nível, remuneração, idioma e remoto a partir de Belo Horizonte. Nenhuma candidatura enviada."
+      }
     },
     {
       "id": "remotar-164596",
@@ -2752,7 +2722,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-14T14:58:42.673-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -2860,7 +2830,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T21:02:04.235-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -2954,55 +2924,6 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
-      "id": "remotar-168610",
-      "title": "Designer Gráfico",
-      "company": "Digital ws",
-      "url": "https://remotar.com.br/job/168610",
-      "applyUrl": "https://remotar.com.br/job/168610",
-      "source": "Remotar",
-      "sourceSystem": "trampos",
-      "publishedAt": "2026-10-28T16:33:45.400-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
-      "workMode": "remote",
-      "city": "",
-      "officeDays": null,
-      "salary": {
-        "min": 7000.0,
-        "max": 10000.0,
-        "currency": "BRL",
-        "period": "monthly",
-        "sourceType": "monthly"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": true,
-      "tags": [
-        "🌍 100% Remoto"
-      ],
-      "description": "A Digital.ws busca um Designer Gráfico Sênior para integrar sua equipe, auxiliando marcas globais a solucionar desafios complexos de comunicação. A empresa atua com criatividade, tecnologia, conteúdo, eventos, experiências digitais e produção, atendendo a setores como aviação, mobilidade, tecnologia e indústria. O profissional será responsável por projetos que abrangem desde conteúdo para redes sociais e campanhas até sites, eventos, vídeos, branding e experiências interativas, com foco em uma estética minimalista e atenção aos detalhes. Responsabilidades Organizar a complexidade e manter o ritmo dos projetos sem comprometer a qualidade. Inte…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
-      "score": 74,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "indesign",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "oferta efetiva acima de R$ 7.000 (faixa cruza o limite)"
-      ],
-      "rejectionReasons": [
-        "Exige inglês; busca restrita a português"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-28T20:03:29.512986+00:00",
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
       "id": "remotar-168677",
       "title": "Estagiário Designer Gráfico Digital",
       "company": "Intellux",
@@ -3011,7 +2932,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-29T02:10:45.595-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -3061,7 +2982,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-29T12:53:45.592-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3112,7 +3033,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:50:23.286-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3300,186 +3221,6 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
-      "id": "remotar-140165",
-      "title": "Designer - Pleno",
-      "company": "V4 Company",
-      "url": "https://remotar.com.br/job/140165",
-      "applyUrl": "https://v4company.inhire.app/vagas/9eaa3b00-3008-4a2f-9d2c-1cb30a2e8116/designer-pleno-or-v4-fares-and-co",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-06-15T17:32:25.169-03:00",
-      "checkedAt": "2026-10-22T15:14:02.213299+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ],
-      "description": "A V4 Company busca um Designer Pleno para atuar de forma criativa e estratégica, transformando dados e estratégias em experiências visuais. O profissional terá autonomia para lidar com desafios de média complexidade, contribuindo para a criação de materiais gráficos, motions e edições de vídeo, além de adaptar peças para diferentes públicos e utilizar dados de performance para otimizar campanhas. Responsabilidades Criar peças gráficas e animações mais sofisticadas, adaptadas a diferentes públicos e objetivos. Utilizar ferramentas como Premiere, Figma, After Effects e CapCut para desenvolver e otimizar os criativos. Realizar testes A/B e anali…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
-      "score": 68,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
-      "verification": {
-        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
-        "url": "https://v4company.inhire.app/vagas/9eaa3b00-3008-4a2f-9d2c-1cb30a2e8116/designer-pleno-or-v4-fares-and-co",
-        "unmetRequirements": [
-          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-        ],
-        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
-      },
-      "unmetRequirements": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
-      "id": "remotar-150602",
-      "title": "Designer Pleno",
-      "company": "V4 Company",
-      "url": "https://remotar.com.br/job/150602",
-      "applyUrl": "https://v4company.inhire.app/vagas/c3f1087b-077d-4b51-a823-f7a6fc4645aa/designer-pleno-or-v4-viana-palavre-and-co",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-07-06T15:48:12.411-03:00",
-      "checkedAt": "2026-10-22T19:02:28.415644+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ],
-      "description": "A V4 Company busca um Designer Pleno para atuar de forma criativa e estratégica, com autonomia para lidar com desafios de média complexidade. O profissional contribuirá para a criação de materiais gráficos, motions e edições de vídeo, adaptando peças para diferentes públicos e utilizando dados de performance para otimizar campanhas e gerar insights de design para os negócios dos clientes. Responsabilidades Criar peças gráficas e animações mais sofisticadas, adaptadas a diferentes públicos e objetivos. Utilizar ferramentas como Premiere, Figma, After Effects e CapCut para desenvolver e otimizar os criativos. Realizar testes A/B e analisar dado…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
-      "score": 68,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
-      "verification": {
-        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
-        "url": "https://v4company.inhire.app/vagas/c3f1087b-077d-4b51-a823-f7a6fc4645aa/designer-pleno-or-v4-viana-palavre-and-co",
-        "unmetRequirements": [
-          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-        ],
-        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
-      },
-      "unmetRequirements": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
-      "id": "remotar-152504",
-      "title": "Designer - Pleno",
-      "company": "V4 Company",
-      "url": "https://remotar.com.br/job/152504",
-      "applyUrl": "https://v4company.inhire.app/vagas/ff7bd34d-786c-4fd0-bb94-736f6d77ba04/designer-pleno-or-v4-leal-vieira-and-co",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-07-08T15:55:48.602-03:00",
-      "checkedAt": "2026-10-22T19:02:28.415644+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ],
-      "description": "A V4 Company busca um Designer Pleno para atuar de forma criativa e estratégica, com autonomia para lidar com desafios de média complexidade e contribuir para a criação de materiais gráficos, motions e edições de vídeo. O profissional será responsável por adaptar peças para diferentes públicos, utilizar dados de performance para otimizar campanhas e gerar insights de design para os negócios dos clientes. Responsabilidades Criar peças gráficas e animações mais sofisticadas, adaptadas a diferentes públicos e objetivos. Utilizar ferramentas como Premiere, Figma, After Effects e CapCut para desenvolver e otimizar os criativos. Realizar testes A/B…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
-      "score": 68,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
-      "verification": {
-        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
-        "url": "https://v4company.inhire.app/vagas/ff7bd34d-786c-4fd0-bb94-736f6d77ba04/designer-pleno-or-v4-leal-vieira-and-co",
-        "unmetRequirements": [
-          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-        ],
-        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
-      },
-      "unmetRequirements": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
       "id": "remotar-154924",
       "title": "Designer Pleno",
       "company": "V4 Company",
@@ -3630,66 +3371,6 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
-      "id": "remotar-156837",
-      "title": "Designer Pleno",
-      "company": "V4 Company",
-      "url": "https://remotar.com.br/job/156837",
-      "applyUrl": "https://v4company.inhire.app/vagas/6cc0d3d0-65da-493e-89cb-800d187e3805/designer-pleno-or-v4-schaussard-silva-machado-and-co",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-07-28T18:05:33.957-03:00",
-      "checkedAt": "2026-10-30T15:05:13.408947+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ],
-      "description": "No time da V4 Company, o Design é muito mais do que aparência – ele impulsiona negócios. Procuramos um Designer que saiba criar com propósito, transformando dados e estratégias em experiências visuais incríveis. Se você quer aplicar sua criatividade em um ambiente que valoriza inovação e performance, chegou a sua oportunidade! O Designer Pleno terá uma atuação criativa e estratégica, com autonomia para lidar com desafios de média complexidade e contribuir para a criação de materiais gráficos, motions e edições de vídeo. Ele será responsável por adaptar peças para diferentes públicos, utilizar dados de performance para otimizar campanhas e ger…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
-      "score": 68,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
-      "verification": {
-        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
-        "url": "https://v4company.inhire.app/vagas/6cc0d3d0-65da-493e-89cb-800d187e3805/designer-pleno-or-v4-schaussard-silva-machado-and-co",
-        "unmetRequirements": [
-          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-        ],
-        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
-      },
-      "unmetRequirements": [
-        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
-      ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
       "id": "remotar-160510",
       "title": "Designer Gráfico Pleno",
       "company": "V4 Company",
@@ -3698,7 +3379,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-26T17:34:13.536-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "Porto Alegre",
       "officeDays": null,
@@ -3748,7 +3429,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-26T17:34:27.745-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -3798,7 +3479,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-31T18:06:12.733-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "Sete Lagoas",
       "officeDays": null,
@@ -3837,61 +3518,6 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
-      "id": "remotar-161923",
-      "title": "Designer",
-      "company": "Prizma Mídia",
-      "url": "https://remotar.com.br/job/161923",
-      "applyUrl": "https://prizmamidia.inhire.app/vagas/cbfaab30-0225-4e69-b52c-6ff653832462/vagas-abertas-para-designer-na-prizma-midia",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-09-05T14:43:45.896-03:00",
-      "checkedAt": "2026-10-30T15:05:13.408947+00:00",
-      "workMode": "hybrid",
-      "city": "Belo Horizonte",
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "🏢 Vaga híbrida"
-      ],
-      "description": "A Prizma Mídia, assessoria de marketing e performance para lojas de colchões, está em busca de um(a) Designer para integrar sua equipe. O profissional será responsável pela criação de artes e vídeos para campanhas de tráfego pago (Meta Ads), desenvolvimento de landing pages, produção de apresentações e materiais institucionais, além de adaptar criativos para diferentes formatos e plataformas. O trabalho será em conjunto com os times de Tráfego, Copywriting e Customer Success, com foco em performance e conversão. Responsabilidades Criar artes e vídeos para campanhas de tráfego pago (Meta Ads) Desenvolver landing pages Produzir apresentações e …",
-      "active": false,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Anúncio da mesma vaga na Prizma Mídia indica que não aceita novas candidaturas. Aguardar uma nova seleção.",
-      "score": 68,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "campanhas"
-      ],
-      "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [
-        "Inscrições encerradas na página original"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
-      "verification": {
-        "checkedAt": "2026-10-16T03:14:00Z",
-        "closed": true,
-        "url": "https://www.linkedin.com/jobs/view/4464218613/",
-        "note": "Anúncio da mesma vaga na Prizma Mídia indica que não aceita novas candidaturas. Aguardar uma nova seleção."
-      },
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -4047,66 +3673,6 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
-      "id": "remotar-165941",
-      "title": "Designer Gráfico Pleno",
-      "company": "V4 Company",
-      "url": "https://remotar.com.br/job/165941",
-      "applyUrl": "https://v4company.inhire.app/vagas/712e7ebb-92d3-4f25-9b16-a3f98ca45cbe/designer-grafico-pleno-or-v4-victor-basilio-amaral-and-co",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-10-09T18:22:20.418-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ],
-      "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Anúncio original ativo informa remoto, mas exige domínio de Figma e certificação Destrava Receita. Figma não é atendido e a certificação não consta do currículo. Salário não divulgado; nenhum envio realizado.",
-      "score": 68,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [
-        "Domínio de Figma obrigatório; candidata não possui Figma"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
-      "verification": {
-        "checkedAt": "2026-10-16T15:06:53.168112+00:00",
-        "url": "https://v4company.inhire.app/vagas/712e7ebb-92d3-4f25-9b16-a3f98ca45cbe/designer-grafico-pleno-or-v4-victor-basilio-amaral-and-co",
-        "unmetRequirements": [
-          "Domínio de Figma obrigatório; candidata não possui Figma"
-        ],
-        "note": "Anúncio original ativo informa remoto, mas exige domínio de Figma e certificação Destrava Receita. Figma não é atendido e a certificação não consta do currículo. Salário não divulgado; nenhum envio realizado."
-      },
-      "unmetRequirements": [
-        "Domínio de Figma obrigatório; candidata não possui Figma"
-      ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
       "id": "remotar-166766",
       "title": "Graphic Designer",
       "company": "Kajae",
@@ -4115,7 +3681,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-16T20:58:38.995-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -4166,7 +3732,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T19:32:23.739-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "Uberlândia",
       "officeDays": null,
@@ -4265,7 +3831,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T20:40:13.632-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -4314,7 +3880,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T19:55:27.994-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "Jundiaí",
       "officeDays": null,
@@ -4364,7 +3930,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-27T20:29:26.029-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -4404,66 +3970,6 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-28T14:58:02.839649+00:00",
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
-    },
-    {
-      "id": "remotar-168484",
-      "title": "Designer - Pleno | V4 Campelo AM & Co.",
-      "company": "V4 Company",
-      "url": "https://remotar.com.br/job/168484",
-      "applyUrl": "https://v4company.inhire.app/vagas/b0fcae0f-8b8b-483b-ab0e-ee1e43d9a01a/designer-pleno-or-v4-campelo-am-and-co",
-      "source": "Remotar",
-      "sourceSystem": "inhire",
-      "publishedAt": "2026-10-27T20:38:33.429-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
-      "workMode": "remote",
-      "city": null,
-      "officeDays": null,
-      "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": "uninformed",
-        "sourceType": "uninformed"
-      },
-      "portugueseConfirmed": false,
-      "adLanguage": "pt-BR",
-      "requiresEnglish": false,
-      "tags": [
-        "😎 Pleno",
-        "🌍 100% Remoto"
-      ],
-      "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
-      "active": true,
-      "recruiterUrl": null,
-      "applicationStatus": "closed",
-      "applicationNote": "Descrição completa publicada pela Remotar exige Figma, além de Premiere, certificação Destrava Receita e outros requisitos. A página original da InHire não estava acessível na verificação. Encerrada somente no acompanhamento por incompatibilidade com Figma obrigatório; nenhum contato ou candidatura enviado.",
-      "score": 68,
-      "signals": [
-        "photoshop",
-        "illustrator",
-        "campanhas"
-      ],
-      "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
-      ],
-      "rejectionReasons": [
-        "Figma obrigatório na descrição completa; candidata informou não possuir"
-      ],
-      "eligibility": "excluded",
-      "firstSeenAt": "2026-10-28T14:58:02.839649+00:00",
-      "verification": {
-        "checkedAt": "2026-10-28T13:03:49.1886255-03:00",
-        "url": "https://remotar.com.br/job/168484",
-        "unmetRequirements": [
-          "Figma obrigatório na descrição completa; candidata informou não possuir"
-        ],
-        "note": "Descrição completa publicada pela Remotar exige Figma, além de Premiere, certificação Destrava Receita e outros requisitos. A página original da InHire não estava acessível na verificação. Encerrada somente no acompanhamento por incompatibilidade com Figma obrigatório; nenhum contato ou candidatura enviado."
-      },
-      "unmetRequirements": [
-        "Figma obrigatório na descrição completa; candidata informou não possuir"
-      ],
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -4671,7 +4177,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-25T13:34:12.974-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -5098,6 +4604,64 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
+      "id": "remotar-140165",
+      "title": "Designer - Pleno",
+      "company": "V4 Company",
+      "url": "https://remotar.com.br/job/140165",
+      "applyUrl": "https://v4company.inhire.app/vagas/9eaa3b00-3008-4a2f-9d2c-1cb30a2e8116/designer-pleno-or-v4-fares-and-co",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-06-15T17:32:25.169-03:00",
+      "checkedAt": "2026-10-22T15:14:02.213299+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ],
+      "description": "A V4 Company busca um Designer Pleno para atuar de forma criativa e estratégica, transformando dados e estratégias em experiências visuais. O profissional terá autonomia para lidar com desafios de média complexidade, contribuindo para a criação de materiais gráficos, motions e edições de vídeo, além de adaptar peças para diferentes públicos e utilizar dados de performance para otimizar campanhas. Responsabilidades Criar peças gráficas e animações mais sofisticadas, adaptadas a diferentes públicos e objetivos. Utilizar ferramentas como Premiere, Figma, After Effects e CapCut para desenvolver e otimizar os criativos. Realizar testes A/B e anali…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
+      "verification": {
+        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
+        "url": "https://v4company.inhire.app/vagas/9eaa3b00-3008-4a2f-9d2c-1cb30a2e8116/designer-pleno-or-v4-fares-and-co",
+        "unmetRequirements": [
+          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+        ],
+        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
+      },
+      "unmetRequirements": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
       "id": "remotar-145048",
       "title": "Diretor(a) de Arte Sênior",
       "company": "Brivia",
@@ -5143,6 +4707,122 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-150602",
+      "title": "Designer Pleno",
+      "company": "V4 Company",
+      "url": "https://remotar.com.br/job/150602",
+      "applyUrl": "https://v4company.inhire.app/vagas/c3f1087b-077d-4b51-a823-f7a6fc4645aa/designer-pleno-or-v4-viana-palavre-and-co",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-07-06T15:48:12.411-03:00",
+      "checkedAt": "2026-10-22T19:02:28.415644+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ],
+      "description": "A V4 Company busca um Designer Pleno para atuar de forma criativa e estratégica, com autonomia para lidar com desafios de média complexidade. O profissional contribuirá para a criação de materiais gráficos, motions e edições de vídeo, adaptando peças para diferentes públicos e utilizando dados de performance para otimizar campanhas e gerar insights de design para os negócios dos clientes. Responsabilidades Criar peças gráficas e animações mais sofisticadas, adaptadas a diferentes públicos e objetivos. Utilizar ferramentas como Premiere, Figma, After Effects e CapCut para desenvolver e otimizar os criativos. Realizar testes A/B e analisar dado…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
+      "verification": {
+        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
+        "url": "https://v4company.inhire.app/vagas/c3f1087b-077d-4b51-a823-f7a6fc4645aa/designer-pleno-or-v4-viana-palavre-and-co",
+        "unmetRequirements": [
+          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+        ],
+        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
+      },
+      "unmetRequirements": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-152504",
+      "title": "Designer - Pleno",
+      "company": "V4 Company",
+      "url": "https://remotar.com.br/job/152504",
+      "applyUrl": "https://v4company.inhire.app/vagas/ff7bd34d-786c-4fd0-bb94-736f6d77ba04/designer-pleno-or-v4-leal-vieira-and-co",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-07-08T15:55:48.602-03:00",
+      "checkedAt": "2026-10-22T19:02:28.415644+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ],
+      "description": "A V4 Company busca um Designer Pleno para atuar de forma criativa e estratégica, com autonomia para lidar com desafios de média complexidade e contribuir para a criação de materiais gráficos, motions e edições de vídeo. O profissional será responsável por adaptar peças para diferentes públicos, utilizar dados de performance para otimizar campanhas e gerar insights de design para os negócios dos clientes. Responsabilidades Criar peças gráficas e animações mais sofisticadas, adaptadas a diferentes públicos e objetivos. Utilizar ferramentas como Premiere, Figma, After Effects e CapCut para desenvolver e otimizar os criativos. Realizar testes A/B…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
+      "verification": {
+        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
+        "url": "https://v4company.inhire.app/vagas/ff7bd34d-786c-4fd0-bb94-736f6d77ba04/designer-pleno-or-v4-leal-vieira-and-co",
+        "unmetRequirements": [
+          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+        ],
+        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
+      },
+      "unmetRequirements": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -5193,6 +4873,64 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-156837",
+      "title": "Designer Pleno",
+      "company": "V4 Company",
+      "url": "https://remotar.com.br/job/156837",
+      "applyUrl": "https://v4company.inhire.app/vagas/6cc0d3d0-65da-493e-89cb-800d187e3805/designer-pleno-or-v4-schaussard-silva-machado-and-co",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-07-28T18:05:33.957-03:00",
+      "checkedAt": "2026-10-30T15:05:13.408947+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ],
+      "description": "No time da V4 Company, o Design é muito mais do que aparência – ele impulsiona negócios. Procuramos um Designer que saiba criar com propósito, transformando dados e estratégias em experiências visuais incríveis. Se você quer aplicar sua criatividade em um ambiente que valoriza inovação e performance, chegou a sua oportunidade! O Designer Pleno terá uma atuação criativa e estratégica, com autonomia para lidar com desafios de média complexidade e contribuir para a criação de materiais gráficos, motions e edições de vídeo. Ele será responsável por adaptar peças para diferentes públicos, utilizar dados de performance para otimizar campanhas e ger…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-18T17:47:27.290822+00:00",
+      "verification": {
+        "checkedAt": "2026-10-18T18:02:36.366254+00:00",
+        "url": "https://v4company.inhire.app/vagas/6cc0d3d0-65da-493e-89cb-800d187e3805/designer-pleno-or-v4-schaussard-silva-machado-and-co",
+        "unmetRequirements": [
+          "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+        ],
+        "note": "Página original ativa da V4 confirma remoto BR, mas exige domínio de Figma entre os requisitos. Encerrada no acompanhamento por incompatibilidade de competência obrigatória. Nenhum contato ou candidatura enviado."
+      },
+      "unmetRequirements": [
+        "Domínio de Figma obrigatório; candidata informou não possuir Figma"
+      ],
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -5301,7 +5039,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-03T18:32:33.217-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5386,6 +5124,60 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-161923",
+      "title": "Designer",
+      "company": "Prizma Mídia",
+      "url": "https://remotar.com.br/job/161923",
+      "applyUrl": "https://prizmamidia.inhire.app/vagas/cbfaab30-0225-4e69-b52c-6ff653832462/vagas-abertas-para-designer-na-prizma-midia",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-09-05T14:43:45.896-03:00",
+      "checkedAt": "2026-10-30T15:05:13.408947+00:00",
+      "workMode": "hybrid",
+      "city": "Belo Horizonte",
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "🏢 Vaga híbrida"
+      ],
+      "description": "A Prizma Mídia, assessoria de marketing e performance para lojas de colchões, está em busca de um(a) Designer para integrar sua equipe. O profissional será responsável pela criação de artes e vídeos para campanhas de tráfego pago (Meta Ads), desenvolvimento de landing pages, produção de apresentações e materiais institucionais, além de adaptar criativos para diferentes formatos e plataformas. O trabalho será em conjunto com os times de Tráfego, Copywriting e Customer Success, com foco em performance e conversão. Responsabilidades Criar artes e vídeos para campanhas de tráfego pago (Meta Ads) Desenvolver landing pages Produzir apresentações e …",
+      "active": false,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Anúncio da mesma vaga na Prizma Mídia indica que não aceita novas candidaturas. Aguardar uma nova seleção.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "quantidade de dias presenciais por semana",
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Inscrições encerradas ou vaga inativa",
+        "Inscrições encerradas na página original"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "verification": {
+        "checkedAt": "2026-10-16T03:14:00Z",
+        "closed": true,
+        "url": "https://www.linkedin.com/jobs/view/4464218613/",
+        "note": "Anúncio da mesma vaga na Prizma Mídia indica que não aceita novas candidaturas. Aguardar uma nova seleção."
+      },
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -5533,6 +5325,62 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-164020",
+      "title": "Designer Criativo Sênior",
+      "company": "Grupo OLX",
+      "url": "https://remotar.com.br/job/164020",
+      "applyUrl": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI1NDU4NjIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+      "source": "Remotar",
+      "sourceSystem": "gupy",
+      "publishedAt": "2026-09-24T07:06:46.421-03:00",
+      "checkedAt": "2026-10-17T17:44:52.285156+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "♿ PcD",
+        "🧓🏽 Sênior",
+        "👩‍💻 Freelancer",
+        "🌍 100% Remoto"
+      ],
+      "description": "Buscamos uma pessoa Designer Criativo Sênior para atuar em contrato temporário de 6 meses no time de Criação do Grupo OLX. O profissional será responsável por liderar conceitualmente projetos de marca e comunicação, desde o desafio inicial até a entrega final, em um ambiente dinâmico e colaborativo. Responsabilidades Liderar conceitualmente projetos de criação, traduzindo desafios de negócio e comunicação em ideias relevantes e consistentes. Desenvolver conceitos criativos e soluções visuais para diferentes desafios de marca, campanhas e comunicação. Transformar briefings em propostas criativas conectadas ao negócio, à estratégia da marca e a…",
+      "active": false,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Página original da Gupy indica candidaturas encerradas. Não candidatar nem contatar sobre esta seleção encerrada.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Inscrições encerradas ou vaga inativa",
+        "Inscrições encerradas na página original"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "verification": {
+        "checkedAt": "2026-10-16T03:12:00Z",
+        "closed": true,
+        "url": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI1NDU4NjIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
+        "note": "Página original da Gupy indica candidaturas encerradas. Não candidatar nem contatar sobre esta seleção encerrada."
+      },
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -5749,7 +5597,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-02T13:32:59.239-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -5798,7 +5646,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-06T00:07:27.472-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5839,6 +5687,64 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
+      "id": "remotar-165941",
+      "title": "Designer Gráfico Pleno",
+      "company": "V4 Company",
+      "url": "https://remotar.com.br/job/165941",
+      "applyUrl": "https://v4company.inhire.app/vagas/712e7ebb-92d3-4f25-9b16-a3f98ca45cbe/designer-grafico-pleno-or-v4-victor-basilio-amaral-and-co",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-10-09T18:22:20.418-03:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ],
+      "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Anúncio original ativo informa remoto, mas exige domínio de Figma e certificação Destrava Receita. Figma não é atendido e a certificação não consta do currículo. Salário não divulgado; nenhum envio realizado.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Domínio de Figma obrigatório; candidata não possui Figma"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
+      "verification": {
+        "checkedAt": "2026-10-16T15:06:53.168112+00:00",
+        "url": "https://v4company.inhire.app/vagas/712e7ebb-92d3-4f25-9b16-a3f98ca45cbe/designer-grafico-pleno-or-v4-victor-basilio-amaral-and-co",
+        "unmetRequirements": [
+          "Domínio de Figma obrigatório; candidata não possui Figma"
+        ],
+        "note": "Anúncio original ativo informa remoto, mas exige domínio de Figma e certificação Destrava Receita. Figma não é atendido e a certificação não consta do currículo. Salário não divulgado; nenhum envio realizado."
+      },
+      "unmetRequirements": [
+        "Domínio de Figma obrigatório; candidata não possui Figma"
+      ],
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
       "id": "remotar-166761",
       "title": "Presentation Designer",
       "company": "Workana",
@@ -5847,7 +5753,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-16T20:42:16.464-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5895,7 +5801,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T15:16:41.301-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5943,7 +5849,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-23T13:21:03.235-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5992,7 +5898,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-26T19:27:44.622-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -6043,7 +5949,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-27T16:49:07.910-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -6082,6 +5988,64 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-10-28T14:58:02.839649+00:00",
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+    },
+    {
+      "id": "remotar-168484",
+      "title": "Designer - Pleno | V4 Campelo AM & Co.",
+      "company": "V4 Company",
+      "url": "https://remotar.com.br/job/168484",
+      "applyUrl": "https://v4company.inhire.app/vagas/b0fcae0f-8b8b-483b-ab0e-ee1e43d9a01a/designer-pleno-or-v4-campelo-am-and-co",
+      "source": "Remotar",
+      "sourceSystem": "inhire",
+      "publishedAt": "2026-10-27T20:38:33.429-03:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
+      "workMode": "remote",
+      "city": null,
+      "officeDays": null,
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": "uninformed",
+        "sourceType": "uninformed"
+      },
+      "portugueseConfirmed": false,
+      "adLanguage": "pt-BR",
+      "requiresEnglish": false,
+      "tags": [
+        "😎 Pleno",
+        "🌍 100% Remoto"
+      ],
+      "description": "Na V4 Company, o Designer Gráfico (Creative Performance) Pleno atua com autonomia na execução de projetos de baixa e média complexidade, transformando estratégias de marketing em criativos que unem excelência visual e performance. Essa posição representa um importante elo entre design, dados e otimização contínua, contribuindo para campanhas mais eficientes e experiências visuais que geram resultados para os clientes. Responsabilidades Desenvolver key visuals para campanhas digitais, garantindo consistência visual e alinhamento estratégico com os objetivos dos clientes. Criar peças estáticas, animações e conteúdos audiovisuais com maior nível…",
+      "active": true,
+      "recruiterUrl": null,
+      "applicationStatus": "closed",
+      "applicationNote": "Descrição completa publicada pela Remotar exige Figma, além de Premiere, certificação Destrava Receita e outros requisitos. A página original da InHire não estava acessível na verificação. Encerrada somente no acompanhamento por incompatibilidade com Figma obrigatório; nenhum contato ou candidatura enviado.",
+      "score": 56,
+      "signals": [
+        "campanhas"
+      ],
+      "missing": [
+        "idioma de trabalho em português",
+        "remuneração mensal em reais"
+      ],
+      "rejectionReasons": [
+        "Figma obrigatório na descrição completa; candidata informou não possuir"
+      ],
+      "eligibility": "excluded",
+      "firstSeenAt": "2026-10-28T14:58:02.839649+00:00",
+      "verification": {
+        "checkedAt": "2026-10-28T13:03:49.1886255-03:00",
+        "url": "https://remotar.com.br/job/168484",
+        "unmetRequirements": [
+          "Figma obrigatório na descrição completa; candidata informou não possuir"
+        ],
+        "note": "Descrição completa publicada pela Remotar exige Figma, além de Premiere, certificação Destrava Receita e outros requisitos. A página original da InHire não estava acessível na verificação. Encerrada somente no acompanhamento por incompatibilidade com Figma obrigatório; nenhum contato ou candidatura enviado."
+      },
+      "unmetRequirements": [
+        "Figma obrigatório na descrição completa; candidata informou não possuir"
+      ],
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -7902,7 +7866,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-24T16:44:38.971-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -7947,7 +7911,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-25T03:00:01.657-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -8265,7 +8229,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-29T13:17:06.755-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -8358,7 +8322,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-29T21:15:53.417-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -8403,7 +8367,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-30T13:22:06.935-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "Campo Bom",
       "officeDays": null,
@@ -8790,7 +8754,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T13:54:19.312-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -8836,7 +8800,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T17:59:04.428-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "Barueri",
       "officeDays": null,
@@ -8885,7 +8849,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T21:55:04.265-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -8980,7 +8944,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-06T00:40:57.069-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -9027,7 +8991,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-08T00:20:12.512-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9410,7 +9374,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-13T16:45:15.153-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9548,7 +9512,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-15T20:57:17.082-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9642,7 +9606,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-16T19:10:28.787-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -9689,7 +9653,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-17T15:07:25.050-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9781,7 +9745,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T11:28:57.967-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -9826,7 +9790,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T14:19:33.153-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9924,7 +9888,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T15:30:21.844-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "Novo Hamburgo",
       "officeDays": null,
@@ -9971,7 +9935,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T17:03:08.611-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10106,7 +10070,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T20:12:24.226-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10154,7 +10118,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-21T11:41:41.574-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10246,7 +10210,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-21T17:27:25.675-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10339,7 +10303,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T15:52:26.245-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10551,7 +10515,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T19:49:14.122-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -10599,7 +10563,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-22T21:31:12.371-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10645,7 +10609,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T10:58:27.833-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10692,7 +10656,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T11:00:22.893-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10738,7 +10702,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T12:48:22.099-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10793,7 +10757,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T12:50:29.166-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10838,7 +10802,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-26T17:46:21.435-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10883,7 +10847,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-27T15:58:58.596-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10931,7 +10895,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-29T12:42:00.747-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10979,7 +10943,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-29T16:42:10.971-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11023,7 +10987,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T00:17:15.617-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11068,7 +11032,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T13:09:33.044-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11112,7 +11076,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:11:16.717-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11156,7 +11120,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:14:08.091-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11200,7 +11164,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-30T19:22:40.140-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11246,7 +11210,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T20:36:17.698-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11281,7 +11245,6 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-11-01T19:20:48.619747+00:00",
-      "previousApplicationStatus": "not_applied",
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -11293,7 +11256,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T20:42:35.852-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11327,7 +11290,6 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-11-01T19:20:48.619747+00:00",
-      "previousApplicationStatus": "not_applied",
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -11339,7 +11301,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:10:20.404-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11376,7 +11338,6 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-11-01T19:20:48.619747+00:00",
-      "previousApplicationStatus": "not_applied",
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -11388,7 +11349,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:24:00.227-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11423,7 +11384,6 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-11-01T19:20:48.619747+00:00",
-      "previousApplicationStatus": "not_applied",
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     },
     {
@@ -11435,7 +11395,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:24:42.921-03:00",
-      "checkedAt": "2026-11-01T19:20:48.619747+00:00",
+      "checkedAt": "2026-11-01T21:44:59.693089+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11470,11 +11430,17 @@
       ],
       "eligibility": "excluded",
       "firstSeenAt": "2026-11-01T19:20:48.619747+00:00",
-      "previousApplicationStatus": "not_applied",
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-01T21:44:59.693089+00:00",
+      "fetched": 86,
+      "pages": 6,
+      "errors": [],
+      "status": "success"
+    },
     {
       "at": "2026-11-01T19:20:48.619747+00:00",
       "fetched": 86,
@@ -11673,13 +11639,6 @@
     },
     {
       "at": "2026-10-25T15:39:28.406967+00:00",
-      "fetched": 82,
-      "pages": 6,
-      "errors": [],
-      "status": "success"
-    },
-    {
-      "at": "2026-10-25T15:35:06.256026+00:00",
       "fetched": 82,
       "pages": 6,
       "errors": [],

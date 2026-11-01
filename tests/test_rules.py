@@ -58,4 +58,10 @@ class EligibilityTests(unittest.TestCase):
         self.assertIsNone(job['salary']['min'])
         self.assertEqual(job['eligibility'],'pending')
 
+    def test_desirable_english_is_not_a_mandatory_requirement(self):
+        job=self.job(requiresEnglish=False, portugueseConfirmed=False,
+                     salary=dict(min=7000,max=10000,currency='BRL',period='monthly'))
+        self.assertEqual(job['eligibility'],'pending')
+        self.assertNotIn('Exige inglês; busca restrita a português',job['rejectionReasons'])
+
 if __name__=='__main__':unittest.main()

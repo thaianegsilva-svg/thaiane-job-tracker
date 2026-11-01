@@ -183,7 +183,12 @@ def main():
         if job_id not in jobs: continue
         job = jobs[job_id]
         job['verification'] = override
+        # Facts checked against the original publication override feed heuristics.
+        for key in ['requiresEnglish', 'portugueseConfirmed', 'workMode', 'city', 'officeDays', 'salary', 'active']:
+            if key in override:
+                job[key] = override[key]
         job['applicationNote'] = override['note']
+        classify(job)
         if override.get('unmetRequirements'):
             job['unmetRequirements'] = override['unmetRequirements']
             job['rejectionReasons'] = list(dict.fromkeys(job['rejectionReasons'] + override['unmetRequirements']))
