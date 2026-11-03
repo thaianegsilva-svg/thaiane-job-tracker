@@ -91,7 +91,11 @@ def classify(job):
     if not job.get('portugueseConfirmed'): missing.append('idioma de trabalho em português')
     salary = job.get('salary') or {}
     low, high = salary.get('min'), salary.get('max')
-    if salary.get('currency') != 'BRL' or salary.get('period') != 'monthly':
+    # An undisclosed salary is explicitly allowed by the candidate. A disclosed
+    # salary still has to be comparable as fixed monthly BRL and clear the floor.
+    if low is None and high is None:
+        job['salaryUndisclosed'] = True
+    elif salary.get('currency') != 'BRL' or salary.get('period') != 'monthly':
         missing.append('remuneração mensal em reais')
     elif low is None:
         if high is not None and high <= 7000: rejected.append('Salário até R$ 7.000')

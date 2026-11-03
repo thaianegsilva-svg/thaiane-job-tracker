@@ -6,7 +6,7 @@ Site: https://thaianegsilva-svg.github.io/thaiane-job-tracker/
 
 ## Critérios
 
-- Remuneração **mensal em BRL estritamente acima de R$ 7.000**. Faixa que cruza o limite exige confirmação.
+- Vagas sem salário divulgado podem seguir para candidatura. Quando houver remuneração divulgada, ela deve ser **mensal em BRL e estritamente acima de R$ 7.000**; faixa que cruza o limite exige confirmação.
 - Remoto ou híbrido **somente em Belo Horizonte, até 2 dias presenciais/semana**.
 - Trabalho em português. Anúncio em português, sozinho, não confirma o idioma de trabalho.
 - Avaliação de todas as exigências da vaga antes de envio; UX/produto não é presumido como especialidade da candidata.
@@ -19,7 +19,7 @@ O workflow `radar.yml` coleta metadados públicos da Remotar (até três página
 
 Uma automação assistida do Codex complementa a pesquisa nas outras fontes, revisa requisitos e tenta os envios autorizados quando houver acesso e dados suficientes. Ela depende do computador ligado e do Codex em execução. A coleta do GitHub funciona independentemente do computador.
 
-**O GitHub Pages é estático:** não contém credenciais nem envia candidaturas ou mensagens por conta própria. Botões abrem a candidatura e preparam uma mensagem para solicitar os dados faltantes. Só registrar `applied` ou `contacted` compartilhado quando houver evidência real do envio. Nunca confundir geração de mensagem com envio.
+**O GitHub Pages é estático:** não contém credenciais nem envia candidaturas ou mensagens por conta própria. Botões abrem a candidatura e preparam uma apresentação profissional. Só registrar `applied` ou `contacted` compartilhado quando houver evidência real do envio. Nunca confundir geração de mensagem com envio.
 
 ## Acompanhamento
 
@@ -74,8 +74,9 @@ Não há dependências Python externas. JavaScript sem build. Ações oficiais d
 1. Sincronizar `main` sem sobrescrever alterações locais. Conferir execução e cobertura do coletor.
 2. Consultar os comprovantes privados em `.private/*-contact.json` e verificar respostas na conta correta, sem reenviar solicitações já registradas. Nunca publicar os comprovantes ou links das conversas.
 3. Pesquisar as fontes de `config.json`: Remotar, trampos, LinkedIn, Gupy, 99jobs, Behance, Indeed, Glassdoor, Catho, InfoJobs, Vagas.com, MeuHome e Robô de Vagas; consultar Empregos.com.br, Domestika, Remotive e Remote Rocketship como complemento. Validar anúncios originais dos cargos em português. Deduplicar pelo link original/empresa/cargo; não inventar vagas, salário ou contato. Não usar médias ou estimativas de mercado como salário confirmado da vaga.
-4. Revalidar modalidade, BH/dias, salário fixo mensal em reais, idioma, atividade da vaga e todos os requisitos obrigatórios contra o currículo privado.
-5. Quando faltar salário, idioma ou dias presenciais, procurar o recrutador identificado no anúncio. Enviar uma pergunta objetiva somente por canal verificado e com a identidade real do remetente; mencionar que está auxiliando a candidata se a conta for de outra pessoa. Sem contato verificável, registrar bloqueio, sem adivinhar e-mail.
-6. Tentar candidatar apenas com dados verdadeiros e a conta da candidata. Não responder perguntas pessoais desconhecidas nem aceitar termos/compromissos em nome dela. Interromper no ponto que exigir intervenção humana.
-7. Registrar envio somente com protocolo, URL ou evidência verificável. Comprovantes privados ficam privados. Publicar apenas situação e referência pública, sem conteúdo de mensagens.
-8. Atualizar `data/jobs.json`, validar, fazer commit/push e conferir deploy. Notificar somente novas oportunidades relevantes, envios, falhas ou ação necessária.
+4. Revalidar modalidade, BH/dias, idioma, atividade da vaga e todos os requisitos obrigatórios contra o currículo privado. Salário ausente não bloqueia; salário divulgado precisa ser fixo mensal em reais e estritamente acima de R$ 7.000.
+5. Para cada vaga aderente com salário ausente ou suficiente, criar em `.private/` um currículo DOCX específico e compatível com ATS, partindo do currículo mestre em `.private/curriculo-ats/`. Usar somente fatos comprovados, adaptar resumo, título, competências e palavras-chave ao anúncio e renderizar para verificar a diagramação antes do envio. Nunca versionar ou publicar o currículo.
+6. Tentar candidatar com o currículo específico, dados verdadeiros e a conta correta da candidata. Não inventar respostas pessoais, contornar CAPTCHA nem aceitar novos termos ou compromissos em nome dela; interromper no ponto que exigir intervenção humana.
+7. Quando houver recrutador ou canal institucional verificado, enviar uma apresentação profissional curta depois da candidatura, com a identidade real da remetente e referência à vaga. Não inventar destinatário, não reenviar mensagem duplicada e não usar conta de terceiros como se fosse Thaiane.
+8. Registrar candidatura e contato somente com protocolo, URL ou evidência verificável. Comprovantes, mensagens e currículos ficam privados. Publicar apenas situação e referência pública.
+9. Atualizar `data/jobs.json`, validar, fazer commit/push e conferir deploy. Notificar somente novas oportunidades relevantes, envios, falhas ou ação necessária.

@@ -32,7 +32,10 @@ class EligibilityTests(unittest.TestCase):
     def test_eligible(self): self.assertEqual(self.job()['eligibility'],'eligible')
     def test_exactly_7000_is_excluded(self): self.assertEqual(self.job(salary=dict(min=7000,max=7000,currency='BRL',period='monthly'))['eligibility'],'excluded')
     def test_range_crosses_limit_pending(self): self.assertEqual(self.job(salary=dict(min=6000,max=9000,currency='BRL',period='monthly'))['eligibility'],'pending')
-    def test_missing_salary_pending(self): self.assertEqual(self.job(salary={})['eligibility'],'pending')
+    def test_missing_salary_is_allowed(self):
+        job=self.job(salary={})
+        self.assertEqual(job['eligibility'],'eligible')
+        self.assertTrue(job['salaryUndisclosed'])
     def test_annual_salary_not_monthly(self): self.assertEqual(self.job(salary=dict(min=96000,currency='BRL',period='annual'))['eligibility'],'pending')
     def test_pt_ad_does_not_confirm_language(self): self.assertEqual(self.job(portugueseConfirmed=False)['eligibility'],'pending')
     def test_english_excluded(self): self.assertEqual(self.job(requiresEnglish=True)['eligibility'],'excluded')

@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-03T17:07:41.099772+00:00",
-  "lastSuccessAt": "2026-11-03T17:07:41.099772+00:00",
+  "updatedAt": "2026-11-03T17:16:05.568569+00:00",
+  "lastSuccessAt": "2026-11-03T17:16:05.568569+00:00",
   "coverage": "Remotar: até 3 páginas por termo. LinkedIn e outras fontes: pesquisa assistida pelo Codex; cada vaga mantém a data da própria verificação.",
   "jobs": [
     {
@@ -38,6 +38,7 @@
       "contactedAt": "2026-10-19T15:07:26.118742+00:00",
       "applicationNote": "Solicitação enviada ao canal oficial de Carreiras da Nest pelo LinkedIn, com confirmação de envio. Aguardar salário mensal fixo acima de R$ 7.000, idioma de trabalho e remoto para residente em BH. Confirmar se Premiere é indispensável ou se aceitam experiência em edição de vídeo/After Effects com adaptação; Premiere não consta do currículo. Figma apenas desejável. Exigência de dedicação exclusiva durante o período de atuação também precisa ser validada antes de eventual candidatura. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-19T15:07:26.118742+00:00",
+      "salaryUndisclosed": true,
       "score": 80,
       "signals": [
         "photoshop",
@@ -47,8 +48,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -85,6 +85,7 @@
       "description": "Criação de peças para redes sociais, identidade visual, apresentações B2B, materiais de eventos e campanhas. Requer experiência em design gráfico e domínio de Figma e/ou Adobe Photoshop, Illustrator e InDesign; Adobe é alternativa aceita no texto. Motion, IA generativa e experiência em saúde/educação são diferenciais. Trabalho remoto com alinhamentos online; contratação por projeto ou demanda recorrente a combinar.",
       "applicationNote": "Aderência temática e ferramentas Adobe compatíveis. Sem confirmação de valor fixo mensal acima de R$ 7.000, idioma de trabalho e disponibilidade da candidata para o modelo por projeto/demanda. Recrutador individual não identificado no anúncio; página oficial da Onet não disponibiliza mensagens ou canal Carreiras no LinkedIn. Contato bloqueado por ausência de canal de recrutamento verificável. Nenhuma candidatura ou mensagem enviada.",
       "firstSeenAt": "2026-10-20T15:06:05.409180+00:00",
+      "salaryUndisclosed": true,
       "score": 80,
       "signals": [
         "photoshop",
@@ -94,8 +95,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -184,6 +184,7 @@
       "description": "Design editorial e diagramação de materiais educacionais digitais e impressos. Exige Adobe Illustrator, Photoshop, Acrobat, Bridge, InDesign e Word/Excel básicos; MathType desejável. Anúncio informa híbrido para BH e região ou remoto, CLT, 44 horas semanais. Salário, idioma e quantidade de dias presenciais não informados.",
       "applicationNote": "Original Gupy ativo conferido. Adobe e diagramação alinhados ao currículo; conhecimentos em Acrobat, Bridge, Word e Excel não estão explicitamente comprovados. Consulta enviada e confirmada no canal oficial Carreiras da Bernoulli sobre faixa fixa mensal em reais acima de R$ 7.000, idioma, dias presenciais/opção remota para BH e caráter eliminatório dessas ferramentas. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-24T17:54:37.862803+00:00",
+      "salaryUndisclosed": true,
       "score": 74,
       "signals": [
         "photoshop",
@@ -193,8 +194,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -279,6 +279,7 @@
       "description": "Criação de peças digitais, PDV, impressos, anúncios, campanhas, branding e apresentações. Requer formação em Design ou área correlata, Photoshop e Illustrator avançados, experiência e portfólio. RD Station, Salesforce, vídeo, animação, UX/UI e HTML aparecem como desejáveis ou diferenciais. LinkedIn informa híbrido em Belo Horizonte; original Gupy ativo, sem salário ou dias presenciais.",
       "applicationNote": "Anúncio original Gupy conferido, com candidatura aberta. Requisitos técnicos centrais compatíveis com currículo. Pendente confirmação de remuneração fixa mensal em BRL acima de R$ 7.000, idioma português e no máximo 2 dias presenciais por semana. Recrutador individual e canal direto de recrutamento não identificados no anúncio ou página oficial da empresa; LinkedIn da Carbel não oferece mensagens. Nenhum contato ou candidatura enviado.",
       "firstSeenAt": "2026-10-21T15:09:26.381101+00:00",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -287,8 +288,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -487,7 +487,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-10T19:52:01.365-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -510,6 +510,7 @@
       "recruiterUrl": null,
       "applicationStatus": "not_applied",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -517,8 +518,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -533,7 +533,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-13T16:16:33.053-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -556,6 +556,7 @@
       "recruiterUrl": null,
       "applicationStatus": "not_applied",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -563,8 +564,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -719,7 +719,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-23T16:38:28.799-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -742,6 +742,7 @@
       "recruiterUrl": null,
       "applicationStatus": "not_applied",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -749,8 +750,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -765,7 +765,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-07T18:11:17.460-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -789,6 +789,7 @@
       "recruiterUrl": null,
       "applicationStatus": "not_applied",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -796,8 +797,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -812,7 +812,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-08T18:19:24.524-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -835,6 +835,7 @@
       "recruiterUrl": null,
       "applicationStatus": "not_applied",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -842,8 +843,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -858,7 +858,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-29T20:37:45.825-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -883,6 +883,7 @@
       "recruiterUrl": "https://fitoag.com.br/",
       "applicationStatus": "contacted",
       "applicationNote": "Página original da InHire respondeu normalmente e a vaga permanece publicada. A descrição pública da Remotar informa 100% remoto, enquanto uma publicação oficial recente da Fito no LinkedIn informa vagas presenciais em Ribeirão Preto. Consulta enviada ao e-mail institucional publicado no site oficial para esclarecer modalidade, atividade, nível, remuneração, idioma e Claude. Nenhuma candidatura enviada.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -890,8 +891,7 @@
         "identidade visual"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -940,14 +940,14 @@
       "contactedAt": "2026-10-31T14:55:13.9129686-03:00",
       "applicationNote": "Consulta enviada ao canal de recrutamento explicitamente publicado no anúncio para confirmar atividade da seleção, regime, remuneração fixa mensal em reais acima de R$ 7.000, idioma e remoto a partir de Belo Horizonte. Nenhuma candidatura ou currículo foi enviado.",
       "firstSeenAt": "2026-10-31T14:55:13.9129686-03:00",
+      "salaryUndisclosed": true,
       "score": 62,
       "signals": [
         "campanhas",
         "direcao de arte"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -991,8 +991,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -1001,7 +1000,8 @@
         "checkedAt": "2026-10-16T03:15:00Z",
         "url": "https://auvotecnologia.inhire.app/vagas/c4146d2f-3890-4874-954c-5123bb88c473/growth-brand-designer-pleno",
         "note": "Link original da Auvo retorna página de link inválido. Atividade da vaga e canal de recrutamento precisam de confirmação."
-      }
+      },
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-157001",
@@ -1085,6 +1085,7 @@
       "contactedAt": "2026-10-17T15:28:13.199930+00:00",
       "applicationNote": "Solicitação enviada ao canal oficial de Carreiras do Grupo MCX pelo LinkedIn para confirmar salário mensal fixo acima de R$ 7.000, idioma e até 2 dias presenciais em BH. Envio confirmado pelo LinkedIn. Aguardar resposta antes de candidatar. Portal Sólides informou manutenção de login e candidaturas em 17/10 até 17h; anúncio segue acessível.",
       "firstSeenAt": "2026-10-17T15:28:13.199930+00:00",
+      "salaryUndisclosed": true,
       "score": 62,
       "signals": [
         "editorial",
@@ -1092,8 +1093,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -1107,7 +1107,7 @@
       "source": "Remotar",
       "sourceSystem": "trampos",
       "publishedAt": "2026-10-23T15:57:16.744-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1130,14 +1130,14 @@
       "recruiterUrl": "https://www.linkedin.com/company/agenciacanta/",
       "applicationStatus": "contacted",
       "applicationNote": "Novo anúncio temporário 774937 ativo verificado na trampos. O anterior 774921 redireciona à listagem. Consulta específica sobre substituição da seleção, duração do contrato e remuneração mensal enviada na conversa oficial de Carreiras da Canta, remetendo às perguntas anteriores sobre salário acima de R$ 7.000, idioma e remoto de BH. Envio confirmado. Disponibilidade em horário comercial e contrato temporário ainda precisam ser confirmadas com a candidata antes de eventual candidatura. Nenhuma candidatura enviada.",
+      "salaryUndisclosed": true,
       "score": 62,
       "signals": [
         "identidade visual",
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -1187,14 +1187,14 @@
       "contactedAt": "2026-10-31T14:54:13.1041092-03:00",
       "applicationNote": "Página oficial da InHire permanece publicada e a listagem completa da Remotar informa contrato PJ e 100% remoto. Os requisitos obrigatórios consultados são compatíveis com as competências comprovadas; experiência com cinema, ilustração e IA aparece como diferencial. Consulta enviada ao contato institucional publicado no site oficial para confirmar atividade, nível, remuneração, idioma e remoto a partir de Belo Horizonte. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-31T15:03:10.617683+00:00",
+      "salaryUndisclosed": true,
       "score": 62,
       "signals": [
         "photoshop",
         "illustrator"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -1238,13 +1238,13 @@
       "description": "Motion design para vídeos verticais, tutoriais de software, vinhetas e infográficos. After Effects obrigatório; Illustrator OU Figma para vetores. Premiere OU DaVinci para montagem e portfólio com UI, explainers ou infográficos exigidos. Modalidade 100% remota. Salário, moeda e idioma de trabalho não divulgados.",
       "applicationNote": "Anúncio original ativo conferido na conta de Thaiane. Illustrator atende à alternativa ao Figma. Premiere/DaVinci e portfólio específico ainda não comprovados. Consulta enviada ao canal de recrutamento explicitamente publicado pela Infocode para confirmar remuneração fixa mensal em BRL acima de R$ 7.000, idioma, remoto do Brasil e exigências. Envio confirmado; nenhuma candidatura realizada.",
       "firstSeenAt": "2026-10-21T15:08:12.526867+00:00",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "illustrator"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -1557,8 +1557,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -1567,7 +1566,8 @@
         "checkedAt": "2026-10-16T03:13:00Z",
         "url": "https://remotar.com.br/job/159525",
         "note": "Requer 5 anos ou mais em direção de arte, Visual Aids e experiência em indústria farmacêutica. Essas exigências específicas não estão comprovadas no currículo fornecido. Salário e idioma de trabalho ausentes; recrutador individual não identificado no anúncio público."
-      }
+      },
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-160946",
@@ -1624,7 +1624,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-16T16:00:16.848-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1649,13 +1649,13 @@
       "recruiterUrl": null,
       "applicationStatus": "not_applied",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -1696,13 +1696,13 @@
       "contactedAt": "2026-10-25T15:38:53.480539+00:00",
       "applicationNote": "Consulta enviada ao canal oficial da empresa para confirmar remuneração fixa mensal em reais acima de R$ 7.000, idioma e remoto a partir de BH. Turnos noturnos/fim de semana e emissão de nota PJ dependem de confirmação da candidata. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-25T15:38:53.480539+00:00",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "illustrator"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -1789,8 +1789,7 @@
         "identidade visual"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending",
@@ -1799,7 +1798,8 @@
         "checkedAt": "2026-10-17T15:28:13.199930+00:00",
         "url": "https://yooper.inhire.app/vagas/c6d56449-461e-4d0a-b1e2-14596645fc8d/designer-de-crm-freelacer",
         "note": "Anúncio original ativo e remoto BR. Exige 3 a 5 anos em design digital, e-mails marketing, Photoshop/Illustrator e boas práticas de UX/UI aplicadas às peças. Trabalho freelancer conforme volume e cronograma; remuneração fixa mensal acima de R$ 7.000 e idioma não confirmados. Especialização em CRM e disponibilidade freelancer precisam de validação. Sem recrutador ou canal de Carreiras identificado no anúncio original; nenhum contato ou candidatura enviado."
-      }
+      },
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-168610",
@@ -1810,7 +1810,7 @@
       "source": "Remotar",
       "sourceSystem": "trampos",
       "publishedAt": "2026-10-28T16:33:45.400-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -1886,11 +1886,11 @@
       "contactedAt": "2026-10-26T15:13:33.008125+00:00",
       "applicationNote": "Consulta enviada ao contato institucional publicado na página original, após autorização específica do usuário, para confirmar remuneração fixa mensal acima de R$ 7.000, idioma, remoto a partir de BH, regime e carga horária. Aguardando resposta. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-26T15:11:52.540Z",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -2067,6 +2067,7 @@
       "description": "Direção de arte para campanhas, identidades visuais, redes sociais, apresentações e impressos. Exige Photoshop e Illustrator, composição, tipografia, tratamento de imagens, diagramação, experiência e portfólio. Disponibilidade em horário comercial a confirmar com a candidata antes de envio. Figma, InDesign, motion, vídeo e IA são desejáveis. Original informa modelo remoto e contrato PJ; salário e idioma de trabalho ausentes.",
       "applicationNote": "Anúncio anterior 774921 redireciona à listagem geral da trampos na consulta atual. Encerrado no acompanhamento, preservando o contato anterior. Nova seleção temporária 774937 registrada separadamente; a empresa foi consultada sobre possível substituição, vigência e condições. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-22T15:05:09.278576+00:00",
+      "salaryUndisclosed": true,
       "score": 80,
       "signals": [
         "photoshop",
@@ -2076,8 +2077,7 @@
         "direcao de arte"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inscrições encerradas na página original"
@@ -2701,6 +2701,7 @@
       ],
       "applicationNote": "Excluída após confirmação da candidata: não possui Figma, cujo domínio é obrigatório. Salário e idioma também não estão confirmados. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-16T03:23:50Z",
+      "salaryUndisclosed": true,
       "score": 74,
       "signals": [
         "photoshop",
@@ -2709,8 +2710,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir"
@@ -2728,7 +2728,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-14T14:58:42.673-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -2751,6 +2751,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 74,
       "signals": [
         "photoshop",
@@ -2760,8 +2761,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -2809,6 +2809,7 @@
       ],
       "applicationNote": "Contato já enviado pelo LinkedIn para confirmar remuneração, idioma e condições do remoto. Posteriormente, a candidata confirmou que não possui Figma, exigido no anúncio. PowerPoint e ChatGPT para criação: avançados. Não candidatar enquanto o requisito obrigatório de Figma permanecer. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-16T03:23:50Z",
+      "salaryUndisclosed": true,
       "score": 74,
       "signals": [
         "photoshop",
@@ -2817,8 +2818,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Conhecimento de Figma exigido; candidata informou não possuir"
@@ -2836,7 +2836,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T21:02:04.235-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -2860,6 +2860,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 74,
       "signals": [
         "photoshop",
@@ -2868,8 +2869,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -2938,7 +2938,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-29T02:10:45.595-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -2961,6 +2961,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 74,
       "signals": [
         "photoshop",
@@ -2969,8 +2970,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca"
@@ -2988,7 +2988,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-29T12:53:45.592-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3012,6 +3012,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 74,
       "signals": [
         "photoshop",
@@ -3020,8 +3021,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca"
@@ -3039,7 +3039,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:50:23.286-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3385,7 +3385,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-26T17:34:13.536-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Porto Alegre",
       "officeDays": null,
@@ -3408,6 +3408,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3416,8 +3417,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3435,7 +3435,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-26T17:34:27.745-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -3458,6 +3458,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3466,8 +3467,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3485,7 +3485,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-31T18:06:12.733-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Sete Lagoas",
       "officeDays": null,
@@ -3508,6 +3508,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3516,8 +3517,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3687,7 +3687,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-16T20:58:38.995-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3712,6 +3712,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3719,8 +3720,7 @@
         "indesign"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -3738,7 +3738,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T19:32:23.739-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Uberlândia",
       "officeDays": null,
@@ -3761,6 +3761,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3769,8 +3770,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3837,7 +3837,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T20:40:13.632-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -3860,6 +3860,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3867,8 +3868,7 @@
         "indesign"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -3886,7 +3886,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T19:55:27.994-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Jundiaí",
       "officeDays": null,
@@ -3909,6 +3909,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3917,8 +3918,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3936,7 +3936,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-27T20:29:26.029-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -3959,6 +3959,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 68,
       "signals": [
         "photoshop",
@@ -3967,8 +3968,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
@@ -4183,7 +4183,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-25T13:34:12.974-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -4206,6 +4206,7 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 62,
       "signals": [
         "identidade visual",
@@ -4213,8 +4214,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -4404,6 +4404,7 @@
       "applicationStatus": "closed",
       "applicationNote": "Excluída após conferência do texto original: local presencial é Betim. Nenhum envio realizado.",
       "firstSeenAt": "2026-10-16T03:23:50Z",
+      "salaryUndisclosed": true,
       "score": 62,
       "signals": [
         "photoshop",
@@ -4411,8 +4412,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -4456,13 +4456,13 @@
       "contactedAt": "2026-10-28T13:03:49.1886255-03:00",
       "applicationNote": "A empresa respondeu que a vaga já foi preenchida. Encerrada no acompanhamento e sem novo contato. Nenhuma candidatura ou currículo foi enviado.",
       "firstSeenAt": "2026-10-28T13:03:49.1886255-03:00",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa"
@@ -4498,13 +4498,13 @@
       "description": "Criação de peças para campanhas e lançamentos, redes sociais e vídeos. A página original informa inscrições encerradas. As menções a trabalho remoto no conteúdo não reabrem a seleção.",
       "applicationNote": "Inscrições encerradas na página original; nenhum contato ou candidatura realizado.",
       "firstSeenAt": "2026-10-16T15:06:53.168112+00:00",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa"
@@ -4545,14 +4545,14 @@
       ],
       "applicationNote": "Anúncio original publicado pela Eyemobile no LinkedIn revisado. Incompatível com híbrido somente em BH e competência Figma. Nenhum envio realizado.",
       "firstSeenAt": "2026-10-20T15:06:05.409180+00:00",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Atuação híbrida em São Paulo exigida no texto original",
@@ -4601,13 +4601,13 @@
       "contactStatus": "not_sent",
       "applicationNote": "Encerrada no acompanhamento por requisitos obrigatórios incompatíveis. Nenhuma candidatura ou contato foi enviado.",
       "firstSeenAt": "2026-11-03T12:20:00-03:00",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "direcao de arte"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Figma avançado obrigatório; a candidata informou não possuir Figma",
@@ -4702,8 +4702,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
@@ -4721,7 +4720,8 @@
       "unmetRequirements": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-145048",
@@ -4808,8 +4808,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
@@ -4827,7 +4826,8 @@
       "unmetRequirements": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-152504",
@@ -4866,8 +4866,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
@@ -4885,7 +4884,8 @@
       "unmetRequirements": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-156076",
@@ -4974,8 +4974,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
@@ -4993,7 +4992,8 @@
       "unmetRequirements": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-158422",
@@ -5101,7 +5101,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-03T18:32:33.217-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5127,13 +5127,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -5225,8 +5225,7 @@
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa",
@@ -5240,7 +5239,8 @@
         "url": "https://www.linkedin.com/jobs/view/4464218613/",
         "note": "Anúncio da mesma vaga na Prizma Mídia indica que não aceita novas candidaturas. Aguardar uma nova seleção."
       },
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-161967",
@@ -5428,8 +5428,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa",
@@ -5443,7 +5442,8 @@
         "url": "https://vemsergrupoolx.gupy.io/job/eyJqb2JJZCI6MTI1NDU4NjIsInNvdXJjZSI6InJlbW90YXIifQ==?jobBoardSource=remotar",
         "note": "Página original da Gupy indica candidaturas encerradas. Não candidatar nem contatar sobre esta seleção encerrada."
       },
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-164132",
@@ -5482,8 +5482,7 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Faixa salarial de R$ 3.500 no anúncio original; não supera R$ 7.000"
@@ -5501,7 +5500,8 @@
       "unmetRequirements": [
         "Faixa salarial de R$ 3.500 no anúncio original; não supera R$ 7.000"
       ],
-      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata."
+      "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-164431",
@@ -5562,7 +5562,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-25T20:50:00.095-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -5587,14 +5587,14 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "photoshop"
       ],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -5660,7 +5660,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-02T13:32:59.239-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -5683,13 +5683,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "remuneração mensal em reais"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -5709,7 +5709,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-06T00:07:27.472-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5734,13 +5734,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "identidade visual"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -5758,7 +5758,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-09T18:22:20.418-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5781,13 +5781,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Anúncio original ativo informa remoto, mas exige domínio de Figma e certificação Destrava Receita. Figma não é atendido e a certificação não consta do currículo. Salário não divulgado; nenhum envio realizado.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata não possui Figma"
@@ -5816,7 +5816,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-16T20:42:16.464-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5840,13 +5840,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "indesign"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -5864,7 +5864,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T15:16:41.301-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5888,13 +5888,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "direcao de arte"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -5912,7 +5912,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-23T13:21:03.235-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5937,13 +5937,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -5961,7 +5961,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-26T19:27:44.622-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -5987,13 +5987,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "illustrator"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
@@ -6012,7 +6012,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-27T16:49:07.910-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -6037,13 +6037,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "photoshop"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -6062,7 +6062,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-27T20:38:33.429-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -6085,13 +6085,13 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Descrição completa publicada pela Remotar exige Figma, além de Premiere, certificação Destrava Receita e outros requisitos. A página original da InHire não estava acessível na verificação. Encerrada somente no acompanhamento por incompatibilidade com Figma obrigatório; nenhum contato ou candidatura enviado.",
+      "salaryUndisclosed": true,
       "score": 56,
       "signals": [
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Figma obrigatório na descrição completa; candidata informou não possuir"
@@ -6189,11 +6189,11 @@
       ],
       "applicationNote": "Página original da Gupy passou a informar inscrições encerradas. Mantida a incompatibilidade por residência obrigatória em Recife. Nenhuma candidatura enviada.",
       "firstSeenAt": "2026-10-16T15:06:53.168112+00:00",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa",
@@ -6234,11 +6234,11 @@
       ],
       "applicationNote": "Revisada na conta de Thaiane. Excluída por requisito obrigatório não atendido; sem candidatura ou contato.",
       "firstSeenAt": "2026-10-16T15:06:53.168112+00:00",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Figma em nível especialista obrigatório; candidata não possui Figma"
@@ -6285,11 +6285,11 @@
       ],
       "applicationNote": "Original LinkedIn ativo conferido. Fora do foco técnico e experiência comprovada da candidata. Salário e idioma de trabalho não confirmados; não inferidos a partir do anúncio em inglês. Nenhum envio realizado.",
       "firstSeenAt": "2026-10-22T15:10:21.807293+00:00",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -6332,11 +6332,11 @@
       "description": "Design gráfico remoto para equipes dos Estados Unidos: redes sociais, anúncios, materiais de marketing, apresentações e marcas. Exige 2+ anos de experiência, portfólio e Adobe e/ou Figma. O anúncio exige expressamente inglês escrito e falado para trabalhar com equipes dos EUA, e jornada geralmente alinhada ao horário comercial americano.",
       "applicationNote": "Original LinkedIn ativo revisado na conta da Thaiane. Adobe atende à alternativa ao Figma, mas inglês escrito e falado obrigatório contraria o critério de trabalho em português. Remuneração não divulgada. Encerrada no acompanhamento; nenhum contato ou candidatura enviado.",
       "firstSeenAt": "2026-10-23T15:06:49.052938+00:00",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -6378,11 +6378,11 @@
       "description": "Serviços de design gráfico, motion, infográficos, vídeos e gestão de redes sociais para startup de transplantes e IA. Exige proficiência profissional em inglês escrito e leitura porque o conteúdo é produzido em inglês. Mínimo de 20 horas semanais, remoto a partir do Brasil. Proficiência em ferramentas de IA obrigatória, sem produtos específicos.",
       "applicationNote": "Original LinkedIn ativo revisado. Conteúdo explicitamente em inglês e proficiência profissional obrigatória contrariam o critério de trabalho em português. Nenhum contato ou candidatura enviado.",
       "firstSeenAt": "2026-10-24T17:54:37.862803+00:00",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -6428,11 +6428,11 @@
       "contactStatus": "not_sent",
       "applicationNote": "Encerrada no acompanhamento por requisitos obrigatórios incompatíveis. Nenhuma candidatura ou contato foi enviado.",
       "firstSeenAt": "2026-11-03T12:22:00-03:00",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Figma obrigatório; a candidata informou não possuir Figma",
@@ -8032,7 +8032,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-24T16:44:38.971-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -8055,11 +8055,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -8077,7 +8077,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-25T03:00:01.657-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -8099,11 +8099,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -8395,7 +8395,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-29T13:17:06.755-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -8418,12 +8418,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -8488,7 +8488,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-29T21:15:53.417-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -8511,11 +8511,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -8533,7 +8533,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-30T13:22:06.935-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Campo Bom",
       "officeDays": null,
@@ -8556,12 +8556,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -8920,7 +8920,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T13:54:19.312-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -8943,11 +8943,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -8966,7 +8966,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T17:59:04.428-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Barueri",
       "officeDays": null,
@@ -8990,12 +8990,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -9015,7 +9015,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T21:55:04.265-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -9038,12 +9038,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
@@ -9110,7 +9110,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-06T00:40:57.069-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -9157,7 +9157,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-08T00:20:12.512-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9181,11 +9181,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -9540,7 +9540,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-13T16:45:15.153-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9564,11 +9564,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -9678,7 +9678,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-15T20:57:17.082-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9703,11 +9703,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -9772,7 +9772,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-16T19:10:28.787-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -9795,12 +9795,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -9819,7 +9819,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-17T15:07:25.050-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9911,7 +9911,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T11:28:57.967-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -9933,12 +9933,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -9956,7 +9956,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T14:19:33.153-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10054,7 +10054,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T15:30:21.844-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Novo Hamburgo",
       "officeDays": null,
@@ -10077,12 +10077,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
@@ -10101,7 +10101,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T17:03:08.611-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10123,11 +10123,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -10236,7 +10236,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T20:12:24.226-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10262,11 +10262,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
@@ -10284,7 +10284,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-21T11:41:41.574-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10307,11 +10307,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -10376,7 +10376,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-21T17:27:25.675-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10400,11 +10400,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -10469,7 +10469,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T15:52:26.245-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10491,11 +10491,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -10584,8 +10584,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inglês avançado obrigatório; busca restrita a português",
@@ -10609,7 +10608,8 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
       "duplicateIds": [
         "remotar-169157"
-      ]
+      ],
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-167547",
@@ -10645,8 +10645,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Inglês avançado obrigatório; busca restrita a português",
@@ -10670,7 +10669,8 @@
       "closedReason": "Encerrada no acompanhamento por estar fora dos critérios da candidata.",
       "duplicateIds": [
         "remotar-169158"
-      ]
+      ],
+      "salaryUndisclosed": true
     },
     {
       "id": "remotar-167665",
@@ -10681,7 +10681,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T19:49:14.122-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -10704,12 +10704,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -10729,7 +10729,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-22T21:31:12.371-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10753,11 +10753,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -10775,7 +10775,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T10:58:27.833-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10799,11 +10799,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -10822,7 +10822,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T11:00:22.893-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10846,11 +10846,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -10868,7 +10868,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T12:48:22.099-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10890,11 +10890,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Original da Stone ativo revisado: cargo de especialista em design conversacional, arquitetura de jornadas multicanal, governança e liderança técnica de experiências com IA. Uso avançado de ChatGPT não comprova essa especialização. Encerrado no acompanhamento; nenhum envio realizado.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade em design conversacional e arquitetura de fluxos multicanal fora do foco e não comprovada no currículo"
@@ -10923,7 +10923,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T12:50:29.166-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10946,11 +10946,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -10968,7 +10968,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-26T17:46:21.435-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10991,11 +10991,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11013,7 +11013,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-27T15:58:58.596-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11038,11 +11038,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11061,7 +11061,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-29T12:42:00.747-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11086,11 +11086,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11109,7 +11109,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-29T16:42:10.971-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11131,11 +11131,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11153,7 +11153,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T00:17:15.617-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11176,11 +11176,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11198,7 +11198,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T13:09:33.044-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11220,11 +11220,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11242,7 +11242,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:11:16.717-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11264,11 +11264,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11286,7 +11286,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:14:08.091-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11308,11 +11308,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11330,7 +11330,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-30T19:22:40.140-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11354,11 +11354,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "salário mensal fixo acima de R$ 7.000"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11376,7 +11376,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T20:36:17.698-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11400,11 +11400,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
@@ -11422,7 +11422,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T20:42:35.852-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11467,7 +11467,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:10:20.404-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11492,11 +11492,11 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11515,7 +11515,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:24:00.227-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Porto Alegre",
       "officeDays": null,
@@ -11539,12 +11539,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11563,7 +11563,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:24:42.921-03:00",
-      "checkedAt": "2026-11-03T17:07:41.099772+00:00",
+      "checkedAt": "2026-11-03T17:16:05.568569+00:00",
       "workMode": "hybrid",
       "city": "Porto Alegre",
       "officeDays": null,
@@ -11587,12 +11587,12 @@
       "recruiterUrl": null,
       "applicationStatus": "closed",
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
+      "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
       "missing": [
         "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11639,13 +11639,13 @@
       "contactStatus": "not_sent",
       "applicationNote": "Encerrada no acompanhamento por requisitos obrigatórios incompatíveis. Nenhuma candidatura ou contato foi enviado.",
       "firstSeenAt": "2026-11-03T12:24:00-03:00",
+      "salaryUndisclosed": true,
       "score": 0,
       "signals": [
         "direcao de arte"
       ],
       "missing": [
-        "idioma de trabalho em português",
-        "remuneração mensal em reais"
+        "idioma de trabalho em português"
       ],
       "rejectionReasons": [
         "Cargo fora do foco",
@@ -11660,6 +11660,13 @@
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-03T17:16:05.568569+00:00",
+      "fetched": 86,
+      "pages": 6,
+      "errors": [],
+      "status": "success"
+    },
     {
       "at": "2026-11-03T17:07:41.099772+00:00",
       "fetched": 86,
@@ -11858,13 +11865,6 @@
     },
     {
       "at": "2026-10-27T15:07:40.516203+00:00",
-      "fetched": 81,
-      "pages": 6,
-      "errors": [],
-      "status": "success"
-    },
-    {
-      "at": "2026-10-27T15:05:37.327695+00:00",
       "fetched": 81,
       "pages": 6,
       "errors": [],
