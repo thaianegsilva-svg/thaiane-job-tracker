@@ -1084,5 +1084,30 @@
     "applicationStatus": "not_applied",
     "contactStatus": "not_sent",
     "applicationNote": "Encerrada no acompanhamento por requisitos obrigatórios incompatíveis. Nenhum currículo, candidatura ou contato foi enviado."
+  },
+  {
+    "id": "linkedin-feed-eszcomunicacao-20261105",
+    "title": "Diretor(a) de Arte Pleno/Sênior",
+    "company": "ESZ Comunicação",
+    "url": "https://www.linkedin.com/company/eszcomunicacao/posts/",
+    "applyUrl": "https://www.linkedin.com/company/eszcomunicacao/posts/",
+    "source": "LinkedIn",
+    "publishedAt": "2026-11-04T12:00:00-03:00",
+    "publishedAtPrecision": "approximate",
+    "checkedAt": "2026-11-05T12:12:00-03:00",
+    "workMode": "remote",
+    "city": null,
+    "officeDays": 0,
+    "salary": {"min": null, "max": null, "currency": null, "period": null},
+    "portugueseConfirmed": false,
+    "adLanguage": "pt-BR",
+    "requiresEnglish": false,
+    "tags": ["Direção de arte", "Pleno/Sênior", "Campanhas", "Key Visual", "Adobe", "IA", "Remoto"],
+    "description": "Vaga 100% home office para campanhas publicitárias ON e OFF, desdobramentos para PDV e digital e desenvolvimento de conceitos e Key Visuals. Exige experiência prévia em direção de arte pleno/sênior, Photoshop, Illustrator, familiaridade com ferramentas de IA aplicadas à criação, organização e capacidade de apresentar soluções. Blender é apenas diferencial. O anúncio está em português e não divulga salário, mas não confirma explicitamente o idioma cotidiano do trabalho.",
+    "active": true,
+    "recruiterUrl": "https://www.linkedin.com/company/eszcomunicacao/",
+    "applicationStatus": "not_applied",
+    "contactStatus": "not_sent",
+    "applicationNote": "Pendente apenas da confirmação de trabalho em português. O salário está totalmente ausente e, por isso, não bloqueia. ChatGPT avançado atende ao exemplo de ferramenta de IA mencionado; Nano Banana não foi tratado como obrigatório individualmente. Nenhum currículo específico, candidatura ou contato foi enviado. O anúncio publica um canal de candidatura, mantido apenas no registro privado da rodada."
   }
 ]
