@@ -8,7 +8,7 @@ Site: https://thaianegsilva-svg.github.io/thaiane-job-tracker/
 
 - Vagas sem salário divulgado podem seguir para candidatura. Quando houver remuneração divulgada, ela deve ser **mensal em BRL e estritamente acima de R$ 7.000**; faixa que cruza o limite exige confirmação.
 - Remoto ou híbrido **somente em Belo Horizonte, até 2 dias presenciais/semana**.
-- Trabalho em português. Anúncio em português, sozinho, não confirma o idioma de trabalho.
+- Idioma não divulgado não bloqueia a candidatura. Exigências explícitas de proficiência continuam sendo avaliadas contra o currículo.
 - Avaliação de todas as exigências da vaga antes de envio; UX/produto não é presumido como especialidade da candidata.
 
 Perfil público: [LinkedIn](https://www.linkedin.com/in/thaiane-siao/) e [Behance](https://www.behance.net/thaianesilva3). Currículo e dados de contato ficam fora deste repositório público.
@@ -74,7 +74,7 @@ Não há dependências Python externas. JavaScript sem build. Ações oficiais d
 1. Sincronizar `main` sem sobrescrever alterações locais. Conferir execução e cobertura do coletor.
 2. Consultar os comprovantes privados em `.private/*-contact.json` e verificar respostas na conta correta, sem reenviar solicitações já registradas. Nunca publicar os comprovantes ou links das conversas.
 3. Pesquisar as fontes de `config.json`: Remotar, trampos, LinkedIn, Gupy, 99jobs, Behance, Indeed, Glassdoor, Catho, InfoJobs, Vagas.com, MeuHome e Robô de Vagas; consultar Empregos.com.br, Domestika, Remotive e Remote Rocketship como complemento. Validar anúncios originais dos cargos em português. Deduplicar pelo link original/empresa/cargo; não inventar vagas, salário ou contato. Não usar médias ou estimativas de mercado como salário confirmado da vaga.
-4. Revalidar modalidade, BH/dias, idioma, atividade da vaga e todos os requisitos obrigatórios contra o currículo privado. Salário ausente não bloqueia; salário divulgado precisa ser fixo mensal em reais e estritamente acima de R$ 7.000.
+4. Revalidar modalidade, BH/dias, atividade da vaga e todos os requisitos obrigatórios contra o currículo privado. Não exigir confirmação do idioma quando ele estiver ausente; exigências explícitas de proficiência continuam sendo avaliadas. Salário ausente não bloqueia; salário divulgado precisa ser fixo mensal em reais e estritamente acima de R$ 7.000.
 5. Para cada vaga aderente com salário ausente ou suficiente, criar em `.private/` um currículo DOCX específico e compatível com ATS, partindo do currículo mestre em `.private/curriculo-ats/`. Usar somente fatos comprovados, adaptar resumo, título, competências e palavras-chave ao anúncio e renderizar para verificar a diagramação antes do envio. Nunca versionar ou publicar o currículo.
 6. Tentar candidatar com o currículo específico, dados verdadeiros e a conta correta da candidata. Não inventar respostas pessoais, contornar CAPTCHA nem aceitar novos termos ou compromissos em nome dela; interromper no ponto que exigir intervenção humana.
 7. Quando houver recrutador ou canal institucional verificado, enviar uma apresentação profissional curta depois da candidatura, com a identidade real da remetente e referência à vaga. Não inventar destinatário, não reenviar mensagem duplicada e não usar conta de terceiros como se fosse Thaiane.

@@ -7,7 +7,7 @@
     "skills": ["Photoshop", "Illustrator", "InDesign", "Canva", "Identidade visual", "Campanhas", "Design editorial", "Edição de vídeo", "PowerPoint avançado", "ChatGPT avançado para cotidiano e criação"],
     "location": "Belo Horizonte, MG"
   },
-  "criteria": {"salaryAbove": 7000, "allowUndisclosedSalary": true, "currency": "BRL", "period": "monthly", "hybridCity": "Belo Horizonte", "maxOfficeDays": 2, "language": "pt-BR"},
+  "criteria": {"salaryAbove": 7000, "allowUndisclosedSalary": true, "currency": "BRL", "period": "monthly", "hybridCity": "Belo Horizonte", "maxOfficeDays": 2, "languageConfirmationRequired": false},
   "queries": ["designer", "diretor de arte", "design editorial", "branding"],
   "sources": [
     {"name": "Remotar", "url": "https://remotar.com.br/search/jobs?q=designer", "priority": 1, "mode": "Coleta automática", "reason": "Vagas remotas e híbridas com categorias Design e Marketing; agrega Gupy, Inhire e outros portais. Salário nem sempre disponível."},

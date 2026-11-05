@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-05T15:11:31.378198+00:00",
-  "lastSuccessAt": "2026-11-05T15:11:31.378198+00:00",
+  "updatedAt": "2026-11-05T16:13:06.707394+00:00",
+  "lastSuccessAt": "2026-11-05T16:13:06.707394+00:00",
   "coverage": "Remotar: até 3 páginas por termo. LinkedIn e outras fontes: pesquisa assistida pelo Codex; cada vaga mantém a data da própria verificação.",
   "jobs": [
     {
@@ -47,11 +47,9 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending"
+      "eligibility": "eligible"
     },
     {
       "id": "linkedin-4478671959",
@@ -94,11 +92,9 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending"
+      "eligibility": "eligible"
     },
     {
       "id": "remotar-139490",
@@ -193,8 +189,7 @@
         "editorial"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -281,9 +276,10 @@
       "description": "Vaga 100% home office para campanhas publicitárias ON e OFF, desdobramentos para PDV e digital e desenvolvimento de conceitos e Key Visuals. Exige experiência prévia em direção de arte pleno/sênior, Photoshop, Illustrator, familiaridade com ferramentas de IA aplicadas à criação, organização e capacidade de apresentar soluções. Blender é apenas diferencial. O anúncio está em português e não divulga salário, mas não confirma explicitamente o idioma cotidiano do trabalho.",
       "active": true,
       "recruiterUrl": "https://www.linkedin.com/company/eszcomunicacao/",
-      "applicationStatus": "not_applied",
-      "contactStatus": "not_sent",
-      "applicationNote": "Pendente apenas da confirmação de trabalho em português. O salário está totalmente ausente e, por isso, não bloqueia. ChatGPT avançado atende ao exemplo de ferramenta de IA mencionado; Nano Banana não foi tratado como obrigatório individualmente. Nenhum currículo específico, candidatura ou contato foi enviado. O anúncio publica um canal de candidatura, mantido apenas no registro privado da rodada.",
+      "applicationStatus": "applied",
+      "contactStatus": "sent",
+      "contactedAt": "2026-11-05T13:12:34-03:00",
+      "applicationNote": "Candidatura enviada pelo canal oficial publicado no anúncio, com currículo específico ATS e apresentação profissional. Como o Gmail conectado pertence a Vitor, a mensagem informou claramente que ele auxilia Thaiane e definiu o e-mail dela como endereço de resposta. Idioma não divulgado não bloqueia por instrução da candidata. O salário está totalmente ausente e, por isso, também não bloqueia. ChatGPT avançado atende ao exemplo de ferramenta de IA mencionado; Nano Banana não foi tratado como obrigatório individualmente.",
       "firstSeenAt": "2026-11-05T12:12:00-03:00",
       "salaryUndisclosed": true,
       "score": 74,
@@ -293,11 +289,9 @@
         "campanhas",
         "direcao de arte"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending"
+      "eligibility": "eligible"
     },
     {
       "id": "linkedin-4478945473",
@@ -339,8 +333,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -539,7 +532,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-10T19:52:01.365-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -569,11 +562,9 @@
         "illustrator",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
@@ -585,7 +576,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-13T16:16:33.053-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -615,11 +606,9 @@
         "illustrator",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
@@ -771,7 +760,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-23T16:38:28.799-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -801,11 +790,9 @@
         "illustrator",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
@@ -817,7 +804,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-07T18:11:17.460-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -848,11 +835,9 @@
         "illustrator",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
@@ -864,7 +849,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-08T18:19:24.524-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -894,11 +879,9 @@
         "illustrator",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
@@ -943,11 +926,9 @@
         "campanhas",
         "direcao de arte"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending"
+      "eligibility": "eligible"
     },
     {
       "id": "remotar-140848",
@@ -987,11 +968,9 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
       "verification": {
         "checkedAt": "2026-10-16T03:15:00Z",
@@ -1089,8 +1068,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [],
       "eligibility": "pending"
@@ -1104,7 +1082,7 @@
       "source": "Remotar",
       "sourceSystem": "trampos",
       "publishedAt": "2026-10-23T15:57:16.744-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1133,11 +1111,9 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "contactStatus": "sent",
       "contactedAt": "2026-10-24T17:54:37.862803+00:00",
       "firstSeenAt": "2026-10-24T17:48:47.611962+00:00",
@@ -1190,11 +1166,9 @@
         "identidade visual",
         "direcao de arte"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "verification": {
         "checkedAt": "2026-10-30T12:04:06.0744265-03:00",
         "url": "https://v4company.inhire.app/vagas/504762ac-05e6-4800-a8fa-969f36226b6a/diretor-de-arte-fito",
@@ -1244,11 +1218,9 @@
         "photoshop",
         "illustrator"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "verification": {
         "checkedAt": "2026-10-31T14:54:13.1041092-03:00",
         "url": "https://lumine.inhire.app/vagas/adf97d11-d393-495a-a609-a8c0d10b597b/designer-grafico",
@@ -1294,11 +1266,9 @@
       "signals": [
         "illustrator"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "duplicateIds": [
         "remotar-167274"
       ]
@@ -1607,11 +1577,9 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00",
       "verification": {
         "checkedAt": "2026-10-16T03:13:00Z",
@@ -1675,7 +1643,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-16T16:00:16.848-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -1705,11 +1673,9 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-16T03:04:38.019262+00:00"
     },
     {
@@ -1752,11 +1718,9 @@
       "signals": [
         "illustrator"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending"
+      "eligibility": "eligible"
     },
     {
       "id": "remotar-163567",
@@ -1839,11 +1803,9 @@
       "signals": [
         "identidade visual"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending",
+      "eligibility": "eligible",
       "firstSeenAt": "2026-10-17T15:06:25.691719+00:00",
       "verification": {
         "checkedAt": "2026-10-17T15:28:13.199930+00:00",
@@ -1861,7 +1823,7 @@
       "source": "Remotar",
       "sourceSystem": "trampos",
       "publishedAt": "2026-10-28T16:33:45.400-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -1888,7 +1850,6 @@
         "campanhas"
       ],
       "missing": [
-        "idioma de trabalho em português",
         "oferta efetiva acima de R$ 7.000 (faixa cruza o limite)"
       ],
       "rejectionReasons": [],
@@ -1940,11 +1901,9 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [],
-      "eligibility": "pending"
+      "eligibility": "eligible"
     },
     {
       "id": "remotar-156454",
@@ -2127,9 +2086,7 @@
         "campanhas",
         "direcao de arte"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inscrições encerradas na página original"
       ],
@@ -2815,9 +2772,7 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir"
       ],
@@ -2834,7 +2789,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-14T14:58:42.673-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -2866,8 +2821,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -2923,9 +2877,7 @@
         "indesign",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Conhecimento de Figma exigido; candidata informou não possuir"
       ],
@@ -2942,7 +2894,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T21:02:04.235-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -2974,9 +2926,7 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -3044,7 +2994,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-29T02:10:45.595-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -3075,9 +3025,7 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca"
       ],
@@ -3094,7 +3042,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-29T12:53:45.592-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3126,9 +3074,7 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca"
       ],
@@ -3145,7 +3091,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:50:23.286-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3175,9 +3121,7 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
         "Salário não supera R$ 7.000"
@@ -3195,7 +3139,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-11-03T20:30:02.348-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -3226,9 +3170,7 @@
         "indesign",
         "editorial"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
         "Salário não supera R$ 7.000"
@@ -3542,7 +3484,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-26T17:34:13.536-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Porto Alegre",
       "officeDays": null,
@@ -3573,8 +3515,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3592,7 +3533,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-26T17:34:27.745-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -3623,8 +3564,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3642,7 +3582,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-31T18:06:12.733-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Sete Lagoas",
       "officeDays": null,
@@ -3673,8 +3613,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3844,7 +3783,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-16T20:58:38.995-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -3876,9 +3815,7 @@
         "illustrator",
         "indesign"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -3895,7 +3832,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T19:32:23.739-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Uberlândia",
       "officeDays": null,
@@ -3926,8 +3863,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -3994,7 +3930,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T20:40:13.632-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -4024,9 +3960,7 @@
         "illustrator",
         "indesign"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -4043,7 +3977,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T19:55:27.994-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Jundiaí",
       "officeDays": null,
@@ -4074,8 +4008,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -4093,7 +4026,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-27T20:29:26.029-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -4124,8 +4057,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
@@ -4144,7 +4076,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-11-03T17:12:47.801-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -4175,9 +4107,7 @@
         "illustrator",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -4390,7 +4320,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-08-25T13:34:12.974-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -4420,8 +4350,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -4618,8 +4547,7 @@
         "illustrator"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -4637,7 +4565,7 @@
       "source": "Remotar",
       "sourceSystem": "trampos",
       "publishedAt": "2026-11-03T20:32:32.729-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -4666,9 +4594,7 @@
         "identidade visual",
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
         "Salário não supera R$ 7.000"
@@ -4717,9 +4643,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa"
       ],
@@ -4759,9 +4683,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa"
       ],
@@ -4807,8 +4729,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Atuação híbrida em São Paulo exigida no texto original",
@@ -4862,9 +4783,7 @@
       "signals": [
         "direcao de arte"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Figma avançado obrigatório; a candidata informou não possuir Figma",
         "Fluência prática em Claude e outras ferramentas de IA obrigatória não comprovada",
@@ -4957,9 +4876,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
@@ -5063,9 +4980,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
@@ -5121,9 +5036,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
@@ -5229,9 +5142,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata informou não possuir Figma"
       ],
@@ -5357,7 +5268,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-09-03T18:32:33.217-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5388,9 +5299,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -5480,8 +5389,7 @@
         "campanhas"
       ],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa",
@@ -5683,9 +5591,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa",
         "Inscrições encerradas na página original"
@@ -5737,9 +5643,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Faixa salarial de R$ 3.500 no anúncio original; não supera R$ 7.000"
       ],
@@ -5965,7 +5869,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-06T00:07:27.472-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -5995,9 +5899,7 @@
       "signals": [
         "identidade visual"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -6014,7 +5916,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-09T18:22:20.418-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -6042,9 +5944,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Domínio de Figma obrigatório; candidata não possui Figma"
       ],
@@ -6072,7 +5972,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-16T20:42:16.464-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -6101,9 +6001,7 @@
       "signals": [
         "indesign"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -6120,7 +6018,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T15:16:41.301-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -6149,9 +6047,7 @@
       "signals": [
         "direcao de arte"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -6168,7 +6064,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-23T13:21:03.235-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -6198,9 +6094,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -6217,7 +6111,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-26T19:27:44.622-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -6248,9 +6142,7 @@
       "signals": [
         "illustrator"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
         "Exige inglês; busca restrita a português"
@@ -6268,7 +6160,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-27T16:49:07.910-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -6298,9 +6190,7 @@
       "signals": [
         "photoshop"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
         "Exige inglês; busca restrita a português"
@@ -6318,7 +6208,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-27T20:38:33.429-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -6346,9 +6236,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Figma obrigatório na descrição completa; candidata informou não possuir"
       ],
@@ -6411,9 +6299,7 @@
       "signals": [
         "campanhas"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Figma forte obrigatório; a candidata informou não possuir Figma",
         "Comunicação forte em inglês e apresentação à liderança obrigatórias",
@@ -6504,9 +6390,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inscrições encerradas ou vaga inativa",
         "Residência obrigatória em Recife, incompatível com a candidata em Belo Horizonte"
@@ -6549,9 +6433,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Figma em nível especialista obrigatório; candidata não possui Figma"
       ],
@@ -6600,9 +6482,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
         "Atuação principal em UI e design systems fora da especialidade confirmada",
@@ -6647,9 +6527,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -6693,9 +6571,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -6743,9 +6619,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Figma obrigatório; a candidata informou não possuir Figma",
         "Comunicação sólida em inglês obrigatória",
@@ -6793,9 +6667,7 @@
       "firstSeenAt": "2026-11-03T12:26:00-03:00",
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inglês fluente obrigatório",
         "Remuneração máxima de R$ 5.000, abaixo do mínimo estritamente superior a R$ 7.000",
@@ -9278,7 +9150,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T17:59:04.428-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Barueri",
       "officeDays": null,
@@ -9306,8 +9178,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -9327,7 +9198,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-05T21:55:04.265-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -9354,8 +9225,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
@@ -9422,7 +9292,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-06T00:40:57.069-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -9450,7 +9320,6 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
         "remuneração mensal em reais"
       ],
       "rejectionReasons": [
@@ -9469,7 +9338,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-08T00:20:12.512-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9496,9 +9365,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -9852,7 +9719,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-13T16:45:15.153-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9879,9 +9746,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -9898,7 +9763,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-15T01:54:22.652-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -9925,9 +9790,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
         "Exige inglês; busca restrita a português"
@@ -9990,7 +9853,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-15T20:57:17.082-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10018,9 +9881,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -10131,7 +9992,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-17T15:07:25.050-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10158,7 +10019,6 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
         "remuneração mensal em reais"
       ],
       "rejectionReasons": [
@@ -10202,9 +10062,7 @@
       "firstSeenAt": "2026-10-18T18:02:36.366254+00:00",
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte",
         "Mais de 2 dias presenciais por semana",
@@ -10223,7 +10081,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T11:28:57.967-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -10249,8 +10107,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Híbrido fora de Belo Horizonte"
@@ -10268,7 +10125,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T14:19:33.153-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10294,9 +10151,7 @@
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português",
         "Salário não supera R$ 7.000"
@@ -10366,7 +10221,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-19T15:30:21.844-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Novo Hamburgo",
       "officeDays": null,
@@ -10393,8 +10248,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Senioridade inicial fora do foco desta busca",
@@ -10413,7 +10267,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-19T17:03:08.611-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10438,9 +10292,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -10548,7 +10400,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-20T20:12:24.226-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10577,9 +10429,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Exige inglês; busca restrita a português"
       ],
@@ -10688,7 +10538,7 @@
       "source": "Remotar",
       "sourceSystem": "gupy",
       "publishedAt": "2026-10-21T17:27:25.675-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -10715,9 +10565,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -10781,7 +10629,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T15:52:26.245-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -10806,9 +10654,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -10895,9 +10741,7 @@
       "applicationNote": "Original da BairesDev ativo conferido: exige inglês avançado, modelagem/animação em 3ds Max e portfólio avançado de iluminação/renderização. Perfil fornecido não comprova essas exigências. Encerrada no acompanhamento; nenhum contato ou candidatura enviado.",
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inglês avançado obrigatório; busca restrita a português",
         "Domínio de Autodesk 3ds Max, portfólio 3D fotorrealista e 5+ anos em motion 3D não comprovados no currículo"
@@ -10956,9 +10800,7 @@
       "applicationNote": "Original da BairesDev ativo conferido: exige inglês avançado e especialização em modelagem, renderização e visualização arquitetônica 3D com 3ds Max. Requisitos fora do perfil comprovado. Encerrada no acompanhamento; nenhum contato ou candidatura enviado.",
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Inglês avançado obrigatório; busca restrita a português",
         "Autodesk 3ds Max avançado, visualização arquitetônica e 5+ anos de experiência 3D não comprovados no currículo"
@@ -10993,7 +10835,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-22T19:49:14.122-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "São Paulo",
       "officeDays": null,
@@ -11020,8 +10862,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11087,7 +10928,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T10:58:27.833-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11114,9 +10955,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
         "Senioridade inicial fora do foco desta busca"
@@ -11134,7 +10973,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T11:00:22.893-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11161,9 +11000,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11180,7 +11017,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T12:48:22.099-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11205,9 +11042,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade em design conversacional e arquitetura de fluxos multicanal fora do foco e não comprovada no currículo"
       ],
@@ -11235,7 +11070,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-23T12:50:29.166-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11261,9 +11096,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11280,7 +11113,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-26T17:46:21.435-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11306,9 +11139,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11325,7 +11156,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-27T15:58:58.596-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11353,9 +11184,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
         "Exige inglês; busca restrita a português"
@@ -11373,7 +11202,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-29T12:42:00.747-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11401,9 +11230,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
         "Exige inglês; busca restrita a português"
@@ -11421,7 +11248,7 @@
       "source": "Remotar",
       "sourceSystem": "inhire",
       "publishedAt": "2026-10-29T16:42:10.971-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11446,9 +11273,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11465,7 +11290,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T00:17:15.617-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11491,9 +11316,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11510,7 +11333,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T13:09:33.044-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11535,9 +11358,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11554,7 +11375,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:11:16.717-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11579,9 +11400,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11598,7 +11417,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-30T17:14:08.091-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11623,9 +11442,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11642,7 +11459,7 @@
       "source": "Remotar",
       "sourceSystem": "solides",
       "publishedAt": "2026-10-30T19:22:40.140-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11669,9 +11486,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11688,7 +11503,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T20:36:17.698-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -11715,9 +11530,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11734,7 +11547,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T20:42:35.852-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11760,9 +11573,7 @@
       "applicationNote": "Aguardando validação dos requisitos e acesso à conta da candidata.",
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -11779,7 +11590,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:10:20.404-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -11807,9 +11618,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
         "Exige inglês; busca restrita a português"
@@ -11827,7 +11636,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:24:00.227-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Porto Alegre",
       "officeDays": null,
@@ -11855,8 +11664,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11875,7 +11683,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-10-31T21:24:42.921-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "hybrid",
       "city": "Porto Alegre",
       "officeDays": null,
@@ -11903,8 +11711,7 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "quantidade de dias presenciais por semana",
-        "idioma de trabalho em português"
+        "quantidade de dias presenciais por semana"
       ],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil",
@@ -11957,7 +11764,6 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
         "remuneração mensal em reais"
       ],
       "rejectionReasons": [
@@ -11979,7 +11785,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-11-04T17:18:59.974-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": "",
       "officeDays": null,
@@ -12005,9 +11811,7 @@
       "salaryUndisclosed": true,
       "score": 50,
       "signals": [],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Especialidade fora do foco principal do perfil"
       ],
@@ -12024,7 +11828,7 @@
       "source": "Remotar",
       "sourceSystem": null,
       "publishedAt": "2026-11-04T19:13:15.636-03:00",
-      "checkedAt": "2026-11-05T15:11:31.378198+00:00",
+      "checkedAt": "2026-11-05T16:13:06.707394+00:00",
       "workMode": "remote",
       "city": null,
       "officeDays": null,
@@ -12050,7 +11854,6 @@
       "score": 50,
       "signals": [],
       "missing": [
-        "idioma de trabalho em português",
         "remuneração mensal em reais"
       ],
       "rejectionReasons": [
@@ -12102,9 +11905,7 @@
       "signals": [
         "direcao de arte"
       ],
-      "missing": [
-        "idioma de trabalho em português"
-      ],
+      "missing": [],
       "rejectionReasons": [
         "Cargo fora do foco",
         "Figma obrigatório; a candidata informou não possuir Figma",
@@ -12118,6 +11919,13 @@
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-05T16:13:06.707394+00:00",
+      "fetched": 80,
+      "pages": 6,
+      "errors": [],
+      "status": "success"
+    },
     {
       "at": "2026-11-05T15:11:31.378198+00:00",
       "fetched": 80,
@@ -12338,13 +12146,6 @@
     {
       "at": "2026-10-30T19:49:58.899323+00:00",
       "fetched": 83,
-      "pages": 6,
-      "errors": [],
-      "status": "success"
-    },
-    {
-      "at": "2026-10-30T15:05:13.408947+00:00",
-      "fetched": 84,
       "pages": 6,
       "errors": [],
       "status": "success"

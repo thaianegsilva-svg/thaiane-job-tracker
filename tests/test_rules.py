@@ -37,7 +37,7 @@ class EligibilityTests(unittest.TestCase):
         self.assertEqual(job['eligibility'],'eligible')
         self.assertTrue(job['salaryUndisclosed'])
     def test_annual_salary_not_monthly(self): self.assertEqual(self.job(salary=dict(min=96000,currency='BRL',period='annual'))['eligibility'],'pending')
-    def test_pt_ad_does_not_confirm_language(self): self.assertEqual(self.job(portugueseConfirmed=False)['eligibility'],'pending')
+    def test_undisclosed_work_language_is_allowed(self): self.assertEqual(self.job(portugueseConfirmed=False)['eligibility'],'eligible')
     def test_english_excluded(self): self.assertEqual(self.job(requiresEnglish=True)['eligibility'],'excluded')
     def test_bh_two_days_eligible(self): self.assertEqual(self.job(workMode='hybrid',city='Belo Horizonte',officeDays=2)['eligibility'],'eligible')
     def test_bh_unknown_days_pending(self): self.assertEqual(self.job(workMode='hybrid',city='Belo Horizonte')['eligibility'],'pending')
@@ -59,7 +59,7 @@ class EligibilityTests(unittest.TestCase):
     def test_zero_is_undisclosed(self):
         job=convert(dict(id=1,title='Designer Gráfico',active=True,type='remote',jobSalary=dict(type='monthly',currency='BRL',**{'from':0,'to':0})), '2026-10-16T00:00:00+00:00')
         self.assertIsNone(job['salary']['min'])
-        self.assertEqual(job['eligibility'],'pending')
+        self.assertEqual(job['eligibility'],'eligible')
 
     def test_desirable_english_is_not_a_mandatory_requirement(self):
         job=self.job(requiresEnglish=False, portugueseConfirmed=False,

@@ -88,7 +88,9 @@ def classify(job):
         if job['workMode'] == 'unknown': missing.append('modalidade remota ou híbrida')
         else: rejected.append('Trabalho presencial')
     if job.get('requiresEnglish'): rejected.append('Exige inglês; busca restrita a português')
-    if not job.get('portugueseConfirmed'): missing.append('idioma de trabalho em português')
+    # By the candidate's explicit instruction, an undisclosed work language no
+    # longer blocks a vacancy. Explicit mandatory English remains a separate
+    # compatibility check against the confirmed profile.
     salary = job.get('salary') or {}
     low, high = salary.get('min'), salary.get('max')
     # An undisclosed salary is explicitly allowed by the candidate. A disclosed
